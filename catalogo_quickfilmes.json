@@ -1,4 +1,4861 @@
 {
-  "filmes": [],
+  "filmes": [
+    {
+      "type": "movie",
+      "title": "Coringa: Delírio a Dois",
+      "original_title": "Joker: Folie à Deux",
+      "tmdb_id": "889737",
+      "id": 889737,
+      "year": "2024",
+      "release_date": "2024-10-01",
+      "overview": "Arthur Fleck está institucionalizado em Arkham à espera do julgamento por seus crimes como Coringa. Enquanto luta com sua dupla identidade, Arthur não apenas se depara com o amor verdadeiro, como encontra a música que sempre esteve dentro dele.",
+      "tagline": "O mundo é um palco.",
+      "poster": "/9RmVr8dPWicFyPZ5JCQK3NcBNB5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/baTEUQbh5p6M6UkgEszHj1NCQ6D.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/jen5brSipDLgDlMbfnpUiqXJBet.png",
+      "trailer": "https://www.youtube.com/watch?v=kD6LoK5GcGw",
+      "vote_average": 5.393,
+      "vote_count": 3167,
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "runtime": 138,
+      "certification": "16",
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        "Warner Bros. Pictures",
+        "Joint Effort",
+        "Domain Entertainment"
+      ],
+      "external_ids": {
+        "imdb_id": "tt11315808",
+        "wikidata_id": "Q108628759",
+        "facebook_id": "jokermovie",
+        "instagram_id": "jokermovie",
+        "twitter_id": "jokermovie"
+      },
+      "sources": [],
+      "cast": [
+        {
+          "name": "Joaquin Phoenix",
+          "character": "Arthur Fleck",
+          "profile_path": "/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg",
+          "order": 0,
+          "id": 73421
+        },
+        {
+          "name": "Lady Gaga",
+          "character": "Lee Quinzel",
+          "profile_path": "/9Y4Pz7AEXhB9qNar2tMsx5EVXML.jpg",
+          "order": 1,
+          "id": 237405
+        },
+        {
+          "name": "Brendan Gleeson",
+          "character": "Jackie Sullivan",
+          "profile_path": "/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg",
+          "order": 2,
+          "id": 2039
+        },
+        {
+          "name": "Catherine Keener",
+          "character": "Maryanne Stewart",
+          "profile_path": "/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg",
+          "order": 3,
+          "id": 2229
+        },
+        {
+          "name": "Zazie Beetz",
+          "character": "Sophie Dumond",
+          "profile_path": "/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg",
+          "order": 4,
+          "id": 1545693
+        },
+        {
+          "name": "Steve Coogan",
+          "character": "Paddy Meyers",
+          "profile_path": "/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg",
+          "order": 5,
+          "id": 4581
+        },
+        {
+          "name": "Harry Lawtey",
+          "character": "Harvey Dent",
+          "profile_path": "/l2qFs3TntkZD0G3zFEd1o2DXSWX.jpg",
+          "order": 6,
+          "id": 2399836
+        },
+        {
+          "name": "Leigh Gill",
+          "character": "Gary Puddles",
+          "profile_path": "/stbbWD89FQWa34TNVyxVj5xBVIm.jpg",
+          "order": 7,
+          "id": 1416396
+        },
+        {
+          "name": "Ken Leung",
+          "character": "Dr. Victor Liu",
+          "profile_path": "/hpatUP6u74gkpDRmn9voNY9V43O.jpg",
+          "order": 8,
+          "id": 2131
+        },
+        {
+          "name": "Jacob Lofland",
+          "character": "Ricky Meline",
+          "profile_path": "/jU1eW9oOTC4ILfLNFeNUC7Fa5ya.jpg",
+          "order": 9,
+          "id": 1171570
+        },
+        {
+          "name": "Bill Smitrovich",
+          "character": "Judge Herman Rothwax",
+          "profile_path": "/dtLvDK5Z4PHzRj8ngtGake8YDsU.jpg",
+          "order": 10,
+          "id": 17200
+        },
+        {
+          "name": "Sharon Washington",
+          "character": "Debra Kane",
+          "profile_path": "/kZktXVoRLaETbNkiMoDBzFpdWVB.jpg",
+          "order": 11,
+          "id": 141748
+        },
+        {
+          "name": "Alfred Rubin Thompson",
+          "character": "Ernie Bullock",
+          "profile_path": "/qhyDts6pX5U2Q4LHRowpd6UFZn9.jpg",
+          "order": 12,
+          "id": 1072877
+        },
+        {
+          "name": "Connor Storrie",
+          "character": "Young Inmate",
+          "profile_path": "/ApBEzGlTz7sM839eT4vMQV3xmdg.jpg",
+          "order": 13,
+          "id": 4270366
+        },
+        {
+          "name": "Gregg Daniel",
+          "character": "Music Teacher",
+          "profile_path": "/7xdJpmeCUod0OEx5VlGpNuWQG7v.jpg",
+          "order": 14,
+          "id": 66653
+        },
+        {
+          "name": "Mac Brandt",
+          "character": "Arkham Guard",
+          "profile_path": "/u2zRIywRVcih7LsZIsybmbzwmJW.jpg",
+          "order": 15,
+          "id": 1215837
+        },
+        {
+          "name": "George Carroll",
+          "character": "Arkham Guard",
+          "profile_path": "/dtPCKR8BWu5Q7CnNRdHWY5dB7Jt.jpg",
+          "order": 16,
+          "id": 133067
+        },
+        {
+          "name": "John Lacy",
+          "character": "Arkham Guard",
+          "profile_path": "/9v2fOfR5UccdFbOuhn7UYmf4cRE.jpg",
+          "order": 17,
+          "id": 1180860
+        },
+        {
+          "name": "Tim Dillon",
+          "character": "Arkham Guard",
+          "profile_path": "/qEAS7a0ZjJhiUysuinZ0aBQABvX.jpg",
+          "order": 18,
+          "id": 2419859
+        },
+        {
+          "name": "Wayne Dehart",
+          "character": "E Ward Inmate",
+          "profile_path": "/lvSDWQ0TpkhsTmk9obaZLIxU0j2.jpg",
+          "order": 19,
+          "id": 1193431
+        },
+        {
+          "name": "Troy Fromin",
+          "character": "E Ward Inmate",
+          "profile_path": "",
+          "order": 20,
+          "id": 152995
+        },
+        {
+          "name": "Ajgie Kirkland",
+          "character": "E Ward Inmate",
+          "profile_path": "",
+          "order": 21,
+          "id": 1325966
+        },
+        {
+          "name": "Terrance T.P. Polite",
+          "character": "E Ward Inmate",
+          "profile_path": "",
+          "order": 22,
+          "id": 4982721
+        },
+        {
+          "name": "Jimmy Walker Jr.",
+          "character": "E Ward Inmate",
+          "profile_path": "/ucTGwh5gTwU3063omYa6FXtSZkC.jpg",
+          "order": 23,
+          "id": 2215982
+        },
+        {
+          "name": "Toney Wilson",
+          "character": "E Ward Inmate",
+          "profile_path": "/oEv8raSjZzoSzTXSSjMngdI2mpt.jpg",
+          "order": 24,
+          "id": 1386141
+        },
+        {
+          "name": "June Carryl",
+          "character": "Dr. Louise Beatty",
+          "profile_path": "/7p0lxKz4KGfUPc8r5q5j7N8vy5N.jpg",
+          "order": 25,
+          "id": 19979
+        },
+        {
+          "name": "Don McManus",
+          "character": "Paddy Meyers' Producer",
+          "profile_path": "/rGdpdQ0DDVDX4FlQzrdFGcOlRGB.jpg",
+          "order": 26,
+          "id": 79025
+        },
+        {
+          "name": "G.L. McQueary",
+          "character": "Head Bailiff",
+          "profile_path": "/n9tjsEiZMYf2RKykhO0f0EwnCYE.jpg",
+          "order": 27,
+          "id": 4304508
+        },
+        {
+          "name": "Angela D. Watson",
+          "character": "Jury Foreman",
+          "profile_path": "/zVTEtQg5wv5tOwf6tECtnjvAHTQ.jpg",
+          "order": 28,
+          "id": 2913409
+        },
+        {
+          "name": "Murphy Guyer",
+          "character": "White Chapel Minister",
+          "profile_path": "/6axiNcYIZmaeRKyfCm3xBHC7KQL.jpg",
+          "order": 29,
+          "id": 155547
+        },
+        {
+          "name": "Carson Higgins",
+          "character": "Junior Associate",
+          "profile_path": "/cMu3ITaS6Cen7arcxJCQV7orXOz.jpg",
+          "order": 30,
+          "id": 2797243
+        },
+        {
+          "name": "Gattlin Griffith",
+          "character": "Masked Joker Driver",
+          "profile_path": "/esMHJA8lP8y60AqJZH9JJBMIRIz.jpg",
+          "order": 31,
+          "id": 117885
+        },
+        {
+          "name": "Hudson Oz",
+          "character": "Joker Doppelganger",
+          "profile_path": "/ayugvJOh16PyG5TVrWPi9H3WwIR.jpg",
+          "order": 32,
+          "id": 2272625
+        },
+        {
+          "name": "Ray Lykins",
+          "character": "Victim's Dad",
+          "profile_path": "/9cJnf225TyU1uMPkgUemNgtxvgx.jpg",
+          "order": 33,
+          "id": 4608
+        },
+        {
+          "name": "Will Ropp",
+          "character": "Joker Fan #1",
+          "profile_path": "/hoe1bibgruxCGBNxkPyH4f9E7Jy.jpg",
+          "order": 34,
+          "id": 2551675
+        },
+        {
+          "name": "Ashton Moio",
+          "character": "Joker Fan #2",
+          "profile_path": "/33quyMobSxu2HNFE4HHT5w5RTLW.jpg",
+          "order": 35,
+          "id": 1317566
+        },
+        {
+          "name": "Emilio Rojas",
+          "character": "Joker Fan #3",
+          "profile_path": "",
+          "order": 36,
+          "id": 4982761
+        },
+        {
+          "name": "Joe Spinney",
+          "character": "Police Escort",
+          "profile_path": "",
+          "order": 37,
+          "id": 4982762
+        },
+        {
+          "name": "Richard Busser",
+          "character": "Additional Guard",
+          "profile_path": "",
+          "order": 38,
+          "id": 3307037
+        },
+        {
+          "name": "Brian Donahue",
+          "character": "Additional Guard",
+          "profile_path": "/ajWAfpzRuc9jI43kSWZjQ1s5mFf.jpg",
+          "order": 39,
+          "id": 159870
+        }
+      ],
+      "crew": [
+        {
+          "name": "Bill Finger",
+          "job": "Characters",
+          "department": "Writing",
+          "id": 198034,
+          "profile_path": "/aU2Wv9QL9qNG0UQosl1MKpp1icV.jpg"
+        },
+        {
+          "name": "Bob Kane",
+          "job": "Characters",
+          "department": "Writing",
+          "id": 3794,
+          "profile_path": "/vuXwrlqaUydA4t5SFVdQkK9KsZL.jpg"
+        },
+        {
+          "name": "Jerry Robinson",
+          "job": "Characters",
+          "department": "Writing",
+          "id": 1356195,
+          "profile_path": "/606OVQrzUFksbBERMiNxsm8MQtL.jpg"
+        },
+        {
+          "name": "Emma Tillinger Koskoff",
+          "job": "Producer",
+          "department": "Production",
+          "id": 45648,
+          "profile_path": "/yGcSq0w7n0JRpoarjQT1E9q3TSH.jpg"
+        },
+        {
+          "name": "Joseph Garner",
+          "job": "Producer",
+          "department": "Production",
+          "id": 1065353,
+          "profile_path": ""
+        },
+        {
+          "name": "Todd Phillips",
+          "job": "Producer",
+          "department": "Production",
+          "id": 57130,
+          "profile_path": "/A6FPht87DiqXzp456WjakLi2AtP.jpg"
+        },
+        {
+          "name": "Georgia Kacandes",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 2947,
+          "profile_path": "/Vct0XHfBGXNpl0xIifJbcPeJ57.jpg"
+        },
+        {
+          "name": "Jeff Groth",
+          "job": "Editor",
+          "department": "Editing",
+          "id": 961610,
+          "profile_path": "/bSYyuzRVZckYtVD19wfBGE3hbff.jpg"
+        },
+        {
+          "name": "Mia Bauman",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 2411447,
+          "profile_path": ""
+        },
+        {
+          "name": "Mitchell Beck",
+          "job": "Key Hair Stylist",
+          "department": "Costume & Make-Up",
+          "id": 1565739,
+          "profile_path": ""
+        },
+        {
+          "name": "Jessie Bishop",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 2855096,
+          "profile_path": ""
+        },
+        {
+          "name": "John Damiani",
+          "job": "Key Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 1930143,
+          "profile_path": ""
+        },
+        {
+          "name": "Jacqueline Fernandez",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 1543196,
+          "profile_path": ""
+        },
+        {
+          "name": "Heather Galipo",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 2059822,
+          "profile_path": ""
+        },
+        {
+          "name": "Kay Georgiou",
+          "job": "Hair Designer",
+          "department": "Costume & Make-Up",
+          "id": 117206,
+          "profile_path": ""
+        },
+        {
+          "name": "Brian Kinney",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 1547749,
+          "profile_path": "/ytSykhU3P2RdxFSw3dzFu5Cs4mM.jpg"
+        },
+        {
+          "name": "Nicki Ledermann",
+          "job": "Makeup Designer",
+          "department": "Costume & Make-Up",
+          "id": 1070138,
+          "profile_path": "/k1BSZD165iDQpo6XCRTanJ1Cvpj.jpg"
+        },
+        {
+          "name": "Alyssa Morgan",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 1252226,
+          "profile_path": ""
+        },
+        {
+          "name": "Martina Sykes",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 1548105,
+          "profile_path": ""
+        },
+        {
+          "name": "Sweet P. Vaughn",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 1842258,
+          "profile_path": "/pVMG7b4c3M3ULM9guI4jQUL9aIW.jpg"
+        },
+        {
+          "name": "Georgia Kacandes",
+          "job": "Unit Production Manager",
+          "department": "Production",
+          "id": 2947,
+          "profile_path": "/Vct0XHfBGXNpl0xIifJbcPeJ57.jpg"
+        },
+        {
+          "name": "Randy Manion",
+          "job": "Unit Production Manager",
+          "department": "Production",
+          "id": 3165966,
+          "profile_path": ""
+        },
+        {
+          "name": "David Webb",
+          "job": "First Assistant Director",
+          "department": "Directing",
+          "id": 82133,
+          "profile_path": ""
+        },
+        {
+          "name": "Trevor Tavares",
+          "job": "Second Assistant Director",
+          "department": "Directing",
+          "id": 1860323,
+          "profile_path": ""
+        },
+        {
+          "name": "Travis Rehwaldt",
+          "job": "First Assistant Director",
+          "department": "Directing",
+          "id": 4166913,
+          "profile_path": ""
+        },
+        {
+          "name": "Ryan Robert Howard",
+          "job": "Second Assistant Director",
+          "department": "Directing",
+          "id": 2482608,
+          "profile_path": ""
+        },
+        {
+          "name": "Brian Machleit",
+          "job": "Stunt Coordinator",
+          "department": "Crew",
+          "id": 1391698,
+          "profile_path": "/k488kl4tWUWIrhsrCluhxoPIaGU.jpg"
+        },
+        {
+          "name": "Todd Phillips",
+          "job": "Director",
+          "department": "Directing",
+          "id": 57130,
+          "profile_path": "/A6FPht87DiqXzp456WjakLi2AtP.jpg"
+        },
+        {
+          "name": "Todd Phillips",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 57130,
+          "profile_path": "/A6FPht87DiqXzp456WjakLi2AtP.jpg"
+        },
+        {
+          "name": "Scott Silver",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 324,
+          "profile_path": "/33ZiBPOsV43eS9Di5VJ75f87y8c.jpg"
+        },
+        {
+          "name": "Francine Maisler",
+          "job": "Casting",
+          "department": "Production",
+          "id": 6410,
+          "profile_path": "/j97ggx3P5YRTbXEtPorQq9ge9JH.jpg"
+        },
+        {
+          "name": "Bryan Mendoza",
+          "job": "Utility Sound",
+          "department": "Sound",
+          "id": 2136902,
+          "profile_path": ""
+        },
+        {
+          "name": "Steven A. Morrow",
+          "job": "Sound Mixer",
+          "department": "Sound",
+          "id": 1466245,
+          "profile_path": ""
+        },
+        {
+          "name": "Michael Kaleta",
+          "job": "Boom Operator",
+          "department": "Sound",
+          "id": 1634426,
+          "profile_path": ""
+        },
+        {
+          "name": "Lori DeLapp",
+          "job": "Costume Supervisor",
+          "department": "Costume & Make-Up",
+          "id": 1319137,
+          "profile_path": ""
+        },
+        {
+          "name": "Jason Ruder",
+          "job": "Executive Music Producer",
+          "department": "Crew",
+          "id": 1425395,
+          "profile_path": ""
+        },
+        {
+          "name": "Ken Haber",
+          "job": "Location Scout",
+          "department": "Art",
+          "id": 1645977,
+          "profile_path": ""
+        },
+        {
+          "name": "Aaron Hurvitz",
+          "job": "Location Scout",
+          "department": "Art",
+          "id": 1767954,
+          "profile_path": ""
+        },
+        {
+          "name": "Gregory Irwin",
+          "job": "First Assistant \"A\" Camera",
+          "department": "Camera",
+          "id": 1530723,
+          "profile_path": ""
+        },
+        {
+          "name": "John Reynolds",
+          "job": "Best Boy Grip",
+          "department": "Camera",
+          "id": 2895141,
+          "profile_path": ""
+        },
+        {
+          "name": "Rick Chavez",
+          "job": "Assistant Property Master",
+          "department": "Art",
+          "id": 1738167,
+          "profile_path": ""
+        },
+        {
+          "name": "Lawrence Sher",
+          "job": "Director of Photography",
+          "department": "Camera",
+          "id": 5387,
+          "profile_path": "/rcbHwQpmvw848ZvHaithgh7oNuF.jpg"
+        },
+        {
+          "name": "Arianne Phillips",
+          "job": "Costume Design",
+          "department": "Costume & Make-Up",
+          "id": 32797,
+          "profile_path": "/pZW5DiGSx0CP1gmZLxWSlYJcxHI.jpg"
+        },
+        {
+          "name": "Michael Uslan",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 10949,
+          "profile_path": "/cXiiH0SSk5UHCvHOVAhHX7tNuls.jpg"
+        },
+        {
+          "name": "Mark Friedberg",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 5670,
+          "profile_path": "/3vs2xBKrXlXmkZEHBdhb0R5eeSJ.jpg"
+        },
+        {
+          "name": "Hildur Guðnadóttir",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 1178828,
+          "profile_path": "/xkJTSLeYZkOqouzflrUNgLSC1lL.jpg"
+        },
+        {
+          "name": "Mark Friedberg",
+          "job": "Production Design",
+          "department": "Art",
+          "id": 5670,
+          "profile_path": "/3vs2xBKrXlXmkZEHBdhb0R5eeSJ.jpg"
+        },
+        {
+          "name": "Sydnie Ponic",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 2939852,
+          "profile_path": ""
+        },
+        {
+          "name": "Sarah Contant",
+          "job": "Set Designer",
+          "department": "Art",
+          "id": 1047108,
+          "profile_path": ""
+        },
+        {
+          "name": "Noelle King",
+          "job": "Set Designer",
+          "department": "Art",
+          "id": 1360094,
+          "profile_path": ""
+        },
+        {
+          "name": "Hogan Lee",
+          "job": "Set Designer",
+          "department": "Art",
+          "id": 2790538,
+          "profile_path": ""
+        },
+        {
+          "name": "Michael Thurman",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 1440062,
+          "profile_path": ""
+        },
+        {
+          "name": "Bruce Timm",
+          "job": "Characters",
+          "department": "Writing",
+          "id": 34934,
+          "profile_path": "/4G64qCUGFQ1Sfwa6MK7CzwAaHyL.jpg"
+        },
+        {
+          "name": "Paul Dini",
+          "job": "Characters",
+          "department": "Writing",
+          "id": 1211813,
+          "profile_path": "/yPRds0jAYIU1OETfZuwka5ro7lE.jpg"
+        },
+        {
+          "name": "Randall Poster",
+          "job": "Music Supervisor",
+          "department": "Sound",
+          "id": 52161,
+          "profile_path": ""
+        },
+        {
+          "name": "George Drakoulias",
+          "job": "Music Supervisor",
+          "department": "Sound",
+          "id": 1192700,
+          "profile_path": "/7oiF0TXUhNQRsugEkmwsOQyik0V.jpg"
+        },
+        {
+          "name": "Scott Silver",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 324,
+          "profile_path": "/33ZiBPOsV43eS9Di5VJ75f87y8c.jpg"
+        },
+        {
+          "name": "Jason Ruder",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1425395,
+          "profile_path": ""
+        },
+        {
+          "name": "Nitasha Bhambree",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 2224819,
+          "profile_path": "/uLEKCV7ewKgXfMfhLsQPy5gzIcx.jpg"
+        },
+        {
+          "name": "Erik Aadahl",
+          "job": "Supervising Sound Editor",
+          "department": "Sound",
+          "id": 1378695,
+          "profile_path": "/c02IxbuxyZR93j0gaothnjw1lsZ.jpg"
+        },
+        {
+          "name": "Shauna Duggins",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1660435,
+          "profile_path": "/wlfEakoNbtKGzkcxaI5WYjhYxJK.jpg"
+        },
+        {
+          "name": "David Webb",
+          "job": "Co-Producer",
+          "department": "Production",
+          "id": 4822146,
+          "profile_path": ""
+        },
+        {
+          "name": "Firat Averbek",
+          "job": "Casting",
+          "department": "Production",
+          "id": 4822148,
+          "profile_path": ""
+        },
+        {
+          "name": "Jared Patrick Gerbig",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 1729089,
+          "profile_path": ""
+        },
+        {
+          "name": "Erica Hohf",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 1790083,
+          "profile_path": ""
+        },
+        {
+          "name": "David Meyer",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 1395434,
+          "profile_path": ""
+        },
+        {
+          "name": "Gordon Stotz",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 2124403,
+          "profile_path": ""
+        },
+        {
+          "name": "Dan Webster",
+          "job": "Supervising Art Director",
+          "department": "Art",
+          "id": 11508,
+          "profile_path": ""
+        },
+        {
+          "name": "Matthew Bouchard",
+          "job": "Special Effects Technician",
+          "department": "Crew",
+          "id": 3485650,
+          "profile_path": ""
+        },
+        {
+          "name": "Michael Duenas",
+          "job": "Special Effects Technician",
+          "department": "Crew",
+          "id": 3084746,
+          "profile_path": ""
+        },
+        {
+          "name": "Matthew Lillis",
+          "job": "Special Effects",
+          "department": "Crew",
+          "id": 2081145,
+          "profile_path": ""
+        },
+        {
+          "name": "Brendon O'Dell",
+          "job": "Special Effects Coordinator",
+          "department": "Crew",
+          "id": 1472784,
+          "profile_path": ""
+        },
+        {
+          "name": "Carson O'Dell",
+          "job": "Special Effects",
+          "department": "Crew",
+          "id": 4822161,
+          "profile_path": ""
+        },
+        {
+          "name": "Marc Tantin",
+          "job": "Special Effects Technician",
+          "department": "Crew",
+          "id": 1605404,
+          "profile_path": ""
+        },
+        {
+          "name": "Taylor Walters",
+          "job": "Special Effects Technician",
+          "department": "Crew",
+          "id": 3149309,
+          "profile_path": ""
+        },
+        {
+          "name": "Meghan Currier",
+          "job": "Music Coordinator",
+          "department": "Sound",
+          "id": 1528942,
+          "profile_path": ""
+        },
+        {
+          "name": "Lady Gaga",
+          "job": "Music Consultant",
+          "department": "Sound",
+          "id": 237405,
+          "profile_path": "/9Y4Pz7AEXhB9qNar2tMsx5EVXML.jpg"
+        },
+        {
+          "name": "Mallory Thompson",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1825887,
+          "profile_path": "/eOOduyzyYIJuNNWJn2wXbjtOmcH.jpg"
+        },
+        {
+          "name": "Sylvain Chomet",
+          "job": "Animation",
+          "department": "Visual Effects",
+          "id": 21768,
+          "profile_path": "/hi5lgXJVDlw5oL8BVjdNur3hTNS.jpg"
+        },
+        {
+          "name": "Pete Chiappetta",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 4445622,
+          "profile_path": ""
+        },
+        {
+          "name": "Andrew Lary",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 4445623,
+          "profile_path": ""
+        },
+        {
+          "name": "Anthony Tittanegro",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 4445624,
+          "profile_path": "/3KPNXBg7a1jw97234n98weScLmF.jpg"
+        },
+        {
+          "name": "Michael Arnold",
+          "job": "Choreographer",
+          "department": "Crew",
+          "id": 2494667,
+          "profile_path": "/ykpJJlC5RUmht73jAOCzLZg9F8e.jpg"
+        },
+        {
+          "name": "Justine Conte",
+          "job": "Co-Producer",
+          "department": "Production",
+          "id": 2504569,
+          "profile_path": ""
+        },
+        {
+          "name": "Beverly Abbott",
+          "job": "Visual Effects Producer",
+          "department": "Visual Effects",
+          "id": 2171121,
+          "profile_path": ""
+        },
+        {
+          "name": "Colby Lemmo",
+          "job": "Stunt Double",
+          "department": "Crew",
+          "id": 1743025,
+          "profile_path": "/mhzLgtHbxeyZxdnodUvAtQof6aK.jpg"
+        },
+        {
+          "name": "Richard Epper",
+          "job": "Utility Stunts",
+          "department": "Crew",
+          "id": 1771760,
+          "profile_path": ""
+        },
+        {
+          "name": "Doug Coleman",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 142157,
+          "profile_path": "/temeKPrQ9VosJXwb51O3EWxQ5yO.jpg"
+        },
+        {
+          "name": "Eliza Coleman",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1464310,
+          "profile_path": "/fhcKvNFhPCqL0fGYAYjlcl9kTeE.jpg"
+        },
+        {
+          "name": "Matt Berberi",
+          "job": "Stunt Double",
+          "department": "Crew",
+          "id": 1346337,
+          "profile_path": "/mKrP5Qw7R1WPTwSa5XxvtiBEgMK.jpg"
+        },
+        {
+          "name": "Tim Rigby",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1209419,
+          "profile_path": "/5ckhBJzA3MNxGPDSWytTKrdm26M.jpg"
+        },
+        {
+          "name": "Declan Mulvey",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 61329,
+          "profile_path": "/dNIRk767KhabomSahXbH8c02ZSu.jpg"
+        },
+        {
+          "name": "Tom Ozanich",
+          "job": "Sound Re-Recording Mixer",
+          "department": "Sound",
+          "id": 1368866,
+          "profile_path": "/qXiyj0BptF0dKo3EGYAF4VNanSg.jpg"
+        },
+        {
+          "name": "Dean A. Zupancic",
+          "job": "Sound Re-Recording Mixer",
+          "department": "Sound",
+          "id": 83091,
+          "profile_path": "/iwOvFcUfBXxJkNdVTS41Byo7Dwr.jpg"
+        },
+        {
+          "name": "Craig Baxley Jr.",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1585029,
+          "profile_path": "/a0JdBlTdKHZPRIeWrbQiwE3N8R4.jpg"
+        },
+        {
+          "name": "James M. Halty",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1400371,
+          "profile_path": ""
+        },
+        {
+          "name": "Colby Lemmo",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1743025,
+          "profile_path": "/mhzLgtHbxeyZxdnodUvAtQof6aK.jpg"
+        },
+        {
+          "name": "Brian Simpson",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 180838,
+          "profile_path": ""
+        },
+        {
+          "name": "Brent Fletcher",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 2770639,
+          "profile_path": ""
+        },
+        {
+          "name": "Ross Kohnstam",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1870912,
+          "profile_path": "/obU47dDIs42MRoG6SLtYni1dToo.jpg"
+        },
+        {
+          "name": "Brett Smrz",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 2157087,
+          "profile_path": ""
+        },
+        {
+          "name": "John Branagan",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1424176,
+          "profile_path": "/jDvshgq9I7qEiy5AQe0rLW5exps.jpg"
+        },
+        {
+          "name": "Wayne Dalglish",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1226495,
+          "profile_path": "/yanmRHbSBZKk4CSTunNgrglfsM5.jpg"
+        },
+        {
+          "name": "Andy Gill",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 968316,
+          "profile_path": "/uphgScM95clUsV8Rb2nwdiqCndX.jpg"
+        },
+        {
+          "name": "Daniel Leavitt",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1455500,
+          "profile_path": ""
+        },
+        {
+          "name": "Rhys Millen",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 240612,
+          "profile_path": ""
+        },
+        {
+          "name": "Jake Swallow",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 2154323,
+          "profile_path": ""
+        },
+        {
+          "name": "Tim Trella",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 200402,
+          "profile_path": "/bzgr1RT7gmO75s3b2QGOfEcBJff.jpg"
+        },
+        {
+          "name": "Ray Lykins",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 4608,
+          "profile_path": "/9cJnf225TyU1uMPkgUemNgtxvgx.jpg"
+        },
+        {
+          "name": "Malte Bieler",
+          "job": "Sound Designer",
+          "department": "Sound",
+          "id": 1914663,
+          "profile_path": "/lWzc7gEqA0Gd95K7qseMtsS8Mqi.jpg"
+        },
+        {
+          "name": "Jack Cucci",
+          "job": "Foley Mixer",
+          "department": "Sound",
+          "id": 2127274,
+          "profile_path": ""
+        },
+        {
+          "name": "John T. Cucci",
+          "job": "Foley Artist",
+          "department": "Sound",
+          "id": 1367493,
+          "profile_path": ""
+        },
+        {
+          "name": "Russell Farmarco",
+          "job": "Dialogue Editor",
+          "department": "Sound",
+          "id": 1415007,
+          "profile_path": ""
+        },
+        {
+          "name": "Russell Farmarco",
+          "job": "ADR Editor",
+          "department": "Sound",
+          "id": 1415007,
+          "profile_path": ""
+        },
+        {
+          "name": "Dan Gamache",
+          "job": "Sound Designer",
+          "department": "Sound",
+          "id": 1565107,
+          "profile_path": ""
+        },
+        {
+          "name": "Jeanne Gilliland",
+          "job": "Boom Operator",
+          "department": "Sound",
+          "id": 1967876,
+          "profile_path": ""
+        },
+        {
+          "name": "Tavish Grade",
+          "job": "Foley Mixer",
+          "department": "Sound",
+          "id": 3171603,
+          "profile_path": ""
+        },
+        {
+          "name": "Jon Greasley",
+          "job": "Dialogue Editor",
+          "department": "Sound",
+          "id": 1565106,
+          "profile_path": "/w63FoQFJ1NhjFtLysmO9sSTK45N.jpg"
+        },
+        {
+          "name": "Darren Maynard",
+          "job": "Sound Effects Editor",
+          "department": "Sound",
+          "id": 1423819,
+          "profile_path": ""
+        },
+        {
+          "name": "John-Paul Natysin",
+          "job": "Boom Operator",
+          "department": "Sound",
+          "id": 1790896,
+          "profile_path": ""
+        },
+        {
+          "name": "Jason Oliver",
+          "job": "ADR Mixer",
+          "department": "Sound",
+          "id": 1760572,
+          "profile_path": ""
+        },
+        {
+          "name": "Dan O'Connell",
+          "job": "Foley Artist",
+          "department": "Sound",
+          "id": 1338372,
+          "profile_path": ""
+        },
+        {
+          "name": "Mikel Parraga-Wills",
+          "job": "Foley Mixer",
+          "department": "Sound",
+          "id": 3491157,
+          "profile_path": ""
+        },
+        {
+          "name": "Ethan Van der Ryn",
+          "job": "Supervising Sound Editor",
+          "department": "Sound",
+          "id": 1378696,
+          "profile_path": "/cee7w7XpNMSXyFv0F7CtwpBtERB.jpg"
+        },
+        {
+          "name": "Ethan Van der Ryn",
+          "job": "Sound Designer",
+          "department": "Sound",
+          "id": 1378696,
+          "profile_path": "/cee7w7XpNMSXyFv0F7CtwpBtERB.jpg"
+        },
+        {
+          "name": "Karen O'Hara",
+          "job": "Set Decoration",
+          "department": "Art",
+          "id": 20585,
+          "profile_path": ""
+        },
+        {
+          "name": "Lauren Baker",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 1781952,
+          "profile_path": ""
+        },
+        {
+          "name": "Matt Boucard",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 3851973,
+          "profile_path": ""
+        },
+        {
+          "name": "Jeremy Cisneros",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 1375907,
+          "profile_path": ""
+        },
+        {
+          "name": "Mason Chesler",
+          "job": "Graphic Designer",
+          "department": "Art",
+          "id": 2494686,
+          "profile_path": ""
+        },
+        {
+          "name": "Wylie Griffin",
+          "job": "Assistant Art Director",
+          "department": "Art",
+          "id": 1442116,
+          "profile_path": ""
+        },
+        {
+          "name": "Amanda Hagy",
+          "job": "Scenic Artist",
+          "department": "Crew",
+          "id": 2050081,
+          "profile_path": ""
+        },
+        {
+          "name": "Damon Hahn",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 2903479,
+          "profile_path": ""
+        },
+        {
+          "name": "Stephanie Higgins Frey",
+          "job": "Art Department Coordinator",
+          "department": "Art",
+          "id": 1341398,
+          "profile_path": ""
+        },
+        {
+          "name": "Klara Jogalla",
+          "job": "Art Department Assistant",
+          "department": "Art",
+          "id": 5079805,
+          "profile_path": ""
+        },
+        {
+          "name": "J.P. Jones",
+          "job": "Property Master",
+          "department": "Art",
+          "id": 1415610,
+          "profile_path": ""
+        },
+        {
+          "name": "Maciej Kuciara",
+          "job": "Concept Artist",
+          "department": "Art",
+          "id": 2728664,
+          "profile_path": ""
+        },
+        {
+          "name": "David Mauch",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 3600083,
+          "profile_path": ""
+        },
+        {
+          "name": "Merdyce McClaran",
+          "job": "On Set Dresser",
+          "department": "Costume & Make-Up",
+          "id": 2097578,
+          "profile_path": ""
+        },
+        {
+          "name": "Todd Phillips",
+          "job": "Original Film Writer",
+          "department": "Writing",
+          "id": 57130,
+          "profile_path": "/A6FPht87DiqXzp456WjakLi2AtP.jpg"
+        },
+        {
+          "name": "Scott Silver",
+          "job": "Original Film Writer",
+          "department": "Writing",
+          "id": 324,
+          "profile_path": "/33ZiBPOsV43eS9Di5VJ75f87y8c.jpg"
+        },
+        {
+          "name": "John McElroy",
+          "job": "Props",
+          "department": "Art",
+          "id": 2515012,
+          "profile_path": ""
+        },
+        {
+          "name": "Stephen McGlade",
+          "job": "On Set Dresser",
+          "department": "Costume & Make-Up",
+          "id": 1888977,
+          "profile_path": ""
+        },
+        {
+          "name": "Marilyn Morgan-Mouneu",
+          "job": "Props",
+          "department": "Art",
+          "id": 5079810,
+          "profile_path": ""
+        },
+        {
+          "name": "David Nardoni",
+          "job": "Assistant Set Decoration",
+          "department": "Art",
+          "id": 5079811,
+          "profile_path": ""
+        },
+        {
+          "name": "Tanicia Osuch",
+          "job": "Scenic Artist",
+          "department": "Crew",
+          "id": 2023509,
+          "profile_path": ""
+        },
+        {
+          "name": "Kristina Parsons",
+          "job": "Props",
+          "department": "Art",
+          "id": 2191028,
+          "profile_path": ""
+        },
+        {
+          "name": "Dennis Richardson",
+          "job": "Construction Foreman",
+          "department": "Art",
+          "id": 1629523,
+          "profile_path": ""
+        },
+        {
+          "name": "Joel Ruiz",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 4664843,
+          "profile_path": ""
+        },
+        {
+          "name": "Jessica Santisteban",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 3425547,
+          "profile_path": ""
+        },
+        {
+          "name": "Jeff Shewbert",
+          "job": "Construction Coordinator",
+          "department": "Art",
+          "id": 1463364,
+          "profile_path": ""
+        },
+        {
+          "name": "Justin Simonetti",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 5079813,
+          "profile_path": ""
+        },
+        {
+          "name": "Benjamin Kimball Smith",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 5079815,
+          "profile_path": ""
+        },
+        {
+          "name": "Jake Spongberg",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 3013650,
+          "profile_path": ""
+        },
+        {
+          "name": "Hanna Woltz",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 4050880,
+          "profile_path": ""
+        },
+        {
+          "name": "Jane Wuu",
+          "job": "Set Designer",
+          "department": "Art",
+          "id": 1411509,
+          "profile_path": ""
+        },
+        {
+          "name": "Carolina Acero",
+          "job": "Lighting Technician",
+          "department": "Lighting",
+          "id": 4192028,
+          "profile_path": ""
+        },
+        {
+          "name": "Praveen Allu",
+          "job": "Digital Compositor",
+          "department": "Visual Effects",
+          "id": 3174061,
+          "profile_path": ""
+        },
+        {
+          "name": "Jorge Arista",
+          "job": "Digital Compositor",
+          "department": "Visual Effects",
+          "id": 4687480,
+          "profile_path": ""
+        },
+        {
+          "name": "Abdullah Azizi",
+          "job": "Visual Effects Coordinator",
+          "department": "Visual Effects",
+          "id": 3325326,
+          "profile_path": ""
+        },
+        {
+          "name": "Romero Benitez",
+          "job": "Visual Effects Coordinator",
+          "department": "Visual Effects",
+          "id": 5107928,
+          "profile_path": ""
+        },
+        {
+          "name": "Ashleigh Biller",
+          "job": "Visual Effects Coordinator",
+          "department": "Visual Effects",
+          "id": 5107930,
+          "profile_path": ""
+        },
+        {
+          "name": "Marlon Victor Bondoc",
+          "job": "VFX Artist",
+          "department": "Visual Effects",
+          "id": 1376742,
+          "profile_path": ""
+        },
+        {
+          "name": "Anwei Chen",
+          "job": "Visual Effects Producer",
+          "department": "Visual Effects",
+          "id": 1644256,
+          "profile_path": ""
+        },
+        {
+          "name": "Samuel Côté",
+          "job": "VFX Artist",
+          "department": "Visual Effects",
+          "id": 1531508,
+          "profile_path": ""
+        },
+        {
+          "name": "Sydney Erbez",
+          "job": "Visual Effects Coordinator",
+          "department": "Visual Effects",
+          "id": 3174040,
+          "profile_path": ""
+        },
+        {
+          "name": "Jason Howey",
+          "job": "CG Supervisor",
+          "department": "Crew",
+          "id": 1425923,
+          "profile_path": ""
+        },
+        {
+          "name": "Thippabathula Shiva",
+          "job": "Visual Effects Supervisor",
+          "department": "Visual Effects",
+          "id": 5107932,
+          "profile_path": ""
+        },
+        {
+          "name": "David Armstrong",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 4517569,
+          "profile_path": "/5VYa1NvWm9kIv4pgGCuCJYlIFzy.jpg"
+        },
+        {
+          "name": "Jill Bogdanowicz",
+          "job": "Other",
+          "department": "Editing",
+          "id": 1590102,
+          "profile_path": ""
+        },
+        {
+          "name": "Rafael E. Sánchez",
+          "job": "Gaffer",
+          "department": "Lighting",
+          "id": 79790,
+          "profile_path": ""
+        },
+        {
+          "name": "George B. Colucci Jr.",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1190771,
+          "profile_path": "/msnYyfmKYNeNwjdAzADN95rMyiA.jpg"
+        },
+        {
+          "name": "Colin Anderson",
+          "job": "Steadicam Operator",
+          "department": "Camera",
+          "id": 1400535,
+          "profile_path": ""
+        },
+        {
+          "name": "Colin Anderson",
+          "job": "\"A\" Camera Operator",
+          "department": "Camera",
+          "id": 1400535,
+          "profile_path": ""
+        },
+        {
+          "name": "Chris Barnes",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1554936,
+          "profile_path": ""
+        },
+        {
+          "name": "Ivan Moran",
+          "job": "Visual Effects Supervisor",
+          "department": "Visual Effects",
+          "id": 1426330,
+          "profile_path": ""
+        },
+        {
+          "name": "Lady Gaga",
+          "job": "Songs",
+          "department": "Sound",
+          "id": 237405,
+          "profile_path": "/9Y4Pz7AEXhB9qNar2tMsx5EVXML.jpg"
+        },
+        {
+          "name": "Geoffrey Haley",
+          "job": "\"C\" Camera Operator",
+          "department": "Camera",
+          "id": 82169,
+          "profile_path": "/4GFSNNpHW1zETjXCIZ8DGq9WCqC.jpg"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Todd Phillips",
+          "job": "Director",
+          "department": "Directing",
+          "id": 57130,
+          "profile_path": "/A6FPht87DiqXzp456WjakLi2AtP.jpg"
+        }
+      ],
+      "writers": [
+        {
+          "name": "Todd Phillips",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 57130,
+          "profile_path": "/A6FPht87DiqXzp456WjakLi2AtP.jpg"
+        },
+        {
+          "name": "Scott Silver",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 324,
+          "profile_path": "/33ZiBPOsV43eS9Di5VJ75f87y8c.jpg"
+        }
+      ]
+    },
+    {
+      "type": "tv",
+      "title": "A Ordem",
+      "original_title": "The Order",
+      "tmdb_id": "82104",
+      "id": 82104,
+      "year": "2019",
+      "release_date": "2019-03-07",
+      "overview": "Para vingar a morte da mãe, um universitário entra para uma ordem secreta e acaba no meio de uma guerra entre lobisomens e adeptos das artes das trevas.",
+      "tagline": "",
+      "poster": "/r5oMbT0mXnM3SxR63fgJu36Hoqc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/AtcZyZizpGhofYumo1JrjuIFkXv.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/3qdAaH6el1Ej845DRGmo9gipSca.png",
+      "trailer": "https://www.youtube.com/watch?v=s7ZnrtiqGdw",
+      "vote_average": 7.597,
+      "vote_count": 954,
+      "genres": [
+        "Drama",
+        "Mistério",
+        "Sci-Fi & Fantasy"
+      ],
+      "runtime": 50,
+      "certification": "16",
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        "Nomadic Pictures"
+      ],
+      "external_ids": {
+        "imdb_id": "tt8295472",
+        "freebase_mid": null,
+        "freebase_id": null,
+        "tvdb_id": 359675,
+        "tvrage_id": null,
+        "wikidata_id": "Q55635439",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "sources": [],
+      "status": "Canceled",
+      "networks": [
+        "Netflix"
+      ],
+      "created_by": [
+        {
+          "id": 189019,
+          "name": "Shelley Eriksen",
+          "profile_path": ""
+        },
+        {
+          "id": 64762,
+          "name": "Dennis Heaton",
+          "profile_path": "/51VQzxw4rKuYWB8AXdChKbwc3wg.jpg"
+        }
+      ],
+      "number_of_seasons": 2,
+      "number_of_episodes": 20,
+      "cast": [
+        {
+          "name": "Jake Manley",
+          "character": "Jack Morton",
+          "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+          "order": 0,
+          "id": 1300650
+        },
+        {
+          "name": "Sarah Grey",
+          "character": "Alyssa Drake",
+          "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+          "order": 1,
+          "id": 1197119
+        }
+      ],
+      "crew": [],
+      "cast_source": "TMDB",
+      "cast_fetched_at": "2026-11-21T22:14:10.432Z",
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Temporada 1",
+          "overview": "",
+          "poster_path": "/eAljfESDSJ9FIbuxGKqsVokPMT7.jpg",
+          "poster": "/eAljfESDSJ9FIbuxGKqsVokPMT7.jpg",
+          "backdrop_path": "",
+          "air_date": "2019-03-07",
+          "vote_average": 7.5,
+          "vote_count": 0,
+          "cast": [
+            {
+              "name": "Jake Manley",
+              "character": "Jack Morton",
+              "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+              "order": 0,
+              "id": 1300650
+            },
+            {
+              "name": "Sarah Grey",
+              "character": "Alyssa Drake",
+              "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+              "order": 1,
+              "id": 1197119
+            }
+          ],
+          "crew": [
+            {
+              "name": "Dennis Heaton",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 64762,
+              "profile_path": "/51VQzxw4rKuYWB8AXdChKbwc3wg.jpg"
+            },
+            {
+              "name": "Shelley Eriksen",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 189019,
+              "profile_path": ""
+            },
+            {
+              "name": "Patric Caird",
+              "job": "Original Music Composer",
+              "department": "Sound",
+              "id": 550644,
+              "profile_path": ""
+            },
+            {
+              "name": "Harry Brar",
+              "job": "Set Decoration",
+              "department": "Art",
+              "id": 1514574,
+              "profile_path": ""
+            },
+            {
+              "name": "Candace Cruikshank",
+              "job": "Costume Design",
+              "department": "Costume & Make-Up",
+              "id": 1514649,
+              "profile_path": ""
+            },
+            {
+              "name": "Mark Chow",
+              "job": "Director of Photography",
+              "department": "Camera",
+              "id": 1404734,
+              "profile_path": ""
+            },
+            {
+              "name": "Jordan Bent",
+              "job": "Art Direction",
+              "department": "Art",
+              "id": 2259524,
+              "profile_path": ""
+            }
+          ],
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Semana Infernal: Parte 1",
+              "original_name": "",
+              "air_date": "2019-03-07",
+              "runtime": 51,
+              "overview": "Na Universidade de Belgrave, Jack entra para uma sociedade secreta envolta em mistério e magia. Pouco depois, uma série de assassinatos abala o campus.",
+              "still_path": "/wmlaFl4CO6H8DWQVDq2mAjB3ZIs.jpg",
+              "vote_average": 6.5,
+              "vote_count": 21,
+              "guest_stars": [
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "ヒロ・カナガワ",
+                  "character": "Detective Hayashi",
+                  "profile_path": "/oXpKxlNED8KApjGOK75q8OF3zMs.jpg",
+                  "order": 500,
+                  "id": 60719
+                },
+                {
+                  "name": "Drew Ray Tanner",
+                  "character": "Todd Shutner",
+                  "profile_path": "/hEDc4uUmrx0pE93bwYoUWE6jvSB.jpg",
+                  "order": 501,
+                  "id": 1475818
+                },
+                {
+                  "name": "Tim Donadt",
+                  "character": "Fraternity President",
+                  "profile_path": "/wDxfDaD3dmj9DzBoWUDo4iN1vSp.jpg",
+                  "order": 502,
+                  "id": 2125413
+                },
+                {
+                  "name": "Mizinga Mwinga",
+                  "character": "Narc",
+                  "profile_path": "/6BdZ7XwX5S4vhLh3ulMIb1Fr51h.jpg",
+                  "order": 503,
+                  "id": 1148496
+                },
+                {
+                  "name": "Ty Wood",
+                  "character": "Gregory",
+                  "profile_path": "/7ZQHGgdiDlJFmeVCvlsfa3QAP8z.jpg",
+                  "order": 504,
+                  "id": 61166
+                },
+                {
+                  "name": "Emily Holmes",
+                  "character": "Margaret Crain",
+                  "profile_path": "",
+                  "order": 505,
+                  "id": 37979
+                },
+                {
+                  "name": "Matt Visser",
+                  "character": "Weston Miller",
+                  "profile_path": "/fvDV9gS9mIHUKfhzardxI6KjTUZ.jpg",
+                  "order": 525,
+                  "id": 1864378
+                },
+                {
+                  "name": "Aaron Hale",
+                  "character": "Brandon Caruthers",
+                  "profile_path": "/lMluSuYXZrMW9YmCAp9WrSPQ3M8.jpg",
+                  "order": 526,
+                  "id": 1674739
+                },
+                {
+                  "name": "Dylan Playfair",
+                  "character": "Clay Turner",
+                  "profile_path": "/iWkup8QYwyEYM4Dvi7x1OHHNR6G.jpg",
+                  "order": 527,
+                  "id": 1098664
+                },
+                {
+                  "name": "Ajay Friese",
+                  "character": "Amir",
+                  "profile_path": "/gUp056XNGsHfIdg87aSe3ho6fiJ.jpg",
+                  "order": 528,
+                  "id": 1954524
+                },
+                {
+                  "name": "Favour Onwuka",
+                  "character": "Drea Antonucci",
+                  "profile_path": "/bE6ar7AmjnxvEPlMycLaKekLfz0.jpg",
+                  "order": 529,
+                  "id": 2077289
+                },
+                {
+                  "name": "Matt Frewer",
+                  "character": "Peter Morton",
+                  "profile_path": "/ouicMpmW9O01nB1c7BzoOBHipKw.jpg",
+                  "order": 530,
+                  "id": 40009
+                },
+                {
+                  "name": "Sam Trammell",
+                  "character": "Eric Clarke",
+                  "profile_path": "/nt4uogoUsX3gR3kUcxuEZzsonep.jpg",
+                  "order": 534,
+                  "id": 131006
+                },
+                {
+                  "name": "Jedidiah Goodacre",
+                  "character": "Kyle",
+                  "profile_path": "/tdPKfDlQn83qw0OqYnccxpuxuUc.jpg",
+                  "order": 566,
+                  "id": 1334653
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "David Von Ancken",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 77458,
+                  "profile_path": "/uKGriSHT7PvC0uSVWzks7LUl3g3.jpg"
+                },
+                {
+                  "name": "Dennis Heaton",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 64762,
+                  "profile_path": "/51VQzxw4rKuYWB8AXdChKbwc3wg.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt8488576",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7044134,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 2,
+              "name": "Semana Infernal: Parte 2",
+              "original_name": "",
+              "air_date": "2019-03-07",
+              "runtime": 47,
+              "overview": "Vô compartilha uma teoria sobre os ataques. Jack e Alyssa tentam ficar de olho nos outros candidatos. No Templo, Jack encontra uma figura conhecida.",
+              "still_path": "/mJT5b5Wq4X2C9MmR9IfVeXIvIfj.jpg",
+              "vote_average": 7.2,
+              "vote_count": 16,
+              "guest_stars": [
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Ty Wood",
+                  "character": "Gregory",
+                  "profile_path": "/7ZQHGgdiDlJFmeVCvlsfa3QAP8z.jpg",
+                  "order": 504,
+                  "id": 61166
+                },
+                {
+                  "name": "Emily Holmes",
+                  "character": "Margaret Crain",
+                  "profile_path": "",
+                  "order": 505,
+                  "id": 37979
+                },
+                {
+                  "name": "Julian Haig",
+                  "character": "Conquest",
+                  "profile_path": "/uJe5cOkRDW246O9Y3lfNPzH1E9J.jpg",
+                  "order": 506,
+                  "id": 2602320
+                },
+                {
+                  "name": "Sean Depner",
+                  "character": "Jonas",
+                  "profile_path": "/u1pCWqU9WE8dhedUdFj01rjFhrr.jpg",
+                  "order": 510,
+                  "id": 2123198
+                },
+                {
+                  "name": "Aaron Hale",
+                  "character": "Brandon Caruthers",
+                  "profile_path": "/lMluSuYXZrMW9YmCAp9WrSPQ3M8.jpg",
+                  "order": 526,
+                  "id": 1674739
+                },
+                {
+                  "name": "Dylan Playfair",
+                  "character": "Clay Turner",
+                  "profile_path": "/iWkup8QYwyEYM4Dvi7x1OHHNR6G.jpg",
+                  "order": 527,
+                  "id": 1098664
+                },
+                {
+                  "name": "Ajay Friese",
+                  "character": "Amir",
+                  "profile_path": "/gUp056XNGsHfIdg87aSe3ho6fiJ.jpg",
+                  "order": 528,
+                  "id": 1954524
+                },
+                {
+                  "name": "Matt Frewer",
+                  "character": "Peter Morton",
+                  "profile_path": "/ouicMpmW9O01nB1c7BzoOBHipKw.jpg",
+                  "order": 530,
+                  "id": 40009
+                },
+                {
+                  "name": "Max Martini",
+                  "character": "Edward Coventry",
+                  "profile_path": "/gehOxb2cgNjcRnbAxaCUnFFJvAY.jpg",
+                  "order": 531,
+                  "id": 94864
+                },
+                {
+                  "name": "Sam Trammell",
+                  "character": "Eric Clarke",
+                  "profile_path": "/nt4uogoUsX3gR3kUcxuEZzsonep.jpg",
+                  "order": 534,
+                  "id": 131006
+                },
+                {
+                  "name": "Jedidiah Goodacre",
+                  "character": "Kyle",
+                  "profile_path": "/tdPKfDlQn83qw0OqYnccxpuxuUc.jpg",
+                  "order": 566,
+                  "id": 1334653
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "David Von Ancken",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 77458,
+                  "profile_path": "/uKGriSHT7PvC0uSVWzks7LUl3g3.jpg"
+                },
+                {
+                  "name": "Shelley Eriksen",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 189019,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt8488618",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7054270,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 3,
+              "name": "Introdução à Ética: Parte 1",
+              "original_name": "",
+              "air_date": "2019-03-07",
+              "runtime": 49,
+              "overview": "Jack descobre que foi selecionado para uma sociedade secreta rival. Mais tarde, ele aprende uma lição sobre magia e descobre que cada feitiço tem um preço.",
+              "still_path": "/9922azFdKjEqdym0wytGZWt13HG.jpg",
+              "vote_average": 6.9,
+              "vote_count": 13,
+              "guest_stars": [
+                {
+                  "name": "Devery Jacobs",
+                  "character": "Lilith Bathory",
+                  "profile_path": "/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg",
+                  "order": 2,
+                  "id": 1197101
+                },
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Sean Depner",
+                  "character": "Jonas",
+                  "profile_path": "/u1pCWqU9WE8dhedUdFj01rjFhrr.jpg",
+                  "order": 510,
+                  "id": 2123198
+                },
+                {
+                  "name": "Julia Benson",
+                  "character": "Professor Robin Benson",
+                  "profile_path": "/rFbwYCifZPN7JdNj7nqsnM8C7Zx.jpg",
+                  "order": 517,
+                  "id": 84464
+                },
+                {
+                  "name": "Andres Collantes",
+                  "character": "Diego Nunez",
+                  "profile_path": "/zXaBa8NKRZT2dtke2m5Vg3dnSTU.jpg",
+                  "order": 519,
+                  "id": 2685396
+                },
+                {
+                  "name": "Aaron Hale",
+                  "character": "Brandon Caruthers",
+                  "profile_path": "/lMluSuYXZrMW9YmCAp9WrSPQ3M8.jpg",
+                  "order": 526,
+                  "id": 1674739
+                },
+                {
+                  "name": "Matt Frewer",
+                  "character": "Peter Morton",
+                  "profile_path": "/ouicMpmW9O01nB1c7BzoOBHipKw.jpg",
+                  "order": 530,
+                  "id": 40009
+                },
+                {
+                  "name": "Max Martini",
+                  "character": "Edward Coventry",
+                  "profile_path": "/gehOxb2cgNjcRnbAxaCUnFFJvAY.jpg",
+                  "order": 531,
+                  "id": 94864
+                },
+                {
+                  "name": "Sam Trammell",
+                  "character": "Eric Clarke",
+                  "profile_path": "/nt4uogoUsX3gR3kUcxuEZzsonep.jpg",
+                  "order": 534,
+                  "id": 131006
+                },
+                {
+                  "name": "Kayla Heller",
+                  "character": "Selena Durov",
+                  "profile_path": "/30XtBCklEe4n0a4NWlnvq8KquRz.jpg",
+                  "order": 558,
+                  "id": 2259990
+                },
+                {
+                  "name": "Jedidiah Goodacre",
+                  "character": "Kyle",
+                  "profile_path": "/tdPKfDlQn83qw0OqYnccxpuxuUc.jpg",
+                  "order": 566,
+                  "id": 1334653
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Kristin Lehman",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 148112,
+                  "profile_path": "/boMsJj80ISyjDp4cvSprURTWJ0I.jpg"
+                },
+                {
+                  "name": "Rachel Langer",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2093251,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt8488622",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7054271,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 4,
+              "name": "Introdução à Ética: Parte 2",
+              "original_name": "",
+              "air_date": "2019-03-07",
+              "runtime": 42,
+              "overview": "Jack propõe uma aliança com os cavaleiros, e Randall o ensina a dominar seus poderes. Enquanto isso, Alyssa fica sob a tutela de Edward.",
+              "still_path": "/j3cRqSPiNuHPk0LYCsQiZALmO4d.jpg",
+              "vote_average": 7.1,
+              "vote_count": 12,
+              "guest_stars": [
+                {
+                  "name": "Devery Jacobs",
+                  "character": "Lilith Bathory",
+                  "profile_path": "/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg",
+                  "order": 2,
+                  "id": 1197101
+                },
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Keith Arbuthnot",
+                  "character": "Sir Richard",
+                  "profile_path": "/pHAThZZb84SIzmBBLGW1SRz6aLN.jpg",
+                  "order": 507,
+                  "id": 2369399
+                },
+                {
+                  "name": "Julia Benson",
+                  "character": "Professor Robin Benson",
+                  "profile_path": "/rFbwYCifZPN7JdNj7nqsnM8C7Zx.jpg",
+                  "order": 517,
+                  "id": 84464
+                },
+                {
+                  "name": "Aaron Hale",
+                  "character": "Brandon Caruthers",
+                  "profile_path": "/lMluSuYXZrMW9YmCAp9WrSPQ3M8.jpg",
+                  "order": 526,
+                  "id": 1674739
+                },
+                {
+                  "name": "Max Martini",
+                  "character": "Edward Coventry",
+                  "profile_path": "/gehOxb2cgNjcRnbAxaCUnFFJvAY.jpg",
+                  "order": 531,
+                  "id": 94864
+                },
+                {
+                  "name": "Sam Trammell",
+                  "character": "Eric Clarke",
+                  "profile_path": "/nt4uogoUsX3gR3kUcxuEZzsonep.jpg",
+                  "order": 534,
+                  "id": 131006
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Jennica Harper",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1554786,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Kristin Lehman",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 148112,
+                  "profile_path": "/boMsJj80ISyjDp4cvSprURTWJ0I.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt8488624",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7054272,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 5,
+              "name": "Volta ao lar: Parte 1",
+              "original_name": "",
+              "air_date": "2019-03-07",
+              "runtime": 49,
+              "overview": "A Ordem se prepara para conduzir um feitiço perigoso e sinistro, e os cavaleiros convocam Jack para sabotar os planos deles.",
+              "still_path": "/lc1Z3a0iBRaYENGvBhzJmzGNurc.jpg",
+              "vote_average": 7.8,
+              "vote_count": 10,
+              "guest_stars": [
+                {
+                  "name": "Devery Jacobs",
+                  "character": "Lilith Bathory",
+                  "profile_path": "/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg",
+                  "order": 2,
+                  "id": 1197101
+                },
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Tammy Nera",
+                  "character": "Young Woman Ghoul",
+                  "profile_path": "/h2yk3JpRKYEOfFBIZSBAFf1eL4q.jpg",
+                  "order": 508,
+                  "id": 2100944
+                },
+                {
+                  "name": "Matt Kennedy",
+                  "character": "College Dude",
+                  "profile_path": "/rywFuoNe1aFAPQFai2BR3O8Op8j.jpg",
+                  "order": 509,
+                  "id": 2300488
+                },
+                {
+                  "name": "Sean Depner",
+                  "character": "Jonas",
+                  "profile_path": "/u1pCWqU9WE8dhedUdFj01rjFhrr.jpg",
+                  "order": 510,
+                  "id": 2123198
+                },
+                {
+                  "name": "Jewel Staite",
+                  "character": "Renee Marand",
+                  "profile_path": "/ztxDIZvuPreUixO6ZPxwkCg2UlO.jpg",
+                  "order": 511,
+                  "id": 72092
+                },
+                {
+                  "name": "Alex Diakun",
+                  "character": "Piper",
+                  "profile_path": "/miWLKODjrAYpU2eKfanJcKESi97.jpg",
+                  "order": 512,
+                  "id": 32749
+                },
+                {
+                  "name": "Keith Martin Gordey",
+                  "character": "Hemmings",
+                  "profile_path": "/96z8LgfRL1nNFSfA4VT9y25tXfC.jpg",
+                  "order": 520,
+                  "id": 998002
+                },
+                {
+                  "name": "Max Martini",
+                  "character": "Edward Coventry",
+                  "profile_path": "/gehOxb2cgNjcRnbAxaCUnFFJvAY.jpg",
+                  "order": 531,
+                  "id": 94864
+                },
+                {
+                  "name": "Kayla Heller",
+                  "character": "Selena Durov",
+                  "profile_path": "/30XtBCklEe4n0a4NWlnvq8KquRz.jpg",
+                  "order": 558,
+                  "id": 2259990
+                },
+                {
+                  "name": "Jedidiah Goodacre",
+                  "character": "Kyle",
+                  "profile_path": "/tdPKfDlQn83qw0OqYnccxpuxuUc.jpg",
+                  "order": 566,
+                  "id": 1334653
+                },
+                {
+                  "name": "Christian Michael Cooper",
+                  "character": "Maddox Coventry",
+                  "profile_path": "/v0aG9THfELyBmwjhmL3eiWfHIB6.jpg",
+                  "order": 572,
+                  "id": 1256296
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Jason Filiatrault",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1810496,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Leslie Hope",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 25834,
+                  "profile_path": "/pLvZqTqyAh0YmC7egk460I5py42.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt8488632",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7054273,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 6,
+              "name": "Volta ao lar: Parte 2",
+              "original_name": "",
+              "air_date": "2019-03-07",
+              "runtime": 46,
+              "overview": "Enquanto a Ordem caça lobisomens no campus, Jack e Alyssa fogem com o necrofone, uma ferramenta usada para se comunicar com os mortos.",
+              "still_path": "/6fBTR8gcqjw618lG9kDdaER4j2m.jpg",
+              "vote_average": 8,
+              "vote_count": 11,
+              "guest_stars": [
+                {
+                  "name": "Devery Jacobs",
+                  "character": "Lilith Bathory",
+                  "profile_path": "/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg",
+                  "order": 2,
+                  "id": 1197101
+                },
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Sean Depner",
+                  "character": "Jonas",
+                  "profile_path": "/u1pCWqU9WE8dhedUdFj01rjFhrr.jpg",
+                  "order": 510,
+                  "id": 2123198
+                },
+                {
+                  "name": "Jewel Staite",
+                  "character": "Renee Marand",
+                  "profile_path": "/ztxDIZvuPreUixO6ZPxwkCg2UlO.jpg",
+                  "order": 511,
+                  "id": 72092
+                },
+                {
+                  "name": "Alex Diakun",
+                  "character": "Piper",
+                  "profile_path": "/miWLKODjrAYpU2eKfanJcKESi97.jpg",
+                  "order": 512,
+                  "id": 32749
+                },
+                {
+                  "name": "Brad Kelly",
+                  "character": "Farmer",
+                  "profile_path": "/iyATYHZDhTfnEEG1SPa8sIMKWBV.jpg",
+                  "order": 513,
+                  "id": 172809
+                },
+                {
+                  "name": "Suniel Samra",
+                  "character": "Mascot",
+                  "profile_path": "",
+                  "order": 514,
+                  "id": 2059854
+                },
+                {
+                  "name": "Jared Payne",
+                  "character": "Bellman",
+                  "profile_path": "/otfPCBpGToewlI2TaHKQpdWtOGY.jpg",
+                  "order": 515,
+                  "id": 2685442
+                },
+                {
+                  "name": "Mitra Suri",
+                  "character": "Housekeeper",
+                  "profile_path": "/yYfJcAYcupuXYa1ON7JxG6NZCqV.jpg",
+                  "order": 516,
+                  "id": 2284578
+                },
+                {
+                  "name": "Aaron Hale",
+                  "character": "Brandon Caruthers",
+                  "profile_path": "/lMluSuYXZrMW9YmCAp9WrSPQ3M8.jpg",
+                  "order": 526,
+                  "id": 1674739
+                },
+                {
+                  "name": "Matt Frewer",
+                  "character": "Peter Morton",
+                  "profile_path": "/ouicMpmW9O01nB1c7BzoOBHipKw.jpg",
+                  "order": 530,
+                  "id": 40009
+                },
+                {
+                  "name": "Jedidiah Goodacre",
+                  "character": "Kyle",
+                  "profile_path": "/tdPKfDlQn83qw0OqYnccxpuxuUc.jpg",
+                  "order": 566,
+                  "id": 1334653
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Penny E. Gummerson",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2596203,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Leslie Hope",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 25834,
+                  "profile_path": "/pLvZqTqyAh0YmC7egk460I5py42.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt8488634",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7054275,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 7,
+              "name": "Nada a declarar: Parte 1",
+              "original_name": "",
+              "air_date": "2019-03-07",
+              "runtime": 47,
+              "overview": "Alyssa confronta Jack sobre seu segredo. A diretora Vera questiona Edward sobre o Vade Maecum e envia Gabrielle em uma missão para buscar a verdade.",
+              "still_path": "/dpAjJVusoZnATduNNl5ZwGs2tqn.jpg",
+              "vote_average": 7.7,
+              "vote_count": 11,
+              "guest_stars": [
+                {
+                  "name": "Devery Jacobs",
+                  "character": "Lilith Bathory",
+                  "profile_path": "/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg",
+                  "order": 2,
+                  "id": 1197101
+                },
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Françoise Yip",
+                  "character": "Kepler",
+                  "profile_path": "/2fBymfOzhw8wB6wHFHbxulNysB4.jpg",
+                  "order": 4,
+                  "id": 10875
+                },
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Julia Benson",
+                  "character": "Professor Robin Benson",
+                  "profile_path": "/rFbwYCifZPN7JdNj7nqsnM8C7Zx.jpg",
+                  "order": 517,
+                  "id": 84464
+                },
+                {
+                  "name": "Andres Collantes",
+                  "character": "Diego Nunez",
+                  "profile_path": "/zXaBa8NKRZT2dtke2m5Vg3dnSTU.jpg",
+                  "order": 519,
+                  "id": 2685396
+                },
+                {
+                  "name": "Keith Martin Gordey",
+                  "character": "Hemmings",
+                  "profile_path": "/96z8LgfRL1nNFSfA4VT9y25tXfC.jpg",
+                  "order": 520,
+                  "id": 998002
+                },
+                {
+                  "name": "Tom Stevens",
+                  "character": "Ben",
+                  "profile_path": "/xjLTG1tcfRrZXWbEZH1gMkB3Kh6.jpg",
+                  "order": 521,
+                  "id": 558343
+                },
+                {
+                  "name": "Jocelyn Hudon",
+                  "character": "Ruby Speers",
+                  "profile_path": "/quI2sUAc3opQ3Bb2H2OMHEMchGf.jpg",
+                  "order": 522,
+                  "id": 1522345
+                },
+                {
+                  "name": "Aaron Hale",
+                  "character": "Brandon Caruthers",
+                  "profile_path": "/lMluSuYXZrMW9YmCAp9WrSPQ3M8.jpg",
+                  "order": 526,
+                  "id": 1674739
+                },
+                {
+                  "name": "Matt Frewer",
+                  "character": "Peter Morton",
+                  "profile_path": "/ouicMpmW9O01nB1c7BzoOBHipKw.jpg",
+                  "order": 530,
+                  "id": 40009
+                },
+                {
+                  "name": "Max Martini",
+                  "character": "Edward Coventry",
+                  "profile_path": "/gehOxb2cgNjcRnbAxaCUnFFJvAY.jpg",
+                  "order": 531,
+                  "id": 94864
+                },
+                {
+                  "name": "Kayla Heller",
+                  "character": "Selena Durov",
+                  "profile_path": "/30XtBCklEe4n0a4NWlnvq8KquRz.jpg",
+                  "order": 558,
+                  "id": 2259990
+                },
+                {
+                  "name": "Christian Michael Cooper",
+                  "character": "Maddox Coventry",
+                  "profile_path": "/v0aG9THfELyBmwjhmL3eiWfHIB6.jpg",
+                  "order": 572,
+                  "id": 1256296
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Jennica Harper",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1554786,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Rachel Leiterman",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 2256721,
+                  "profile_path": "/te61zuRGCfOIl7Yqv1CiSlEZSAA.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt8488636",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7054276,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 8,
+              "name": "Nada a declarar: Parte 2",
+              "original_name": "",
+              "air_date": "2019-03-07",
+              "runtime": 45,
+              "overview": "Alyssa ajuda os cavaleiros a procurar Randall e se depara com a experiência bizarra de um médico. Edward recebe a visita do dono anterior do Vade Maecum.",
+              "still_path": "/4JfCoht1J08EXkKgAbHoHJPHyOk.jpg",
+              "vote_average": 7.8,
+              "vote_count": 11,
+              "guest_stars": [
+                {
+                  "name": "Devery Jacobs",
+                  "character": "Lilith Bathory",
+                  "profile_path": "/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg",
+                  "order": 2,
+                  "id": 1197101
+                },
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Ian Tracey",
+                  "character": "Jurgen Sawyer",
+                  "profile_path": "/dUzzLVVUF0pvGzS3xrIZ5tiC2TT.jpg",
+                  "order": 518,
+                  "id": 25386
+                },
+                {
+                  "name": "Andres Collantes",
+                  "character": "Diego Nunez",
+                  "profile_path": "/zXaBa8NKRZT2dtke2m5Vg3dnSTU.jpg",
+                  "order": 519,
+                  "id": 2685396
+                },
+                {
+                  "name": "Keith Martin Gordey",
+                  "character": "Hemmings",
+                  "profile_path": "/96z8LgfRL1nNFSfA4VT9y25tXfC.jpg",
+                  "order": 520,
+                  "id": 998002
+                },
+                {
+                  "name": "Tom Stevens",
+                  "character": "Ben",
+                  "profile_path": "/xjLTG1tcfRrZXWbEZH1gMkB3Kh6.jpg",
+                  "order": 521,
+                  "id": 558343
+                },
+                {
+                  "name": "Jocelyn Hudon",
+                  "character": "Ruby Speers",
+                  "profile_path": "/quI2sUAc3opQ3Bb2H2OMHEMchGf.jpg",
+                  "order": 522,
+                  "id": 1522345
+                },
+                {
+                  "name": "Nathan Jean",
+                  "character": "Marty",
+                  "profile_path": "/qNXnYbF4ankAHnjYM0qGZc0K3ID.jpg",
+                  "order": 523,
+                  "id": 1512174
+                },
+                {
+                  "name": "Braden Chase",
+                  "character": "Security Guard",
+                  "profile_path": "/x2J4As9JwZhZRPDzbGuYyf565jx.jpg",
+                  "order": 524,
+                  "id": 2685460
+                },
+                {
+                  "name": "Max Martini",
+                  "character": "Edward Coventry",
+                  "profile_path": "/gehOxb2cgNjcRnbAxaCUnFFJvAY.jpg",
+                  "order": 531,
+                  "id": 94864
+                },
+                {
+                  "name": "Christian Michael Cooper",
+                  "character": "Maddox Coventry",
+                  "profile_path": "/v0aG9THfELyBmwjhmL3eiWfHIB6.jpg",
+                  "order": 572,
+                  "id": 1256296
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Rachel Langer",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2093251,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Rachel Leiterman",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 2256721,
+                  "profile_path": "/te61zuRGCfOIl7Yqv1CiSlEZSAA.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt8488638",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7054277,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 9,
+              "name": "Finais: Parte 1",
+              "original_name": "",
+              "air_date": "2019-03-07",
+              "runtime": 49,
+              "overview": "Consumido pela ambição, Edward entra em choque com Vera. O encontro de Jack com o Vade Maecum dá início a uma provação dolorosa.",
+              "still_path": "/qFH5bMyMNPzT9rmgyB8Yu7JgNDB.jpg",
+              "vote_average": 8.1,
+              "vote_count": 11,
+              "guest_stars": [
+                {
+                  "name": "Devery Jacobs",
+                  "character": "Lilith Bathory",
+                  "profile_path": "/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg",
+                  "order": 2,
+                  "id": 1197101
+                },
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Françoise Yip",
+                  "character": "Kepler",
+                  "profile_path": "/2fBymfOzhw8wB6wHFHbxulNysB4.jpg",
+                  "order": 4,
+                  "id": 10875
+                },
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Matt Visser",
+                  "character": "Weston Miller",
+                  "profile_path": "/fvDV9gS9mIHUKfhzardxI6KjTUZ.jpg",
+                  "order": 525,
+                  "id": 1864378
+                },
+                {
+                  "name": "Aaron Hale",
+                  "character": "Brandon Caruthers",
+                  "profile_path": "/lMluSuYXZrMW9YmCAp9WrSPQ3M8.jpg",
+                  "order": 526,
+                  "id": 1674739
+                },
+                {
+                  "name": "Ajay Friese",
+                  "character": "Amir",
+                  "profile_path": "/gUp056XNGsHfIdg87aSe3ho6fiJ.jpg",
+                  "order": 528,
+                  "id": 1954524
+                },
+                {
+                  "name": "Favour Onwuka",
+                  "character": "Drea Antonucci",
+                  "profile_path": "/bE6ar7AmjnxvEPlMycLaKekLfz0.jpg",
+                  "order": 529,
+                  "id": 2077289
+                },
+                {
+                  "name": "Matt Frewer",
+                  "character": "Peter Morton",
+                  "profile_path": "/ouicMpmW9O01nB1c7BzoOBHipKw.jpg",
+                  "order": 530,
+                  "id": 40009
+                },
+                {
+                  "name": "Max Martini",
+                  "character": "Edward Coventry",
+                  "profile_path": "/gehOxb2cgNjcRnbAxaCUnFFJvAY.jpg",
+                  "order": 531,
+                  "id": 94864
+                },
+                {
+                  "name": "Jedidiah Goodacre",
+                  "character": "Kyle",
+                  "profile_path": "/tdPKfDlQn83qw0OqYnccxpuxuUc.jpg",
+                  "order": 566,
+                  "id": 1334653
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Mathias Herndl",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1108749,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Shelley Eriksen",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 189019,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt8488640",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7054279,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 10,
+              "name": "Finais: Parte 2",
+              "original_name": "",
+              "air_date": "2019-03-07",
+              "runtime": 51,
+              "overview": "Os cavaleiros planejam frustrar o plano de Edward sequestrando seu filho. Gabrielle e a Conselheira Hermética interrogam Lilith.",
+              "still_path": "/1T5vKGnpS0upGVdFFHJpV7ZZMpg.jpg",
+              "vote_average": 8.2,
+              "vote_count": 10,
+              "guest_stars": [
+                {
+                  "name": "Devery Jacobs",
+                  "character": "Lilith Bathory",
+                  "profile_path": "/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg",
+                  "order": 2,
+                  "id": 1197101
+                },
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Françoise Yip",
+                  "character": "Kepler",
+                  "profile_path": "/2fBymfOzhw8wB6wHFHbxulNysB4.jpg",
+                  "order": 4,
+                  "id": 10875
+                },
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Aaron Hale",
+                  "character": "Brandon Caruthers",
+                  "profile_path": "/lMluSuYXZrMW9YmCAp9WrSPQ3M8.jpg",
+                  "order": 526,
+                  "id": 1674739
+                },
+                {
+                  "name": "Dylan Playfair",
+                  "character": "Clay Turner",
+                  "profile_path": "/iWkup8QYwyEYM4Dvi7x1OHHNR6G.jpg",
+                  "order": 527,
+                  "id": 1098664
+                },
+                {
+                  "name": "Matt Frewer",
+                  "character": "Peter Morton",
+                  "profile_path": "/ouicMpmW9O01nB1c7BzoOBHipKw.jpg",
+                  "order": 530,
+                  "id": 40009
+                },
+                {
+                  "name": "Max Martini",
+                  "character": "Edward Coventry",
+                  "profile_path": "/gehOxb2cgNjcRnbAxaCUnFFJvAY.jpg",
+                  "order": 531,
+                  "id": 94864
+                },
+                {
+                  "name": "Ian Tracey",
+                  "character": "Diego Nunez",
+                  "profile_path": "/dUzzLVVUF0pvGzS3xrIZ5tiC2TT.jpg",
+                  "order": 532,
+                  "id": 25386
+                },
+                {
+                  "name": "Kayla Heller",
+                  "character": "Selena Durov",
+                  "profile_path": "/30XtBCklEe4n0a4NWlnvq8KquRz.jpg",
+                  "order": 558,
+                  "id": 2259990
+                },
+                {
+                  "name": "Christian Michael Cooper",
+                  "character": "Maddox Coventry",
+                  "profile_path": "/v0aG9THfELyBmwjhmL3eiWfHIB6.jpg",
+                  "order": 572,
+                  "id": 1256296
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Mathias Herndl",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1108749,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Dennis Heaton",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 64762,
+                  "profile_path": "/51VQzxw4rKuYWB8AXdChKbwc3wg.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt8488650",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7054280,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "name": "Temporada 2",
+          "overview": "",
+          "poster_path": "/m0kyARtqCuFLt5qWuIkA3LD9e85.jpg",
+          "poster": "/m0kyARtqCuFLt5qWuIkA3LD9e85.jpg",
+          "backdrop_path": "",
+          "air_date": "2020-06-18",
+          "vote_average": 8,
+          "vote_count": 0,
+          "cast": [
+            {
+              "name": "Jake Manley",
+              "character": "Jack Morton",
+              "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+              "order": 0,
+              "id": 1300650
+            },
+            {
+              "name": "Sarah Grey",
+              "character": "Alyssa Drake",
+              "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+              "order": 1,
+              "id": 1197119
+            }
+          ],
+          "crew": [],
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Radicais livres - Parte 1",
+              "original_name": "",
+              "air_date": "2020-06-18",
+              "runtime": 48,
+              "overview": "",
+              "still_path": "/vHgiz6XQL9rCL2KSTQ1dbSxv11e.jpg",
+              "vote_average": 7.4,
+              "vote_count": 9,
+              "guest_stars": [
+                {
+                  "name": "Devery Jacobs",
+                  "character": "Lilith Bathory",
+                  "profile_path": "/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg",
+                  "order": 2,
+                  "id": 1197101
+                },
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Françoise Yip",
+                  "character": "Kepler",
+                  "profile_path": "/2fBymfOzhw8wB6wHFHbxulNysB4.jpg",
+                  "order": 4,
+                  "id": 10875
+                },
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Matt Frewer",
+                  "character": "Peter Morton",
+                  "profile_path": "/ouicMpmW9O01nB1c7BzoOBHipKw.jpg",
+                  "order": 530,
+                  "id": 40009
+                },
+                {
+                  "name": "Max Martini",
+                  "character": "Edward Coventry",
+                  "profile_path": "/gehOxb2cgNjcRnbAxaCUnFFJvAY.jpg",
+                  "order": 531,
+                  "id": 94864
+                },
+                {
+                  "name": "Ian Tracey",
+                  "character": "Diego Nunez",
+                  "profile_path": "/dUzzLVVUF0pvGzS3xrIZ5tiC2TT.jpg",
+                  "order": 532,
+                  "id": 25386
+                },
+                {
+                  "name": "Guilherme Babilonia",
+                  "character": "Magistratus",
+                  "profile_path": "/edWxbnbZOfmynz5CSfQRw7y6y9n.jpg",
+                  "order": 533,
+                  "id": 2685484
+                },
+                {
+                  "name": "Grace Dove",
+                  "character": "Ellie",
+                  "profile_path": "/s2Bnkna2WqGFzmI4NHOIOaNKHLa.jpg",
+                  "order": 535,
+                  "id": 1554188
+                },
+                {
+                  "name": "Tyson Arner",
+                  "character": "Stoned Student",
+                  "profile_path": "/tGZr7BFsRlHBSoL46f362hqpwlW.jpg",
+                  "order": 536,
+                  "id": 1790329
+                },
+                {
+                  "name": "Ben Comin",
+                  "character": "Burned Student",
+                  "profile_path": "/gTuYMm0XFy03Ra8nD02uzdOCRjV.jpg",
+                  "order": 537,
+                  "id": 2685487
+                },
+                {
+                  "name": "Matty Finochio",
+                  "character": "Professor Cameron Foley",
+                  "profile_path": "/7I2iawz7YHZDbH15V4Om0Tdep9c.jpg",
+                  "order": 551,
+                  "id": 440439
+                },
+                {
+                  "name": "Kayla Heller",
+                  "character": "Selena Durov",
+                  "profile_path": "/30XtBCklEe4n0a4NWlnvq8KquRz.jpg",
+                  "order": 558,
+                  "id": 2259990
+                },
+                {
+                  "name": "Austin Anozie",
+                  "character": "Angus Carter",
+                  "profile_path": "/1uA9awHpAgbhsWiD33ol9DttCeB.jpg",
+                  "order": 559,
+                  "id": 2582572
+                },
+                {
+                  "name": "Anesha Bailey",
+                  "character": "Nicole Birch",
+                  "profile_path": "/kMuEZEvppyRzsNV8uxpqfmOXdMY.jpg",
+                  "order": 567,
+                  "id": 1274528
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Leslie Hope",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 25834,
+                  "profile_path": "/pLvZqTqyAh0YmC7egk460I5py42.jpg"
+                },
+                {
+                  "name": "Dennis Heaton",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 64762,
+                  "profile_path": "/51VQzxw4rKuYWB8AXdChKbwc3wg.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt10096008",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7752895,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 2,
+              "name": "Radicais livres - Parte 2",
+              "original_name": "",
+              "air_date": "2020-06-18",
+              "runtime": 48,
+              "overview": "",
+              "still_path": "/hAYFmcDuYxBxrU6p9xediPqIrQ1.jpg",
+              "vote_average": 8,
+              "vote_count": 8,
+              "guest_stars": [
+                {
+                  "name": "Devery Jacobs",
+                  "character": "Lilith Bathory",
+                  "profile_path": "/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg",
+                  "order": 2,
+                  "id": 1197101
+                },
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Sam Trammell",
+                  "character": "Eric Clarke",
+                  "profile_path": "/nt4uogoUsX3gR3kUcxuEZzsonep.jpg",
+                  "order": 534,
+                  "id": 131006
+                },
+                {
+                  "name": "Grace Dove",
+                  "character": "Ellie",
+                  "profile_path": "/s2Bnkna2WqGFzmI4NHOIOaNKHLa.jpg",
+                  "order": 535,
+                  "id": 1554188
+                },
+                {
+                  "name": "Rhinnan Payne",
+                  "character": "Female Student",
+                  "profile_path": "/hUZ0d22ft0wYjvzKJjCDFoY2j4N.jpg",
+                  "order": 538,
+                  "id": 2685489
+                },
+                {
+                  "name": "Mark Dozlaw",
+                  "character": "Trevor Burstyn",
+                  "profile_path": "/cqQT0PXXgVns9q7baxtqZ5beF9f.jpg",
+                  "order": 539,
+                  "id": 1922192
+                },
+                {
+                  "name": "Kevin Adamski",
+                  "character": "Desiccated Male Student",
+                  "profile_path": "/wDZa26UMVn0V4Zm2a02yeNcnEHy.jpg",
+                  "order": 540,
+                  "id": 2561904
+                },
+                {
+                  "name": "Matty Finochio",
+                  "character": "Professor Cameron Foley",
+                  "profile_path": "/7I2iawz7YHZDbH15V4Om0Tdep9c.jpg",
+                  "order": 551,
+                  "id": 440439
+                },
+                {
+                  "name": "Anesha Bailey",
+                  "character": "Nicole Birch",
+                  "profile_path": "/kMuEZEvppyRzsNV8uxpqfmOXdMY.jpg",
+                  "order": 567,
+                  "id": 1274528
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Leslie Hope",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 25834,
+                  "profile_path": "/pLvZqTqyAh0YmC7egk460I5py42.jpg"
+                },
+                {
+                  "name": "Dennis Heaton",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 64762,
+                  "profile_path": "/51VQzxw4rKuYWB8AXdChKbwc3wg.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt10096010",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7752896,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 3,
+              "name": "Corredor do medo - Parte 1",
+              "original_name": "",
+              "air_date": "2020-06-18",
+              "runtime": 45,
+              "overview": "",
+              "still_path": "/asxsiu9zMZhZLJcU5rK6BUttBgt.jpg",
+              "vote_average": 6.8,
+              "vote_count": 11,
+              "guest_stars": [
+                {
+                  "name": "Devery Jacobs",
+                  "character": "Lilith Bathory",
+                  "profile_path": "/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg",
+                  "order": 2,
+                  "id": 1197101
+                },
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Françoise Yip",
+                  "character": "Kepler",
+                  "profile_path": "/2fBymfOzhw8wB6wHFHbxulNysB4.jpg",
+                  "order": 4,
+                  "id": 10875
+                },
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Katie Stuart",
+                  "character": "Teenage Girl",
+                  "profile_path": "/1IBs3sOOFyAz0SHybSI9D5pKi3K.jpg",
+                  "order": 541,
+                  "id": 64470
+                },
+                {
+                  "name": "Jeny Cassady",
+                  "character": "Puppeteer",
+                  "profile_path": "/zC25vqcJhZBYPxQbtiIr4Br19xi.jpg",
+                  "order": 542,
+                  "id": 1504145
+                },
+                {
+                  "name": "Jodelle Ferland",
+                  "character": "Zecchia",
+                  "profile_path": "/5N83sI2aDqnvcxIXsoXk0kBUwDz.jpg",
+                  "order": 543,
+                  "id": 8338
+                },
+                {
+                  "name": "Anthony Parfitt",
+                  "character": "Grand Magus",
+                  "profile_path": "",
+                  "order": 549,
+                  "id": 2567648
+                },
+                {
+                  "name": "Matty Finochio",
+                  "character": "Professor Cameron Foley",
+                  "profile_path": "/7I2iawz7YHZDbH15V4Om0Tdep9c.jpg",
+                  "order": 551,
+                  "id": 440439
+                },
+                {
+                  "name": "Kayla Heller",
+                  "character": "Selena Durov",
+                  "profile_path": "/30XtBCklEe4n0a4NWlnvq8KquRz.jpg",
+                  "order": 558,
+                  "id": 2259990
+                },
+                {
+                  "name": "Austin Anozie",
+                  "character": "Angus Carter",
+                  "profile_path": "/1uA9awHpAgbhsWiD33ol9DttCeB.jpg",
+                  "order": 559,
+                  "id": 2582572
+                },
+                {
+                  "name": "Anesha Bailey",
+                  "character": "Nicole Birch",
+                  "profile_path": "/kMuEZEvppyRzsNV8uxpqfmOXdMY.jpg",
+                  "order": 567,
+                  "id": 1274528
+                },
+                {
+                  "name": "Diana Bang",
+                  "character": "Salvador",
+                  "profile_path": "/8DTmzeUY4R1x8tYj1e1rvHZbB4y.jpg",
+                  "order": 568,
+                  "id": 583051
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Mathias Herndl",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1108749,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Shelley Eriksen",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 189019,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt10096012",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7752897,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 4,
+              "name": "Corredor do medo - Parte 2",
+              "original_name": "",
+              "air_date": "2020-06-18",
+              "runtime": 46,
+              "overview": "",
+              "still_path": "/qe9hGqzLB1CW9lhaNE6SgdFi6Bt.jpg",
+              "vote_average": 8.8,
+              "vote_count": 8,
+              "guest_stars": [
+                {
+                  "name": "Devery Jacobs",
+                  "character": "Lilith Bathory",
+                  "profile_path": "/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg",
+                  "order": 2,
+                  "id": 1197101
+                },
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Françoise Yip",
+                  "character": "Kepler",
+                  "profile_path": "/2fBymfOzhw8wB6wHFHbxulNysB4.jpg",
+                  "order": 4,
+                  "id": 10875
+                },
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Jodelle Ferland",
+                  "character": "Zecchia",
+                  "profile_path": "/5N83sI2aDqnvcxIXsoXk0kBUwDz.jpg",
+                  "order": 543,
+                  "id": 8338
+                },
+                {
+                  "name": "Sasha Roiz",
+                  "character": "Rogwan",
+                  "profile_path": "/hneSnvFh25FFRWRzd93EhO7S11p.jpg",
+                  "order": 544,
+                  "id": 6071
+                },
+                {
+                  "name": "Kristi Taylor",
+                  "character": "Disciple Magistratus",
+                  "profile_path": "/vT3AwPZuWuTkZBpszE70gsepdcB.jpg",
+                  "order": 545,
+                  "id": 1939759
+                },
+                {
+                  "name": "David Quinlan",
+                  "character": "Man",
+                  "profile_path": "/Ku59iawoN6b16Sr8ZsLw1PKZNu.jpg",
+                  "order": 546,
+                  "id": 1368801
+                },
+                {
+                  "name": "Emma Slipp",
+                  "character": "Bartender",
+                  "profile_path": "",
+                  "order": 547,
+                  "id": 2685533
+                },
+                {
+                  "name": "Derek Kwan",
+                  "character": "Male Cheerleader",
+                  "profile_path": "/yYO8PeQBBb6ORxhHUBOpiojgdjI.jpg",
+                  "order": 548,
+                  "id": 2175469
+                },
+                {
+                  "name": "Anthony Parfitt",
+                  "character": "Grand Magus",
+                  "profile_path": "",
+                  "order": 549,
+                  "id": 2567648
+                },
+                {
+                  "name": "James Corman",
+                  "character": "Philosophus",
+                  "profile_path": "",
+                  "order": 550,
+                  "id": 2685545
+                },
+                {
+                  "name": "Matty Finochio",
+                  "character": "Professor Cameron Foley",
+                  "profile_path": "/7I2iawz7YHZDbH15V4Om0Tdep9c.jpg",
+                  "order": 551,
+                  "id": 440439
+                },
+                {
+                  "name": "Austin Anozie",
+                  "character": "Angus Carter",
+                  "profile_path": "/1uA9awHpAgbhsWiD33ol9DttCeB.jpg",
+                  "order": 559,
+                  "id": 2582572
+                },
+                {
+                  "name": "Anesha Bailey",
+                  "character": "Nicole Birch",
+                  "profile_path": "/kMuEZEvppyRzsNV8uxpqfmOXdMY.jpg",
+                  "order": 567,
+                  "id": 1274528
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Mathias Herndl",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1108749,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Shelley Eriksen",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 189019,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt10096016",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7752898,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 5,
+              "name": "A Comunidade - Parte 1",
+              "original_name": "",
+              "air_date": "2020-06-18",
+              "runtime": 46,
+              "overview": "",
+              "still_path": "/46lgZguBJpI4hLTOeBMuEKdoErq.jpg",
+              "vote_average": 8,
+              "vote_count": 9,
+              "guest_stars": [
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Françoise Yip",
+                  "character": "Kepler",
+                  "profile_path": "/2fBymfOzhw8wB6wHFHbxulNysB4.jpg",
+                  "order": 4,
+                  "id": 10875
+                },
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Matty Finochio",
+                  "character": "Professor Cameron Foley",
+                  "profile_path": "/7I2iawz7YHZDbH15V4Om0Tdep9c.jpg",
+                  "order": 551,
+                  "id": 440439
+                },
+                {
+                  "name": "James Marsters",
+                  "character": "Xavier",
+                  "profile_path": "/oJnBB3g2IINnsLSr8B79bJ9ykkx.jpg",
+                  "order": 552,
+                  "id": 47297
+                },
+                {
+                  "name": "Madison Smith",
+                  "character": "Orbin",
+                  "profile_path": "/tQDSReMuE0zhhDP4e3SvXcnCNmK.jpg",
+                  "order": 553,
+                  "id": 1171759
+                },
+                {
+                  "name": "Steve Bacic",
+                  "character": "Malachai",
+                  "profile_path": "/aGEGpzzXuggaLCU0wTaVHbBdYYu.jpg",
+                  "order": 554,
+                  "id": 33355
+                },
+                {
+                  "name": "Francesca Bianchi",
+                  "character": "Essie",
+                  "profile_path": "/yKSJZSgBKMjySREahw2qlYVwl2X.jpg",
+                  "order": 555,
+                  "id": 1669343
+                },
+                {
+                  "name": "Anesha Bailey",
+                  "character": "Nicole Birch",
+                  "profile_path": "/kMuEZEvppyRzsNV8uxpqfmOXdMY.jpg",
+                  "order": 567,
+                  "id": 1274528
+                },
+                {
+                  "name": "Diana Bang",
+                  "character": "Salvador",
+                  "profile_path": "/8DTmzeUY4R1x8tYj1e1rvHZbB4y.jpg",
+                  "order": 568,
+                  "id": 583051
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Jason Filiatrault",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1810496,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Marita Grabiak",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1215026,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt10096024",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7752899,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 6,
+              "name": "A Comunidade - Parte 2",
+              "original_name": "",
+              "air_date": "2020-06-18",
+              "runtime": 47,
+              "overview": "",
+              "still_path": "/l3bb2seyJsHMxSgUnYj6gv8ZcST.jpg",
+              "vote_average": 7.1,
+              "vote_count": 11,
+              "guest_stars": [
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Françoise Yip",
+                  "character": "Kepler",
+                  "profile_path": "/2fBymfOzhw8wB6wHFHbxulNysB4.jpg",
+                  "order": 4,
+                  "id": 10875
+                },
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Matty Finochio",
+                  "character": "Professor Cameron Foley",
+                  "profile_path": "/7I2iawz7YHZDbH15V4Om0Tdep9c.jpg",
+                  "order": 551,
+                  "id": 440439
+                },
+                {
+                  "name": "James Marsters",
+                  "character": "Xavier",
+                  "profile_path": "/oJnBB3g2IINnsLSr8B79bJ9ykkx.jpg",
+                  "order": 552,
+                  "id": 47297
+                },
+                {
+                  "name": "Madison Smith",
+                  "character": "Orbin",
+                  "profile_path": "/tQDSReMuE0zhhDP4e3SvXcnCNmK.jpg",
+                  "order": 553,
+                  "id": 1171759
+                },
+                {
+                  "name": "Steve Bacic",
+                  "character": "Malachai",
+                  "profile_path": "/aGEGpzzXuggaLCU0wTaVHbBdYYu.jpg",
+                  "order": 554,
+                  "id": 33355
+                },
+                {
+                  "name": "Francesca Bianchi",
+                  "character": "Essie",
+                  "profile_path": "/yKSJZSgBKMjySREahw2qlYVwl2X.jpg",
+                  "order": 555,
+                  "id": 1669343
+                },
+                {
+                  "name": "Diana Bang",
+                  "character": "Salvador",
+                  "profile_path": "/8DTmzeUY4R1x8tYj1e1rvHZbB4y.jpg",
+                  "order": 568,
+                  "id": 583051
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Penny E. Gummerson",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2596203,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Marita Grabiak",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1215026,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt10096022",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7752901,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 7,
+              "name": "Aconteceu na primavera - Parte 1",
+              "original_name": "",
+              "air_date": "2020-06-18",
+              "runtime": 51,
+              "overview": "",
+              "still_path": "/koCcWANyXHFHeIOLryFzg7BNXIm.jpg",
+              "vote_average": 8,
+              "vote_count": 8,
+              "guest_stars": [
+                {
+                  "name": "Devery Jacobs",
+                  "character": "Lilith Bathory",
+                  "profile_path": "/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg",
+                  "order": 2,
+                  "id": 1197101
+                },
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Françoise Yip",
+                  "character": "Kepler",
+                  "profile_path": "/2fBymfOzhw8wB6wHFHbxulNysB4.jpg",
+                  "order": 4,
+                  "id": 10875
+                },
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Matty Finochio",
+                  "character": "Professor Cameron Foley",
+                  "profile_path": "/7I2iawz7YHZDbH15V4Om0Tdep9c.jpg",
+                  "order": 551,
+                  "id": 440439
+                },
+                {
+                  "name": "Madison Smith",
+                  "character": "Orbin",
+                  "profile_path": "/tQDSReMuE0zhhDP4e3SvXcnCNmK.jpg",
+                  "order": 553,
+                  "id": 1171759
+                },
+                {
+                  "name": "Kayla Heller",
+                  "character": "Selena Durov",
+                  "profile_path": "/30XtBCklEe4n0a4NWlnvq8KquRz.jpg",
+                  "order": 558,
+                  "id": 2259990
+                },
+                {
+                  "name": "Austin Anozie",
+                  "character": "Angus Carter",
+                  "profile_path": "/1uA9awHpAgbhsWiD33ol9DttCeB.jpg",
+                  "order": 559,
+                  "id": 2582572
+                },
+                {
+                  "name": "David Lennon",
+                  "character": "Robert Brown",
+                  "profile_path": "/a3Vvmjs5DCkOxTahltbMsXdsNvb.jpg",
+                  "order": 560,
+                  "id": 1519524
+                },
+                {
+                  "name": "Alison Chang",
+                  "character": "Terry Soo",
+                  "profile_path": "/rt1xDAQmWctFzW4k6ZBeCVP7iCv.jpg",
+                  "order": 561,
+                  "id": 2529767
+                },
+                {
+                  "name": "Anesha Bailey",
+                  "character": "Nicole Birch",
+                  "profile_path": "/kMuEZEvppyRzsNV8uxpqfmOXdMY.jpg",
+                  "order": 567,
+                  "id": 1274528
+                },
+                {
+                  "name": "Diana Bang",
+                  "character": "Salvador",
+                  "profile_path": "/8DTmzeUY4R1x8tYj1e1rvHZbB4y.jpg",
+                  "order": 568,
+                  "id": 583051
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Gorrman Lee",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 2490378,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Mark Chow",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1404734,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Dianne Greenwood",
+                  "job": "Costumer",
+                  "department": "Costume & Make-Up",
+                  "id": 4088541,
+                  "profile_path": "/vK6Nx1TB0BoKYfBWP4Xbw8jeykZ.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt10096020",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7752902,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 8,
+              "name": "Aconteceu na primavera - Parte 2",
+              "original_name": "",
+              "air_date": "2020-06-18",
+              "runtime": 52,
+              "overview": "",
+              "still_path": "/yVD6E3svznzEP8mjxxkmxSZiGQo.jpg",
+              "vote_average": 8.7,
+              "vote_count": 9,
+              "guest_stars": [
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Françoise Yip",
+                  "character": "Kepler",
+                  "profile_path": "/2fBymfOzhw8wB6wHFHbxulNysB4.jpg",
+                  "order": 4,
+                  "id": 10875
+                },
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Ian Ziering",
+                  "character": "Himself",
+                  "profile_path": "/keJ4aYXWzUD1MOTDNrKDAXUstW0.jpg",
+                  "order": 556,
+                  "id": 19146
+                },
+                {
+                  "name": "Jason Priestley",
+                  "character": "Himself",
+                  "profile_path": "/lQvkOOhf59FTD86G96fTRp17VJt.jpg",
+                  "order": 557,
+                  "id": 19143
+                },
+                {
+                  "name": "Kayla Heller",
+                  "character": "Selena Durov",
+                  "profile_path": "/30XtBCklEe4n0a4NWlnvq8KquRz.jpg",
+                  "order": 558,
+                  "id": 2259990
+                },
+                {
+                  "name": "Austin Anozie",
+                  "character": "Angus Carter",
+                  "profile_path": "/1uA9awHpAgbhsWiD33ol9DttCeB.jpg",
+                  "order": 559,
+                  "id": 2582572
+                },
+                {
+                  "name": "David Lennon",
+                  "character": "Robert Brown",
+                  "profile_path": "/a3Vvmjs5DCkOxTahltbMsXdsNvb.jpg",
+                  "order": 560,
+                  "id": 1519524
+                },
+                {
+                  "name": "Alison Chang",
+                  "character": "Terry Soo",
+                  "profile_path": "/rt1xDAQmWctFzW4k6ZBeCVP7iCv.jpg",
+                  "order": 561,
+                  "id": 2529767
+                },
+                {
+                  "name": "Anesha Bailey",
+                  "character": "Nicole Birch",
+                  "profile_path": "/kMuEZEvppyRzsNV8uxpqfmOXdMY.jpg",
+                  "order": 567,
+                  "id": 1274528
+                },
+                {
+                  "name": "Diana Bang",
+                  "character": "Salvador",
+                  "profile_path": "/8DTmzeUY4R1x8tYj1e1rvHZbB4y.jpg",
+                  "order": 568,
+                  "id": 583051
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Kat Sieniuc",
+                  "job": "Story",
+                  "department": "Writing",
+                  "id": 3363114,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Rachel Langer",
+                  "job": "Teleplay",
+                  "department": "Writing",
+                  "id": 2093251,
+                  "profile_path": ""
+                },
+                {
+                  "name": "David Von Ancken",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 77458,
+                  "profile_path": "/uKGriSHT7PvC0uSVWzks7LUl3g3.jpg"
+                },
+                {
+                  "name": "Dianne Greenwood",
+                  "job": "Costumer",
+                  "department": "Costume & Make-Up",
+                  "id": 4088541,
+                  "profile_path": "/vK6Nx1TB0BoKYfBWP4Xbw8jeykZ.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt10096026",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7752903,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 9,
+              "name": "Nova Ordem mundial - Parte 1",
+              "original_name": "",
+              "air_date": "2020-06-18",
+              "runtime": 50,
+              "overview": "",
+              "still_path": "/qY6bqlcyr7PnItb8yD9PwlRVwbN.jpg",
+              "vote_average": 8.8,
+              "vote_count": 8,
+              "guest_stars": [
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Françoise Yip",
+                  "character": "Kepler",
+                  "profile_path": "/2fBymfOzhw8wB6wHFHbxulNysB4.jpg",
+                  "order": 4,
+                  "id": 10875
+                },
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Kayla Heller",
+                  "character": "Selena Durov",
+                  "profile_path": "/30XtBCklEe4n0a4NWlnvq8KquRz.jpg",
+                  "order": 558,
+                  "id": 2259990
+                },
+                {
+                  "name": "Austin Anozie",
+                  "character": "Angus Carter",
+                  "profile_path": "/1uA9awHpAgbhsWiD33ol9DttCeB.jpg",
+                  "order": 559,
+                  "id": 2582572
+                },
+                {
+                  "name": "Claude Knowlton",
+                  "character": "Bennett",
+                  "profile_path": "/o8RfvGgH1q2IWVmSr6Fm9XwCEUk.jpg",
+                  "order": 562,
+                  "id": 1391886
+                },
+                {
+                  "name": "Bonnie Hay",
+                  "character": "Blind Woman",
+                  "profile_path": "/4hYidg4XddOnAErD8Vc4LvH08bl.jpg",
+                  "order": 563,
+                  "id": 1235499
+                },
+                {
+                  "name": "Taylor Kare",
+                  "character": "Tyler",
+                  "profile_path": "/csBjW8Rnt5i3dUgW8wCUcNUpuS2.jpg",
+                  "order": 564,
+                  "id": 1885230
+                },
+                {
+                  "name": "Krista Magnusson",
+                  "character": "Police Officer",
+                  "profile_path": "/zt68Zb43KXqd50wQVkpEIqsxVm4.jpg",
+                  "order": 565,
+                  "id": 1327456
+                },
+                {
+                  "name": "Anesha Bailey",
+                  "character": "Nicole Birch",
+                  "profile_path": "/kMuEZEvppyRzsNV8uxpqfmOXdMY.jpg",
+                  "order": 567,
+                  "id": 1274528
+                },
+                {
+                  "name": "Diana Bang",
+                  "character": "Salvador",
+                  "profile_path": "/8DTmzeUY4R1x8tYj1e1rvHZbB4y.jpg",
+                  "order": 568,
+                  "id": 583051
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Kristin Lehman",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 148112,
+                  "profile_path": "/boMsJj80ISyjDp4cvSprURTWJ0I.jpg"
+                },
+                {
+                  "name": "Jason Filiatrault",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1810496,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Dianne Greenwood",
+                  "job": "Costumer",
+                  "department": "Costume & Make-Up",
+                  "id": 4088541,
+                  "profile_path": "/vK6Nx1TB0BoKYfBWP4Xbw8jeykZ.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt10096030",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7752904,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            },
+            {
+              "episode_number": 10,
+              "name": "Nova Ordem mundial - Parte 2",
+              "original_name": "",
+              "air_date": "2020-06-18",
+              "runtime": 50,
+              "overview": "",
+              "still_path": "/zUDin7tyCOC6L7lzXBHRI5BqM1Q.jpg",
+              "vote_average": 8.1,
+              "vote_count": 8,
+              "guest_stars": [
+                {
+                  "name": "Devery Jacobs",
+                  "character": "Lilith Bathory",
+                  "profile_path": "/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg",
+                  "order": 2,
+                  "id": 1197101
+                },
+                {
+                  "name": "Thomas Elms",
+                  "character": "Hamish Duke",
+                  "profile_path": "/chbeyxCZ0ReI4NIE1keApI75rlj.jpg",
+                  "order": 3,
+                  "id": 1780950
+                },
+                {
+                  "name": "Françoise Yip",
+                  "character": "Kepler",
+                  "profile_path": "/2fBymfOzhw8wB6wHFHbxulNysB4.jpg",
+                  "order": 4,
+                  "id": 10875
+                },
+                {
+                  "name": "Katharine Isabelle",
+                  "character": "Vera Stone",
+                  "profile_path": "/hX6i25ieoEJEZ1jV81qob2Na0su.jpg",
+                  "order": 5,
+                  "id": 27136
+                },
+                {
+                  "name": "Louriza Tronco",
+                  "character": "Gabrielle Dupres",
+                  "profile_path": "/taqxXukoTRHmn6SieJwOys91QaF.jpg",
+                  "order": 6,
+                  "id": 1746177
+                },
+                {
+                  "name": "Adam DiMarco",
+                  "character": "Randall Carpio",
+                  "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+                  "order": 7,
+                  "id": 936932
+                },
+                {
+                  "name": "Jedidiah Goodacre",
+                  "character": "Kyle",
+                  "profile_path": "/tdPKfDlQn83qw0OqYnccxpuxuUc.jpg",
+                  "order": 566,
+                  "id": 1334653
+                },
+                {
+                  "name": "Anesha Bailey",
+                  "character": "Nicole Birch",
+                  "profile_path": "/kMuEZEvppyRzsNV8uxpqfmOXdMY.jpg",
+                  "order": 567,
+                  "id": 1274528
+                },
+                {
+                  "name": "Diana Bang",
+                  "character": "Salvador",
+                  "profile_path": "/8DTmzeUY4R1x8tYj1e1rvHZbB4y.jpg",
+                  "order": 568,
+                  "id": 583051
+                },
+                {
+                  "name": "Sandra Shapiro",
+                  "character": "Regina",
+                  "profile_path": "/4lpTugkwbscdWrXjKIN46RnWl1Q.jpg",
+                  "order": 569,
+                  "id": 2685659
+                },
+                {
+                  "name": "Mig Macario",
+                  "character": "Edgar Dupres",
+                  "profile_path": "/g8YZsr8SsPm4DAqPE7jmlcCYxxu.jpg",
+                  "order": 570,
+                  "id": 1226197
+                },
+                {
+                  "name": "Tom Kirk",
+                  "character": "Demon",
+                  "profile_path": "",
+                  "order": 571,
+                  "id": 588111
+                },
+                {
+                  "name": "Christian Michael Cooper",
+                  "character": "Maddox Coventry",
+                  "profile_path": "/v0aG9THfELyBmwjhmL3eiWfHIB6.jpg",
+                  "order": 572,
+                  "id": 1256296
+                },
+                {
+                  "name": "Olesia Shewchuk",
+                  "character": "Ballet Teacher",
+                  "profile_path": "/sezwkMSmXwC00dVi0NVnnAeuq63.jpg",
+                  "order": 573,
+                  "id": 1475531
+                },
+                {
+                  "name": "Ally Williams",
+                  "character": "Mean Girl",
+                  "profile_path": "/h5FMObFck3z5M2WuGzKiw7T4WTQ.jpg",
+                  "order": 574,
+                  "id": 2170433
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Jake Manley",
+                  "character": "Jack Morton",
+                  "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+                  "order": 0,
+                  "id": 1300650
+                },
+                {
+                  "name": "Sarah Grey",
+                  "character": "Alyssa Drake",
+                  "profile_path": "/r3cvVVjUEhBgW0a5aVtvrqrPjQX.jpg",
+                  "order": 1,
+                  "id": 1197119
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Kristin Lehman",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 148112,
+                  "profile_path": "/boMsJj80ISyjDp4cvSprURTWJ0I.jpg"
+                },
+                {
+                  "name": "Shelley Eriksen",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 189019,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Dennis Heaton",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 64762,
+                  "profile_path": "/51VQzxw4rKuYWB8AXdChKbwc3wg.jpg"
+                },
+                {
+                  "name": "Dianne Greenwood",
+                  "job": "Costumer",
+                  "department": "Costume & Make-Up",
+                  "id": 4088541,
+                  "profile_path": "/vK6Nx1TB0BoKYfBWP4Xbw8jeykZ.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt10096032",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 7752905,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "_link_encoding": "base64"
 }
