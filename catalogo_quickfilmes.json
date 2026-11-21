@@ -1,4 +1,318 @@
 {
-  "filmes": [],
+  "filmes": [
+    {
+      "type": "movie",
+      "title": "Batman do Futuro: O Retorno do Coringa",
+      "original_title": "Batman Beyond: Return of the Joker",
+      "tmdb_id": "16234",
+      "id": 16234,
+      "year": "2000",
+      "release_date": "2000-12-12",
+      "overview": "Enquanto busca descobrir os segredos por trás do Coringa, Terry McGinnis, o novo Batman, descobre também a verdade por trás do maior mistério da carreira do Batman original: a verdadeira história em que Bruce Wayne e o Coringa se enfrentaram pela última vez. Mas quando o Coringa retorna à ativa e quase mata Wayne, é hora do novo Batman vingar seu mentor e acabar de uma vez por todas com a ameaça do palhaço assassino.",
+      "tagline": "Dessa vez, o Coringa está louco!",
+      "poster": "/wd9fppMrD3KbH8jAMTqCF28QejD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7eFRxrUpEmXSRaQnSEum3hjmu9c.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/7nAwkeD8ZuyyzbxkQx8wwemS3e5.png",
+      "trailer": "",
+      "vote_average": 7.35,
+      "vote_count": 1228,
+      "genres": [
+        "Animação",
+        "Ação",
+        "Ficção científica"
+      ],
+      "runtime": 66,
+      "certification": "14",
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        "Warner Bros. Animation"
+      ],
+      "external_ids": {
+        "imdb_id": "tt0233298",
+        "wikidata_id": "Q1573706",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "sources": [],
+      "cast": [
+        {
+          "name": "Will Friedle",
+          "character": "Terry McGinnis / Batman (voice)",
+          "profile_path": "/Ao3fp9f4loVQ1Vvk6ph8HU5p0Lu.jpg",
+          "order": 0,
+          "id": 76621
+        },
+        {
+          "name": "Kevin Conroy",
+          "character": "Bruce Wayne (voice)",
+          "profile_path": "/zvWhAwO2l8Kb5IJTwTbKzURypg7.jpg",
+          "order": 1,
+          "id": 34947
+        },
+        {
+          "name": "Mark Hamill",
+          "character": "The Joker (voice)",
+          "profile_path": "/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg",
+          "order": 2,
+          "id": 2
+        },
+        {
+          "name": "Angie Harmon",
+          "character": "Commissioner Barbara Gordon (voice)",
+          "profile_path": "/ktzrAh55FF6hb4FzM5S9oTSTaeu.jpg",
+          "order": 3,
+          "id": 52929
+        },
+        {
+          "name": "Dean Stockwell",
+          "character": "Tim Drake (voice)",
+          "profile_path": "/gdHo8LNElMf1XxoRYgi0UUzbJuB.jpg",
+          "order": 4,
+          "id": 923
+        },
+        {
+          "name": "Arleen Sorkin",
+          "character": "Harley Quinn (voice)",
+          "profile_path": "/eZzTKXTBM7EXlcgUjWMiIJEs1tA.jpg",
+          "order": 5,
+          "id": 34978
+        },
+        {
+          "name": "Tara Strong",
+          "character": "Batgirl (voice)",
+          "profile_path": "/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg",
+          "order": 6,
+          "id": 15762
+        },
+        {
+          "name": "Mathew Valencia",
+          "character": "Robin (voice)",
+          "profile_path": "",
+          "order": 7,
+          "id": 1221555
+        },
+        {
+          "name": "Andrea Romano",
+          "character": "Laughing Boy (voice)",
+          "profile_path": "/6WeW7uCKJNK5pVtHmJg5odVZH4u.jpg",
+          "order": 8,
+          "id": 34945
+        },
+        {
+          "name": "Melissa Joan Hart",
+          "character": "Dee Dee (voice)",
+          "profile_path": "/slpAK9Ak1Bvi4FJCLeCdtwPZc3D.jpg",
+          "order": 9,
+          "id": 78501
+        },
+        {
+          "name": "Henry Rollins",
+          "character": "Bonk (voice)",
+          "profile_path": "/2E0cZdoJsdt1Lv4waG3s6fsfJeU.jpg",
+          "order": 10,
+          "id": 9290
+        },
+        {
+          "name": "Michael Rosenbaum",
+          "character": "Ghoul (voice)",
+          "profile_path": "/ymiZjRwcS3gcCtsfv4w3GjRc2yc.jpg",
+          "order": 11,
+          "id": 19975
+        },
+        {
+          "name": "Don Harvey",
+          "character": "Chucko (voice)",
+          "profile_path": "/dc10W0hRNxrO0IcwgKOcsUajtOG.jpg",
+          "order": 12,
+          "id": 1280
+        },
+        {
+          "name": "Frank Welker",
+          "character": "Woof / Ace (voice)",
+          "profile_path": "/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg",
+          "order": 13,
+          "id": 15831
+        },
+        {
+          "name": "Rachael Leigh Cook",
+          "character": "Chelsea Cunningham (voice)",
+          "profile_path": "/3ylMsV6dqo5ojKjuMz9xvkEreAA.jpg",
+          "order": 14,
+          "id": 38581
+        },
+        {
+          "name": "Lauren Tom",
+          "character": "Dana Tan (voice)",
+          "profile_path": "/qEJzdyBCLld4jDSF0Cldlt8GiCN.jpg",
+          "order": 15,
+          "id": 15100
+        },
+        {
+          "name": "Teri Garr",
+          "character": "Mary McGinnis (voice)",
+          "profile_path": "/iscVncnCVtM8Wl4FmcEkr6KDtRE.jpg",
+          "order": 16,
+          "id": 8437
+        },
+        {
+          "name": "Ryan O'Donohue",
+          "character": "Matt McGinnis (voice)",
+          "profile_path": "",
+          "order": 17,
+          "id": 166406
+        },
+        {
+          "name": "Vernee Watson",
+          "character": "Ms. Carr (voice)",
+          "profile_path": "/rUMtF1F6wrUHHfRkFlLz27xRoxd.jpg",
+          "order": 18,
+          "id": 157085
+        },
+        {
+          "name": "Mary Scheer",
+          "character": "Mrs. Tim Drake (voice)",
+          "profile_path": "/51LZcrFlk0ocIhNvC7DoP0UwVGh.jpg",
+          "order": 19,
+          "id": 102734
+        },
+        {
+          "name": "Bruce Timm",
+          "character": "Guard (voice)",
+          "profile_path": "/4G64qCUGFQ1Sfwa6MK7CzwAaHyL.jpg",
+          "order": 20,
+          "id": 34934
+        },
+        {
+          "name": "Mark Jonathan Davis",
+          "character": "V.R. Newsman (voice)",
+          "profile_path": "/q0CHyJmlq6k0kHaLuZbPbIBZzgj.jpg",
+          "order": 21,
+          "id": 170749
+        }
+      ],
+      "crew": [
+        {
+          "name": "Glen Murakami",
+          "job": "Screenplay",
+          "department": "Writing",
+          "id": 931819,
+          "profile_path": "/zDpC6ea1HFXQcLZThjzQ5QMMcty.jpg"
+        },
+        {
+          "name": "Curt Geda",
+          "job": "Director",
+          "department": "Directing",
+          "id": 34920,
+          "profile_path": "/jRcadH8KfIBe4JZzifNC7Zmxrv6.jpg"
+        },
+        {
+          "name": "Bruce Timm",
+          "job": "Screenplay",
+          "department": "Writing",
+          "id": 34934,
+          "profile_path": "/4G64qCUGFQ1Sfwa6MK7CzwAaHyL.jpg"
+        },
+        {
+          "name": "Joe Gall",
+          "job": "Editor",
+          "department": "Editing",
+          "id": 998195,
+          "profile_path": ""
+        },
+        {
+          "name": "Alan Burnett",
+          "job": "Producer",
+          "department": "Production",
+          "id": 34936,
+          "profile_path": "/3gNmuxxdQbZ6nX2F63SMQNVbmqz.jpg"
+        },
+        {
+          "name": "Kristopher Carter",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 497701,
+          "profile_path": ""
+        },
+        {
+          "name": "Paul Dini",
+          "job": "Producer",
+          "department": "Production",
+          "id": 1211813,
+          "profile_path": "/yPRds0jAYIU1OETfZuwka5ro7lE.jpg"
+        },
+        {
+          "name": "Glen Murakami",
+          "job": "Producer",
+          "department": "Production",
+          "id": 931819,
+          "profile_path": "/zDpC6ea1HFXQcLZThjzQ5QMMcty.jpg"
+        },
+        {
+          "name": "笠原義宏",
+          "job": "Director of Photography",
+          "department": "Camera",
+          "id": 3511114,
+          "profile_path": ""
+        },
+        {
+          "name": "Paul Dini",
+          "job": "Screenplay",
+          "department": "Writing",
+          "id": 1211813,
+          "profile_path": "/yPRds0jAYIU1OETfZuwka5ro7lE.jpg"
+        },
+        {
+          "name": "Michael Uslan",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 10949,
+          "profile_path": "/cXiiH0SSk5UHCvHOVAhHX7tNuls.jpg"
+        },
+        {
+          "name": "Benjamin Melniker",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 10951,
+          "profile_path": ""
+        }
+      ],
+      "directors": [
+        {
+          "name": "Curt Geda",
+          "job": "Director",
+          "department": "Directing",
+          "id": 34920,
+          "profile_path": "/jRcadH8KfIBe4JZzifNC7Zmxrv6.jpg"
+        }
+      ],
+      "writers": [
+        {
+          "name": "Glen Murakami",
+          "job": "Screenplay",
+          "department": "Writing",
+          "id": 931819,
+          "profile_path": "/zDpC6ea1HFXQcLZThjzQ5QMMcty.jpg"
+        },
+        {
+          "name": "Bruce Timm",
+          "job": "Screenplay",
+          "department": "Writing",
+          "id": 34934,
+          "profile_path": "/4G64qCUGFQ1Sfwa6MK7CzwAaHyL.jpg"
+        },
+        {
+          "name": "Paul Dini",
+          "job": "Screenplay",
+          "department": "Writing",
+          "id": 1211813,
+          "profile_path": "/yPRds0jAYIU1OETfZuwka5ro7lE.jpg"
+        }
+      ]
+    }
+  ],
   "_link_encoding": "base64"
 }
