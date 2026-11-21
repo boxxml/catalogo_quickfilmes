@@ -1996,6 +1996,1602 @@
           "profile_path": "/A6FPht87DiqXzp456WjakLi2AtP.jpg"
         }
       ]
+    },
+    {
+      "type": "movie",
+      "title": "Coringa: Delírio a Dois",
+      "original_title": "Joker: Folie à Deux",
+      "tmdb_id": "889737",
+      "id": 889737,
+      "year": "2024",
+      "release_date": "2024-10-01",
+      "overview": "Arthur Fleck está institucionalizado em Arkham à espera do julgamento por seus crimes como Coringa. Enquanto luta com sua dupla identidade, Arthur não apenas se depara com o amor verdadeiro, como encontra a música que sempre esteve dentro dele.",
+      "tagline": "O mundo é um palco.",
+      "poster": "/9RmVr8dPWicFyPZ5JCQK3NcBNB5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/baTEUQbh5p6M6UkgEszHj1NCQ6D.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/jen5brSipDLgDlMbfnpUiqXJBet.png",
+      "trailer": "https://www.youtube.com/watch?v=kD6LoK5GcGw",
+      "vote_average": 5.393,
+      "vote_count": 3167,
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "runtime": 138,
+      "certification": "16",
+      "original_language": "en",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        "Warner Bros. Pictures",
+        "Joint Effort",
+        "Domain Entertainment"
+      ],
+      "external_ids": {
+        "imdb_id": "tt11315808",
+        "wikidata_id": "Q108628759",
+        "facebook_id": "jokermovie",
+        "instagram_id": "jokermovie",
+        "twitter_id": "jokermovie"
+      },
+      "sources": [],
+      "cast": [
+        {
+          "name": "Joaquin Phoenix",
+          "character": "Arthur Fleck",
+          "profile_path": "/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg",
+          "order": 0,
+          "id": 73421
+        },
+        {
+          "name": "Lady Gaga",
+          "character": "Lee Quinzel",
+          "profile_path": "/9Y4Pz7AEXhB9qNar2tMsx5EVXML.jpg",
+          "order": 1,
+          "id": 237405
+        },
+        {
+          "name": "Brendan Gleeson",
+          "character": "Jackie Sullivan",
+          "profile_path": "/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg",
+          "order": 2,
+          "id": 2039
+        },
+        {
+          "name": "Catherine Keener",
+          "character": "Maryanne Stewart",
+          "profile_path": "/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg",
+          "order": 3,
+          "id": 2229
+        },
+        {
+          "name": "Zazie Beetz",
+          "character": "Sophie Dumond",
+          "profile_path": "/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg",
+          "order": 4,
+          "id": 1545693
+        },
+        {
+          "name": "Steve Coogan",
+          "character": "Paddy Meyers",
+          "profile_path": "/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg",
+          "order": 5,
+          "id": 4581
+        },
+        {
+          "name": "Harry Lawtey",
+          "character": "Harvey Dent",
+          "profile_path": "/l2qFs3TntkZD0G3zFEd1o2DXSWX.jpg",
+          "order": 6,
+          "id": 2399836
+        },
+        {
+          "name": "Leigh Gill",
+          "character": "Gary Puddles",
+          "profile_path": "/stbbWD89FQWa34TNVyxVj5xBVIm.jpg",
+          "order": 7,
+          "id": 1416396
+        },
+        {
+          "name": "Ken Leung",
+          "character": "Dr. Victor Liu",
+          "profile_path": "/hpatUP6u74gkpDRmn9voNY9V43O.jpg",
+          "order": 8,
+          "id": 2131
+        },
+        {
+          "name": "Jacob Lofland",
+          "character": "Ricky Meline",
+          "profile_path": "/jU1eW9oOTC4ILfLNFeNUC7Fa5ya.jpg",
+          "order": 9,
+          "id": 1171570
+        },
+        {
+          "name": "Bill Smitrovich",
+          "character": "Judge Herman Rothwax",
+          "profile_path": "/dtLvDK5Z4PHzRj8ngtGake8YDsU.jpg",
+          "order": 10,
+          "id": 17200
+        },
+        {
+          "name": "Sharon Washington",
+          "character": "Debra Kane",
+          "profile_path": "/kZktXVoRLaETbNkiMoDBzFpdWVB.jpg",
+          "order": 11,
+          "id": 141748
+        },
+        {
+          "name": "Alfred Rubin Thompson",
+          "character": "Ernie Bullock",
+          "profile_path": "/qhyDts6pX5U2Q4LHRowpd6UFZn9.jpg",
+          "order": 12,
+          "id": 1072877
+        },
+        {
+          "name": "Connor Storrie",
+          "character": "Young Inmate",
+          "profile_path": "/ApBEzGlTz7sM839eT4vMQV3xmdg.jpg",
+          "order": 13,
+          "id": 4270366
+        },
+        {
+          "name": "Gregg Daniel",
+          "character": "Music Teacher",
+          "profile_path": "/7xdJpmeCUod0OEx5VlGpNuWQG7v.jpg",
+          "order": 14,
+          "id": 66653
+        },
+        {
+          "name": "Mac Brandt",
+          "character": "Arkham Guard",
+          "profile_path": "/u2zRIywRVcih7LsZIsybmbzwmJW.jpg",
+          "order": 15,
+          "id": 1215837
+        },
+        {
+          "name": "George Carroll",
+          "character": "Arkham Guard",
+          "profile_path": "/dtPCKR8BWu5Q7CnNRdHWY5dB7Jt.jpg",
+          "order": 16,
+          "id": 133067
+        },
+        {
+          "name": "John Lacy",
+          "character": "Arkham Guard",
+          "profile_path": "/9v2fOfR5UccdFbOuhn7UYmf4cRE.jpg",
+          "order": 17,
+          "id": 1180860
+        },
+        {
+          "name": "Tim Dillon",
+          "character": "Arkham Guard",
+          "profile_path": "/qEAS7a0ZjJhiUysuinZ0aBQABvX.jpg",
+          "order": 18,
+          "id": 2419859
+        },
+        {
+          "name": "Wayne Dehart",
+          "character": "E Ward Inmate",
+          "profile_path": "/lvSDWQ0TpkhsTmk9obaZLIxU0j2.jpg",
+          "order": 19,
+          "id": 1193431
+        },
+        {
+          "name": "Troy Fromin",
+          "character": "E Ward Inmate",
+          "profile_path": "",
+          "order": 20,
+          "id": 152995
+        },
+        {
+          "name": "Ajgie Kirkland",
+          "character": "E Ward Inmate",
+          "profile_path": "",
+          "order": 21,
+          "id": 1325966
+        },
+        {
+          "name": "Terrance T.P. Polite",
+          "character": "E Ward Inmate",
+          "profile_path": "",
+          "order": 22,
+          "id": 4982721
+        },
+        {
+          "name": "Jimmy Walker Jr.",
+          "character": "E Ward Inmate",
+          "profile_path": "/ucTGwh5gTwU3063omYa6FXtSZkC.jpg",
+          "order": 23,
+          "id": 2215982
+        },
+        {
+          "name": "Toney Wilson",
+          "character": "E Ward Inmate",
+          "profile_path": "/oEv8raSjZzoSzTXSSjMngdI2mpt.jpg",
+          "order": 24,
+          "id": 1386141
+        },
+        {
+          "name": "June Carryl",
+          "character": "Dr. Louise Beatty",
+          "profile_path": "/7p0lxKz4KGfUPc8r5q5j7N8vy5N.jpg",
+          "order": 25,
+          "id": 19979
+        },
+        {
+          "name": "Don McManus",
+          "character": "Paddy Meyers' Producer",
+          "profile_path": "/rGdpdQ0DDVDX4FlQzrdFGcOlRGB.jpg",
+          "order": 26,
+          "id": 79025
+        },
+        {
+          "name": "G.L. McQueary",
+          "character": "Head Bailiff",
+          "profile_path": "/n9tjsEiZMYf2RKykhO0f0EwnCYE.jpg",
+          "order": 27,
+          "id": 4304508
+        },
+        {
+          "name": "Angela D. Watson",
+          "character": "Jury Foreman",
+          "profile_path": "/zVTEtQg5wv5tOwf6tECtnjvAHTQ.jpg",
+          "order": 28,
+          "id": 2913409
+        },
+        {
+          "name": "Murphy Guyer",
+          "character": "White Chapel Minister",
+          "profile_path": "/6axiNcYIZmaeRKyfCm3xBHC7KQL.jpg",
+          "order": 29,
+          "id": 155547
+        },
+        {
+          "name": "Carson Higgins",
+          "character": "Junior Associate",
+          "profile_path": "/cMu3ITaS6Cen7arcxJCQV7orXOz.jpg",
+          "order": 30,
+          "id": 2797243
+        },
+        {
+          "name": "Gattlin Griffith",
+          "character": "Masked Joker Driver",
+          "profile_path": "/esMHJA8lP8y60AqJZH9JJBMIRIz.jpg",
+          "order": 31,
+          "id": 117885
+        },
+        {
+          "name": "Hudson Oz",
+          "character": "Joker Doppelganger",
+          "profile_path": "/ayugvJOh16PyG5TVrWPi9H3WwIR.jpg",
+          "order": 32,
+          "id": 2272625
+        },
+        {
+          "name": "Ray Lykins",
+          "character": "Victim's Dad",
+          "profile_path": "/9cJnf225TyU1uMPkgUemNgtxvgx.jpg",
+          "order": 33,
+          "id": 4608
+        },
+        {
+          "name": "Will Ropp",
+          "character": "Joker Fan #1",
+          "profile_path": "/hoe1bibgruxCGBNxkPyH4f9E7Jy.jpg",
+          "order": 34,
+          "id": 2551675
+        },
+        {
+          "name": "Ashton Moio",
+          "character": "Joker Fan #2",
+          "profile_path": "/33quyMobSxu2HNFE4HHT5w5RTLW.jpg",
+          "order": 35,
+          "id": 1317566
+        },
+        {
+          "name": "Emilio Rojas",
+          "character": "Joker Fan #3",
+          "profile_path": "",
+          "order": 36,
+          "id": 4982761
+        },
+        {
+          "name": "Joe Spinney",
+          "character": "Police Escort",
+          "profile_path": "",
+          "order": 37,
+          "id": 4982762
+        },
+        {
+          "name": "Richard Busser",
+          "character": "Additional Guard",
+          "profile_path": "",
+          "order": 38,
+          "id": 3307037
+        },
+        {
+          "name": "Brian Donahue",
+          "character": "Additional Guard",
+          "profile_path": "/ajWAfpzRuc9jI43kSWZjQ1s5mFf.jpg",
+          "order": 39,
+          "id": 159870
+        }
+      ],
+      "crew": [
+        {
+          "name": "Bill Finger",
+          "job": "Characters",
+          "department": "Writing",
+          "id": 198034,
+          "profile_path": "/aU2Wv9QL9qNG0UQosl1MKpp1icV.jpg"
+        },
+        {
+          "name": "Bob Kane",
+          "job": "Characters",
+          "department": "Writing",
+          "id": 3794,
+          "profile_path": "/vuXwrlqaUydA4t5SFVdQkK9KsZL.jpg"
+        },
+        {
+          "name": "Jerry Robinson",
+          "job": "Characters",
+          "department": "Writing",
+          "id": 1356195,
+          "profile_path": "/606OVQrzUFksbBERMiNxsm8MQtL.jpg"
+        },
+        {
+          "name": "Emma Tillinger Koskoff",
+          "job": "Producer",
+          "department": "Production",
+          "id": 45648,
+          "profile_path": "/yGcSq0w7n0JRpoarjQT1E9q3TSH.jpg"
+        },
+        {
+          "name": "Joseph Garner",
+          "job": "Producer",
+          "department": "Production",
+          "id": 1065353,
+          "profile_path": ""
+        },
+        {
+          "name": "Todd Phillips",
+          "job": "Producer",
+          "department": "Production",
+          "id": 57130,
+          "profile_path": "/A6FPht87DiqXzp456WjakLi2AtP.jpg"
+        },
+        {
+          "name": "Georgia Kacandes",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 2947,
+          "profile_path": "/Vct0XHfBGXNpl0xIifJbcPeJ57.jpg"
+        },
+        {
+          "name": "Jeff Groth",
+          "job": "Editor",
+          "department": "Editing",
+          "id": 961610,
+          "profile_path": "/bSYyuzRVZckYtVD19wfBGE3hbff.jpg"
+        },
+        {
+          "name": "Mia Bauman",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 2411447,
+          "profile_path": ""
+        },
+        {
+          "name": "Mitchell Beck",
+          "job": "Key Hair Stylist",
+          "department": "Costume & Make-Up",
+          "id": 1565739,
+          "profile_path": ""
+        },
+        {
+          "name": "Jessie Bishop",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 2855096,
+          "profile_path": ""
+        },
+        {
+          "name": "John Damiani",
+          "job": "Key Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 1930143,
+          "profile_path": ""
+        },
+        {
+          "name": "Jacqueline Fernandez",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 1543196,
+          "profile_path": ""
+        },
+        {
+          "name": "Heather Galipo",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 2059822,
+          "profile_path": ""
+        },
+        {
+          "name": "Kay Georgiou",
+          "job": "Hair Designer",
+          "department": "Costume & Make-Up",
+          "id": 117206,
+          "profile_path": ""
+        },
+        {
+          "name": "Brian Kinney",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 1547749,
+          "profile_path": "/ytSykhU3P2RdxFSw3dzFu5Cs4mM.jpg"
+        },
+        {
+          "name": "Nicki Ledermann",
+          "job": "Makeup Designer",
+          "department": "Costume & Make-Up",
+          "id": 1070138,
+          "profile_path": "/k1BSZD165iDQpo6XCRTanJ1Cvpj.jpg"
+        },
+        {
+          "name": "Alyssa Morgan",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 1252226,
+          "profile_path": ""
+        },
+        {
+          "name": "Martina Sykes",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 1548105,
+          "profile_path": ""
+        },
+        {
+          "name": "Sweet P. Vaughn",
+          "job": "Makeup Artist",
+          "department": "Costume & Make-Up",
+          "id": 1842258,
+          "profile_path": "/pVMG7b4c3M3ULM9guI4jQUL9aIW.jpg"
+        },
+        {
+          "name": "Georgia Kacandes",
+          "job": "Unit Production Manager",
+          "department": "Production",
+          "id": 2947,
+          "profile_path": "/Vct0XHfBGXNpl0xIifJbcPeJ57.jpg"
+        },
+        {
+          "name": "Randy Manion",
+          "job": "Unit Production Manager",
+          "department": "Production",
+          "id": 3165966,
+          "profile_path": ""
+        },
+        {
+          "name": "David Webb",
+          "job": "First Assistant Director",
+          "department": "Directing",
+          "id": 82133,
+          "profile_path": ""
+        },
+        {
+          "name": "Trevor Tavares",
+          "job": "Second Assistant Director",
+          "department": "Directing",
+          "id": 1860323,
+          "profile_path": ""
+        },
+        {
+          "name": "Travis Rehwaldt",
+          "job": "First Assistant Director",
+          "department": "Directing",
+          "id": 4166913,
+          "profile_path": ""
+        },
+        {
+          "name": "Ryan Robert Howard",
+          "job": "Second Assistant Director",
+          "department": "Directing",
+          "id": 2482608,
+          "profile_path": ""
+        },
+        {
+          "name": "Brian Machleit",
+          "job": "Stunt Coordinator",
+          "department": "Crew",
+          "id": 1391698,
+          "profile_path": "/k488kl4tWUWIrhsrCluhxoPIaGU.jpg"
+        },
+        {
+          "name": "Todd Phillips",
+          "job": "Director",
+          "department": "Directing",
+          "id": 57130,
+          "profile_path": "/A6FPht87DiqXzp456WjakLi2AtP.jpg"
+        },
+        {
+          "name": "Todd Phillips",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 57130,
+          "profile_path": "/A6FPht87DiqXzp456WjakLi2AtP.jpg"
+        },
+        {
+          "name": "Scott Silver",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 324,
+          "profile_path": "/33ZiBPOsV43eS9Di5VJ75f87y8c.jpg"
+        },
+        {
+          "name": "Francine Maisler",
+          "job": "Casting",
+          "department": "Production",
+          "id": 6410,
+          "profile_path": "/j97ggx3P5YRTbXEtPorQq9ge9JH.jpg"
+        },
+        {
+          "name": "Bryan Mendoza",
+          "job": "Utility Sound",
+          "department": "Sound",
+          "id": 2136902,
+          "profile_path": ""
+        },
+        {
+          "name": "Steven A. Morrow",
+          "job": "Sound Mixer",
+          "department": "Sound",
+          "id": 1466245,
+          "profile_path": ""
+        },
+        {
+          "name": "Michael Kaleta",
+          "job": "Boom Operator",
+          "department": "Sound",
+          "id": 1634426,
+          "profile_path": ""
+        },
+        {
+          "name": "Lori DeLapp",
+          "job": "Costume Supervisor",
+          "department": "Costume & Make-Up",
+          "id": 1319137,
+          "profile_path": ""
+        },
+        {
+          "name": "Jason Ruder",
+          "job": "Executive Music Producer",
+          "department": "Crew",
+          "id": 1425395,
+          "profile_path": ""
+        },
+        {
+          "name": "Ken Haber",
+          "job": "Location Scout",
+          "department": "Art",
+          "id": 1645977,
+          "profile_path": ""
+        },
+        {
+          "name": "Aaron Hurvitz",
+          "job": "Location Scout",
+          "department": "Art",
+          "id": 1767954,
+          "profile_path": ""
+        },
+        {
+          "name": "Gregory Irwin",
+          "job": "First Assistant \"A\" Camera",
+          "department": "Camera",
+          "id": 1530723,
+          "profile_path": ""
+        },
+        {
+          "name": "John Reynolds",
+          "job": "Best Boy Grip",
+          "department": "Camera",
+          "id": 2895141,
+          "profile_path": ""
+        },
+        {
+          "name": "Rick Chavez",
+          "job": "Assistant Property Master",
+          "department": "Art",
+          "id": 1738167,
+          "profile_path": ""
+        },
+        {
+          "name": "Lawrence Sher",
+          "job": "Director of Photography",
+          "department": "Camera",
+          "id": 5387,
+          "profile_path": "/rcbHwQpmvw848ZvHaithgh7oNuF.jpg"
+        },
+        {
+          "name": "Arianne Phillips",
+          "job": "Costume Design",
+          "department": "Costume & Make-Up",
+          "id": 32797,
+          "profile_path": "/pZW5DiGSx0CP1gmZLxWSlYJcxHI.jpg"
+        },
+        {
+          "name": "Michael Uslan",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 10949,
+          "profile_path": "/cXiiH0SSk5UHCvHOVAhHX7tNuls.jpg"
+        },
+        {
+          "name": "Mark Friedberg",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 5670,
+          "profile_path": "/3vs2xBKrXlXmkZEHBdhb0R5eeSJ.jpg"
+        },
+        {
+          "name": "Hildur Guðnadóttir",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 1178828,
+          "profile_path": "/xkJTSLeYZkOqouzflrUNgLSC1lL.jpg"
+        },
+        {
+          "name": "Mark Friedberg",
+          "job": "Production Design",
+          "department": "Art",
+          "id": 5670,
+          "profile_path": "/3vs2xBKrXlXmkZEHBdhb0R5eeSJ.jpg"
+        },
+        {
+          "name": "Sydnie Ponic",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 2939852,
+          "profile_path": ""
+        },
+        {
+          "name": "Sarah Contant",
+          "job": "Set Designer",
+          "department": "Art",
+          "id": 1047108,
+          "profile_path": ""
+        },
+        {
+          "name": "Noelle King",
+          "job": "Set Designer",
+          "department": "Art",
+          "id": 1360094,
+          "profile_path": ""
+        },
+        {
+          "name": "Hogan Lee",
+          "job": "Set Designer",
+          "department": "Art",
+          "id": 2790538,
+          "profile_path": ""
+        },
+        {
+          "name": "Michael Thurman",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 1440062,
+          "profile_path": ""
+        },
+        {
+          "name": "Bruce Timm",
+          "job": "Characters",
+          "department": "Writing",
+          "id": 34934,
+          "profile_path": "/4G64qCUGFQ1Sfwa6MK7CzwAaHyL.jpg"
+        },
+        {
+          "name": "Paul Dini",
+          "job": "Characters",
+          "department": "Writing",
+          "id": 1211813,
+          "profile_path": "/yPRds0jAYIU1OETfZuwka5ro7lE.jpg"
+        },
+        {
+          "name": "Randall Poster",
+          "job": "Music Supervisor",
+          "department": "Sound",
+          "id": 52161,
+          "profile_path": ""
+        },
+        {
+          "name": "George Drakoulias",
+          "job": "Music Supervisor",
+          "department": "Sound",
+          "id": 1192700,
+          "profile_path": "/7oiF0TXUhNQRsugEkmwsOQyik0V.jpg"
+        },
+        {
+          "name": "Scott Silver",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 324,
+          "profile_path": "/33ZiBPOsV43eS9Di5VJ75f87y8c.jpg"
+        },
+        {
+          "name": "Jason Ruder",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1425395,
+          "profile_path": ""
+        },
+        {
+          "name": "Nitasha Bhambree",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 2224819,
+          "profile_path": "/uLEKCV7ewKgXfMfhLsQPy5gzIcx.jpg"
+        },
+        {
+          "name": "Erik Aadahl",
+          "job": "Supervising Sound Editor",
+          "department": "Sound",
+          "id": 1378695,
+          "profile_path": "/c02IxbuxyZR93j0gaothnjw1lsZ.jpg"
+        },
+        {
+          "name": "Shauna Duggins",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1660435,
+          "profile_path": "/wlfEakoNbtKGzkcxaI5WYjhYxJK.jpg"
+        },
+        {
+          "name": "David Webb",
+          "job": "Co-Producer",
+          "department": "Production",
+          "id": 4822146,
+          "profile_path": ""
+        },
+        {
+          "name": "Firat Averbek",
+          "job": "Casting",
+          "department": "Production",
+          "id": 4822148,
+          "profile_path": ""
+        },
+        {
+          "name": "Jared Patrick Gerbig",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 1729089,
+          "profile_path": ""
+        },
+        {
+          "name": "Erica Hohf",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 1790083,
+          "profile_path": ""
+        },
+        {
+          "name": "David Meyer",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 1395434,
+          "profile_path": ""
+        },
+        {
+          "name": "Gordon Stotz",
+          "job": "Art Direction",
+          "department": "Art",
+          "id": 2124403,
+          "profile_path": ""
+        },
+        {
+          "name": "Dan Webster",
+          "job": "Supervising Art Director",
+          "department": "Art",
+          "id": 11508,
+          "profile_path": ""
+        },
+        {
+          "name": "Matthew Bouchard",
+          "job": "Special Effects Technician",
+          "department": "Crew",
+          "id": 3485650,
+          "profile_path": ""
+        },
+        {
+          "name": "Michael Duenas",
+          "job": "Special Effects Technician",
+          "department": "Crew",
+          "id": 3084746,
+          "profile_path": ""
+        },
+        {
+          "name": "Matthew Lillis",
+          "job": "Special Effects",
+          "department": "Crew",
+          "id": 2081145,
+          "profile_path": ""
+        },
+        {
+          "name": "Brendon O'Dell",
+          "job": "Special Effects Coordinator",
+          "department": "Crew",
+          "id": 1472784,
+          "profile_path": ""
+        },
+        {
+          "name": "Carson O'Dell",
+          "job": "Special Effects",
+          "department": "Crew",
+          "id": 4822161,
+          "profile_path": ""
+        },
+        {
+          "name": "Marc Tantin",
+          "job": "Special Effects Technician",
+          "department": "Crew",
+          "id": 1605404,
+          "profile_path": ""
+        },
+        {
+          "name": "Taylor Walters",
+          "job": "Special Effects Technician",
+          "department": "Crew",
+          "id": 3149309,
+          "profile_path": ""
+        },
+        {
+          "name": "Meghan Currier",
+          "job": "Music Coordinator",
+          "department": "Sound",
+          "id": 1528942,
+          "profile_path": ""
+        },
+        {
+          "name": "Lady Gaga",
+          "job": "Music Consultant",
+          "department": "Sound",
+          "id": 237405,
+          "profile_path": "/9Y4Pz7AEXhB9qNar2tMsx5EVXML.jpg"
+        },
+        {
+          "name": "Mallory Thompson",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1825887,
+          "profile_path": "/eOOduyzyYIJuNNWJn2wXbjtOmcH.jpg"
+        },
+        {
+          "name": "Sylvain Chomet",
+          "job": "Animation",
+          "department": "Visual Effects",
+          "id": 21768,
+          "profile_path": "/hi5lgXJVDlw5oL8BVjdNur3hTNS.jpg"
+        },
+        {
+          "name": "Pete Chiappetta",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 4445622,
+          "profile_path": ""
+        },
+        {
+          "name": "Andrew Lary",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 4445623,
+          "profile_path": ""
+        },
+        {
+          "name": "Anthony Tittanegro",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 4445624,
+          "profile_path": "/3KPNXBg7a1jw97234n98weScLmF.jpg"
+        },
+        {
+          "name": "Michael Arnold",
+          "job": "Choreographer",
+          "department": "Crew",
+          "id": 2494667,
+          "profile_path": "/ykpJJlC5RUmht73jAOCzLZg9F8e.jpg"
+        },
+        {
+          "name": "Justine Conte",
+          "job": "Co-Producer",
+          "department": "Production",
+          "id": 2504569,
+          "profile_path": ""
+        },
+        {
+          "name": "Beverly Abbott",
+          "job": "Visual Effects Producer",
+          "department": "Visual Effects",
+          "id": 2171121,
+          "profile_path": ""
+        },
+        {
+          "name": "Colby Lemmo",
+          "job": "Stunt Double",
+          "department": "Crew",
+          "id": 1743025,
+          "profile_path": "/mhzLgtHbxeyZxdnodUvAtQof6aK.jpg"
+        },
+        {
+          "name": "Richard Epper",
+          "job": "Utility Stunts",
+          "department": "Crew",
+          "id": 1771760,
+          "profile_path": ""
+        },
+        {
+          "name": "Doug Coleman",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 142157,
+          "profile_path": "/temeKPrQ9VosJXwb51O3EWxQ5yO.jpg"
+        },
+        {
+          "name": "Eliza Coleman",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1464310,
+          "profile_path": "/fhcKvNFhPCqL0fGYAYjlcl9kTeE.jpg"
+        },
+        {
+          "name": "Matt Berberi",
+          "job": "Stunt Double",
+          "department": "Crew",
+          "id": 1346337,
+          "profile_path": "/mKrP5Qw7R1WPTwSa5XxvtiBEgMK.jpg"
+        },
+        {
+          "name": "Tim Rigby",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1209419,
+          "profile_path": "/5ckhBJzA3MNxGPDSWytTKrdm26M.jpg"
+        },
+        {
+          "name": "Declan Mulvey",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 61329,
+          "profile_path": "/dNIRk767KhabomSahXbH8c02ZSu.jpg"
+        },
+        {
+          "name": "Tom Ozanich",
+          "job": "Sound Re-Recording Mixer",
+          "department": "Sound",
+          "id": 1368866,
+          "profile_path": "/qXiyj0BptF0dKo3EGYAF4VNanSg.jpg"
+        },
+        {
+          "name": "Dean A. Zupancic",
+          "job": "Sound Re-Recording Mixer",
+          "department": "Sound",
+          "id": 83091,
+          "profile_path": "/iwOvFcUfBXxJkNdVTS41Byo7Dwr.jpg"
+        },
+        {
+          "name": "Craig Baxley Jr.",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1585029,
+          "profile_path": "/a0JdBlTdKHZPRIeWrbQiwE3N8R4.jpg"
+        },
+        {
+          "name": "James M. Halty",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1400371,
+          "profile_path": ""
+        },
+        {
+          "name": "Colby Lemmo",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1743025,
+          "profile_path": "/mhzLgtHbxeyZxdnodUvAtQof6aK.jpg"
+        },
+        {
+          "name": "Brian Simpson",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 180838,
+          "profile_path": ""
+        },
+        {
+          "name": "Brent Fletcher",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 2770639,
+          "profile_path": ""
+        },
+        {
+          "name": "Ross Kohnstam",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1870912,
+          "profile_path": "/obU47dDIs42MRoG6SLtYni1dToo.jpg"
+        },
+        {
+          "name": "Brett Smrz",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 2157087,
+          "profile_path": ""
+        },
+        {
+          "name": "John Branagan",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1424176,
+          "profile_path": "/jDvshgq9I7qEiy5AQe0rLW5exps.jpg"
+        },
+        {
+          "name": "Wayne Dalglish",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1226495,
+          "profile_path": "/yanmRHbSBZKk4CSTunNgrglfsM5.jpg"
+        },
+        {
+          "name": "Andy Gill",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 968316,
+          "profile_path": "/uphgScM95clUsV8Rb2nwdiqCndX.jpg"
+        },
+        {
+          "name": "Daniel Leavitt",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1455500,
+          "profile_path": ""
+        },
+        {
+          "name": "Rhys Millen",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 240612,
+          "profile_path": ""
+        },
+        {
+          "name": "Jake Swallow",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 2154323,
+          "profile_path": ""
+        },
+        {
+          "name": "Tim Trella",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 200402,
+          "profile_path": "/bzgr1RT7gmO75s3b2QGOfEcBJff.jpg"
+        },
+        {
+          "name": "Ray Lykins",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 4608,
+          "profile_path": "/9cJnf225TyU1uMPkgUemNgtxvgx.jpg"
+        },
+        {
+          "name": "Malte Bieler",
+          "job": "Sound Designer",
+          "department": "Sound",
+          "id": 1914663,
+          "profile_path": "/lWzc7gEqA0Gd95K7qseMtsS8Mqi.jpg"
+        },
+        {
+          "name": "Jack Cucci",
+          "job": "Foley Mixer",
+          "department": "Sound",
+          "id": 2127274,
+          "profile_path": ""
+        },
+        {
+          "name": "John T. Cucci",
+          "job": "Foley Artist",
+          "department": "Sound",
+          "id": 1367493,
+          "profile_path": ""
+        },
+        {
+          "name": "Russell Farmarco",
+          "job": "Dialogue Editor",
+          "department": "Sound",
+          "id": 1415007,
+          "profile_path": ""
+        },
+        {
+          "name": "Russell Farmarco",
+          "job": "ADR Editor",
+          "department": "Sound",
+          "id": 1415007,
+          "profile_path": ""
+        },
+        {
+          "name": "Dan Gamache",
+          "job": "Sound Designer",
+          "department": "Sound",
+          "id": 1565107,
+          "profile_path": ""
+        },
+        {
+          "name": "Jeanne Gilliland",
+          "job": "Boom Operator",
+          "department": "Sound",
+          "id": 1967876,
+          "profile_path": ""
+        },
+        {
+          "name": "Tavish Grade",
+          "job": "Foley Mixer",
+          "department": "Sound",
+          "id": 3171603,
+          "profile_path": ""
+        },
+        {
+          "name": "Jon Greasley",
+          "job": "Dialogue Editor",
+          "department": "Sound",
+          "id": 1565106,
+          "profile_path": "/w63FoQFJ1NhjFtLysmO9sSTK45N.jpg"
+        },
+        {
+          "name": "Darren Maynard",
+          "job": "Sound Effects Editor",
+          "department": "Sound",
+          "id": 1423819,
+          "profile_path": ""
+        },
+        {
+          "name": "John-Paul Natysin",
+          "job": "Boom Operator",
+          "department": "Sound",
+          "id": 1790896,
+          "profile_path": ""
+        },
+        {
+          "name": "Jason Oliver",
+          "job": "ADR Mixer",
+          "department": "Sound",
+          "id": 1760572,
+          "profile_path": ""
+        },
+        {
+          "name": "Dan O'Connell",
+          "job": "Foley Artist",
+          "department": "Sound",
+          "id": 1338372,
+          "profile_path": ""
+        },
+        {
+          "name": "Mikel Parraga-Wills",
+          "job": "Foley Mixer",
+          "department": "Sound",
+          "id": 3491157,
+          "profile_path": ""
+        },
+        {
+          "name": "Ethan Van der Ryn",
+          "job": "Supervising Sound Editor",
+          "department": "Sound",
+          "id": 1378696,
+          "profile_path": "/cee7w7XpNMSXyFv0F7CtwpBtERB.jpg"
+        },
+        {
+          "name": "Ethan Van der Ryn",
+          "job": "Sound Designer",
+          "department": "Sound",
+          "id": 1378696,
+          "profile_path": "/cee7w7XpNMSXyFv0F7CtwpBtERB.jpg"
+        },
+        {
+          "name": "Karen O'Hara",
+          "job": "Set Decoration",
+          "department": "Art",
+          "id": 20585,
+          "profile_path": ""
+        },
+        {
+          "name": "Lauren Baker",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 1781952,
+          "profile_path": ""
+        },
+        {
+          "name": "Matt Boucard",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 3851973,
+          "profile_path": ""
+        },
+        {
+          "name": "Jeremy Cisneros",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 1375907,
+          "profile_path": ""
+        },
+        {
+          "name": "Mason Chesler",
+          "job": "Graphic Designer",
+          "department": "Art",
+          "id": 2494686,
+          "profile_path": ""
+        },
+        {
+          "name": "Wylie Griffin",
+          "job": "Assistant Art Director",
+          "department": "Art",
+          "id": 1442116,
+          "profile_path": ""
+        },
+        {
+          "name": "Amanda Hagy",
+          "job": "Scenic Artist",
+          "department": "Crew",
+          "id": 2050081,
+          "profile_path": ""
+        },
+        {
+          "name": "Damon Hahn",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 2903479,
+          "profile_path": ""
+        },
+        {
+          "name": "Stephanie Higgins Frey",
+          "job": "Art Department Coordinator",
+          "department": "Art",
+          "id": 1341398,
+          "profile_path": ""
+        },
+        {
+          "name": "Klara Jogalla",
+          "job": "Art Department Assistant",
+          "department": "Art",
+          "id": 5079805,
+          "profile_path": ""
+        },
+        {
+          "name": "J.P. Jones",
+          "job": "Property Master",
+          "department": "Art",
+          "id": 1415610,
+          "profile_path": ""
+        },
+        {
+          "name": "Maciej Kuciara",
+          "job": "Concept Artist",
+          "department": "Art",
+          "id": 2728664,
+          "profile_path": ""
+        },
+        {
+          "name": "David Mauch",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 3600083,
+          "profile_path": ""
+        },
+        {
+          "name": "Merdyce McClaran",
+          "job": "On Set Dresser",
+          "department": "Costume & Make-Up",
+          "id": 2097578,
+          "profile_path": ""
+        },
+        {
+          "name": "Todd Phillips",
+          "job": "Original Film Writer",
+          "department": "Writing",
+          "id": 57130,
+          "profile_path": "/A6FPht87DiqXzp456WjakLi2AtP.jpg"
+        },
+        {
+          "name": "Scott Silver",
+          "job": "Original Film Writer",
+          "department": "Writing",
+          "id": 324,
+          "profile_path": "/33ZiBPOsV43eS9Di5VJ75f87y8c.jpg"
+        },
+        {
+          "name": "John McElroy",
+          "job": "Props",
+          "department": "Art",
+          "id": 2515012,
+          "profile_path": ""
+        },
+        {
+          "name": "Stephen McGlade",
+          "job": "On Set Dresser",
+          "department": "Costume & Make-Up",
+          "id": 1888977,
+          "profile_path": ""
+        },
+        {
+          "name": "Marilyn Morgan-Mouneu",
+          "job": "Props",
+          "department": "Art",
+          "id": 5079810,
+          "profile_path": ""
+        },
+        {
+          "name": "David Nardoni",
+          "job": "Assistant Set Decoration",
+          "department": "Art",
+          "id": 5079811,
+          "profile_path": ""
+        },
+        {
+          "name": "Tanicia Osuch",
+          "job": "Scenic Artist",
+          "department": "Crew",
+          "id": 2023509,
+          "profile_path": ""
+        },
+        {
+          "name": "Kristina Parsons",
+          "job": "Props",
+          "department": "Art",
+          "id": 2191028,
+          "profile_path": ""
+        },
+        {
+          "name": "Dennis Richardson",
+          "job": "Construction Foreman",
+          "department": "Art",
+          "id": 1629523,
+          "profile_path": ""
+        },
+        {
+          "name": "Joel Ruiz",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 4664843,
+          "profile_path": ""
+        },
+        {
+          "name": "Jessica Santisteban",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 3425547,
+          "profile_path": ""
+        },
+        {
+          "name": "Jeff Shewbert",
+          "job": "Construction Coordinator",
+          "department": "Art",
+          "id": 1463364,
+          "profile_path": ""
+        },
+        {
+          "name": "Justin Simonetti",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 5079813,
+          "profile_path": ""
+        },
+        {
+          "name": "Benjamin Kimball Smith",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 5079815,
+          "profile_path": ""
+        },
+        {
+          "name": "Jake Spongberg",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 3013650,
+          "profile_path": ""
+        },
+        {
+          "name": "Hanna Woltz",
+          "job": "Set Dresser",
+          "department": "Art",
+          "id": 4050880,
+          "profile_path": ""
+        },
+        {
+          "name": "Jane Wuu",
+          "job": "Set Designer",
+          "department": "Art",
+          "id": 1411509,
+          "profile_path": ""
+        },
+        {
+          "name": "Carolina Acero",
+          "job": "Lighting Technician",
+          "department": "Lighting",
+          "id": 4192028,
+          "profile_path": ""
+        },
+        {
+          "name": "Praveen Allu",
+          "job": "Digital Compositor",
+          "department": "Visual Effects",
+          "id": 3174061,
+          "profile_path": ""
+        },
+        {
+          "name": "Jorge Arista",
+          "job": "Digital Compositor",
+          "department": "Visual Effects",
+          "id": 4687480,
+          "profile_path": ""
+        },
+        {
+          "name": "Abdullah Azizi",
+          "job": "Visual Effects Coordinator",
+          "department": "Visual Effects",
+          "id": 3325326,
+          "profile_path": ""
+        },
+        {
+          "name": "Romero Benitez",
+          "job": "Visual Effects Coordinator",
+          "department": "Visual Effects",
+          "id": 5107928,
+          "profile_path": ""
+        },
+        {
+          "name": "Ashleigh Biller",
+          "job": "Visual Effects Coordinator",
+          "department": "Visual Effects",
+          "id": 5107930,
+          "profile_path": ""
+        },
+        {
+          "name": "Marlon Victor Bondoc",
+          "job": "VFX Artist",
+          "department": "Visual Effects",
+          "id": 1376742,
+          "profile_path": ""
+        },
+        {
+          "name": "Anwei Chen",
+          "job": "Visual Effects Producer",
+          "department": "Visual Effects",
+          "id": 1644256,
+          "profile_path": ""
+        },
+        {
+          "name": "Samuel Côté",
+          "job": "VFX Artist",
+          "department": "Visual Effects",
+          "id": 1531508,
+          "profile_path": ""
+        },
+        {
+          "name": "Sydney Erbez",
+          "job": "Visual Effects Coordinator",
+          "department": "Visual Effects",
+          "id": 3174040,
+          "profile_path": ""
+        },
+        {
+          "name": "Jason Howey",
+          "job": "CG Supervisor",
+          "department": "Crew",
+          "id": 1425923,
+          "profile_path": ""
+        },
+        {
+          "name": "Thippabathula Shiva",
+          "job": "Visual Effects Supervisor",
+          "department": "Visual Effects",
+          "id": 5107932,
+          "profile_path": ""
+        },
+        {
+          "name": "David Armstrong",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 4517569,
+          "profile_path": "/5VYa1NvWm9kIv4pgGCuCJYlIFzy.jpg"
+        },
+        {
+          "name": "Jill Bogdanowicz",
+          "job": "Other",
+          "department": "Editing",
+          "id": 1590102,
+          "profile_path": ""
+        },
+        {
+          "name": "Rafael E. Sánchez",
+          "job": "Gaffer",
+          "department": "Lighting",
+          "id": 79790,
+          "profile_path": ""
+        },
+        {
+          "name": "George B. Colucci Jr.",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1190771,
+          "profile_path": "/msnYyfmKYNeNwjdAzADN95rMyiA.jpg"
+        },
+        {
+          "name": "Colin Anderson",
+          "job": "Steadicam Operator",
+          "department": "Camera",
+          "id": 1400535,
+          "profile_path": ""
+        },
+        {
+          "name": "Colin Anderson",
+          "job": "\"A\" Camera Operator",
+          "department": "Camera",
+          "id": 1400535,
+          "profile_path": ""
+        },
+        {
+          "name": "Chris Barnes",
+          "job": "Stunts",
+          "department": "Crew",
+          "id": 1554936,
+          "profile_path": ""
+        },
+        {
+          "name": "Ivan Moran",
+          "job": "Visual Effects Supervisor",
+          "department": "Visual Effects",
+          "id": 1426330,
+          "profile_path": ""
+        },
+        {
+          "name": "Lady Gaga",
+          "job": "Songs",
+          "department": "Sound",
+          "id": 237405,
+          "profile_path": "/9Y4Pz7AEXhB9qNar2tMsx5EVXML.jpg"
+        },
+        {
+          "name": "Geoffrey Haley",
+          "job": "\"C\" Camera Operator",
+          "department": "Camera",
+          "id": 82169,
+          "profile_path": "/4GFSNNpHW1zETjXCIZ8DGq9WCqC.jpg"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Todd Phillips",
+          "job": "Director",
+          "department": "Directing",
+          "id": 57130,
+          "profile_path": "/A6FPht87DiqXzp456WjakLi2AtP.jpg"
+        }
+      ],
+      "writers": [
+        {
+          "name": "Todd Phillips",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 57130,
+          "profile_path": "/A6FPht87DiqXzp456WjakLi2AtP.jpg"
+        },
+        {
+          "name": "Scott Silver",
+          "job": "Writer",
+          "department": "Writing",
+          "id": 324,
+          "profile_path": "/33ZiBPOsV43eS9Di5VJ75f87y8c.jpg"
+        }
+      ]
     }
   ],
   "_link_encoding": "base64"
