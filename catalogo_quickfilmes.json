@@ -1681,7 +1681,7 @@
               "original_name": "",
               "air_date": "2026-11-22",
               "runtime": 43,
-              "overview": "",
+              "overview": "Enquanto Touro aterroriza os moradores e desafia a autoridade de Jerusa, Berenice denuncia a corrupção na Gardênia Azul em um discurso contundente. Leka descobre um artista promissor entre os homens de Geninho.",
               "still_path": "/aPF9w59gWxje4L8KIsoCF3QJh73.jpg",
               "vote_average": 0,
               "vote_count": 0,
@@ -2197,6 +2197,1758 @@
                   "label": "Original",
                   "type": "Link direto",
                   "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAyLTA2Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tv",
+      "title": "Dragon Ball Super: Beerus",
+      "original_title": "ドラゴンボール超 ビルス",
+      "tmdb_id": "312359",
+      "id": 312359,
+      "year": "2026",
+      "release_date": "2026-10-11",
+      "overview": "Anos após a feroz batalha contra Majin Boo, a Terra recupera uma breve paz. Simultaneamente, Bills, o Deus da Destruição, desperta de seu longo sono. Cientes de seu poder avassalador para destruir planetas, Sr. Kaioh e Kaiohshin observam seu retorno com grande temor.",
+      "tagline": "",
+      "poster": "/w5ai45092PIlV1Vbt7kswry2C03.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/f6iqLFmexkPkZr2GLG3pXZ7xEZo.png",
+      "trailer": "https://www.youtube.com/watch?v=hHXz4jdYHYM",
+      "vote_average": 9.613,
+      "vote_count": 428,
+      "genres": [
+        "Animação",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "tags": [
+        "Anime"
+      ],
+      "runtime": 0,
+      "certification": "12",
+      "original_language": "ja",
+      "origin_country": [
+        "JP"
+      ],
+      "production_companies": [
+        "Toei Animation"
+      ],
+      "external_ids": {
+        "imdb_id": "tt39395275",
+        "freebase_mid": null,
+        "freebase_id": null,
+        "tvdb_id": 473154,
+        "tvrage_id": null,
+        "wikidata_id": "Q137883816",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": "DB_anime_info"
+      },
+      "sources": [],
+      "status": "Returning Series",
+      "networks": [
+        "Fuji TV",
+        "Tokai Television Broadcasting",
+        "Kansai TV",
+        "Fukui TV",
+        "Hokkaido Cultural Broadcasting",
+        "Iwate Menkoi Television",
+        "TOS",
+        "Sendai Television",
+        "SAGA TV",
+        "Ishikawa TV",
+        "TNC",
+        "OHK",
+        "Kochi Sun Sun Broadcasting",
+        "Television Shin Hiroshima System",
+        "TV Shizuoka",
+        "UMK TV Miyazaki",
+        "NST",
+        "NBS",
+        "Sakuranbo TV",
+        "TSK",
+        "Ehime Broadcasting",
+        "KTS",
+        "Fukushima TV",
+        "AKT",
+        "Toyama Television",
+        "TV Kumamoto",
+        "Okinawa Television Broadcasting",
+        "KTN"
+      ],
+      "created_by": [],
+      "number_of_seasons": 1,
+      "number_of_episodes": 19,
+      "cast": [
+        {
+          "name": "Masako Nozawa",
+          "character": "Son Goku / Son Goten (voice)",
+          "profile_path": "/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg",
+          "order": 0,
+          "id": 90496
+        },
+        {
+          "name": "Ryo Horikawa",
+          "character": "Vegeta (voice)",
+          "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+          "order": 1,
+          "id": 122501
+        },
+        {
+          "name": "渡辺菜生子",
+          "character": "Chichi (voice)",
+          "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+          "order": 2,
+          "id": 122192
+        },
+        {
+          "name": "Unsho Ishizuka",
+          "character": "Mr. Satan (voice)",
+          "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+          "order": 3,
+          "id": 68916
+        },
+        {
+          "name": "Koichi Yamadera",
+          "character": "Beerus (voice)",
+          "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+          "order": 4,
+          "id": 20664
+        }
+      ],
+      "crew": [
+        {
+          "name": "鳥山明",
+          "job": "Original Story",
+          "department": "Writing",
+          "id": 78322,
+          "profile_path": "/9YorJMvF6DgfJcpATHbGyivZpS5.jpg"
+        },
+        {
+          "name": "山池純矢",
+          "job": "Theme Song Performance",
+          "department": "Sound",
+          "id": 6453639,
+          "profile_path": ""
+        },
+        {
+          "name": "山室直儀",
+          "job": "Character Designer",
+          "department": "Visual Effects",
+          "id": 1083452,
+          "profile_path": ""
+        },
+        {
+          "name": "西村英一",
+          "job": "Editor",
+          "department": "Editing",
+          "id": 2604866,
+          "profile_path": ""
+        },
+        {
+          "name": "元木洋介",
+          "job": "Compositing Lead",
+          "department": "Visual Effects",
+          "id": 1316308,
+          "profile_path": ""
+        },
+        {
+          "name": "住友紀人",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 555279,
+          "profile_path": ""
+        },
+        {
+          "name": "鳥山明",
+          "job": "Character Designer",
+          "department": "Visual Effects",
+          "id": 78322,
+          "profile_path": "/9YorJMvF6DgfJcpATHbGyivZpS5.jpg"
+        },
+        {
+          "name": "瀬谷沫人",
+          "job": "Series Director",
+          "department": "Directing",
+          "id": 6455418,
+          "profile_path": ""
+        }
+      ],
+      "cast_source": "TMDB",
+      "cast_fetched_at": "2026-11-22T18:49:49.999Z",
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Temporada 1",
+          "overview": "Vários anos se passaram desde a batalha feroz contra Majin Boo, e a Terra finalmente desfruta de um breve momento de paz. Paralelamente, Bills, o Deus da Destruição, desperta de seu longo e profundo sono. Até mesmo o Senhor Kaioh e o Supremo Senhor Kaioh, cientes do poder avassalador de Bills — capaz de destruir planetas inteiros —, observam seu despertar com grande temor... Enquanto isso, Bills ouve rumores sobre um Saiyajin que derrotou Freeza e surge repentinamente diante de Goku. Com a Terra na mira de Bills — o ser mais poderoso do universo —, o planeta corre um perigo imenso. Assim tem início uma batalha cósmica avassaladora entre o Deus da Destruição, Goku e seus aliados; um conflito que abalará todo o universo.",
+          "poster_path": "/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+          "poster": "/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+          "backdrop_path": "",
+          "air_date": "2026-10-10",
+          "vote_average": 8.3,
+          "vote_count": 0,
+          "cast": [
+            {
+              "name": "Masako Nozawa",
+              "character": "Son Goku / Son Goten (voice)",
+              "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+              "order": 0,
+              "id": 90496
+            },
+            {
+              "name": "Ryo Horikawa",
+              "character": "Vegeta (voice)",
+              "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+              "order": 1,
+              "id": 122501
+            },
+            {
+              "name": "渡辺菜生子",
+              "character": "Chichi (voice)",
+              "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+              "order": 2,
+              "id": 122192
+            },
+            {
+              "name": "Unsho Ishizuka",
+              "character": "Mr. Satan (voice)",
+              "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+              "order": 3,
+              "id": 68916
+            },
+            {
+              "name": "Koichi Yamadera",
+              "character": "Beerus (voice)",
+              "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+              "order": 4,
+              "id": 20664
+            }
+          ],
+          "crew": [
+            {
+              "name": "鳥山明",
+              "job": "Original Story",
+              "department": "Writing",
+              "id": 78322,
+              "profile_path": "/9YorJMvF6DgfJcpATHbGyivZpS5.jpg"
+            },
+            {
+              "name": "山池純矢",
+              "job": "Theme Song Performance",
+              "department": "Sound",
+              "id": 6453639,
+              "profile_path": ""
+            },
+            {
+              "name": "山室直儀",
+              "job": "Character Designer",
+              "department": "Visual Effects",
+              "id": 1083452,
+              "profile_path": ""
+            },
+            {
+              "name": "西村英一",
+              "job": "Editor",
+              "department": "Editing",
+              "id": 2604866,
+              "profile_path": ""
+            },
+            {
+              "name": "元木洋介",
+              "job": "Compositing Lead",
+              "department": "Visual Effects",
+              "id": 1316308,
+              "profile_path": ""
+            },
+            {
+              "name": "住友紀人",
+              "job": "Original Music Composer",
+              "department": "Sound",
+              "id": 555279,
+              "profile_path": ""
+            },
+            {
+              "name": "鳥山明",
+              "job": "Character Designer",
+              "department": "Visual Effects",
+              "id": 78322,
+              "profile_path": "/9YorJMvF6DgfJcpATHbGyivZpS5.jpg"
+            },
+            {
+              "name": "瀬谷沫人",
+              "job": "Series Director",
+              "department": "Directing",
+              "id": 6455418,
+              "profile_path": ""
+            }
+          ],
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "O Deus que destrói",
+              "original_name": "",
+              "air_date": "2026-10-11",
+              "runtime": 24,
+              "overview": "Anos após a batalha contra o maior inimigo da Terra, Majin Boo, o salvador do planeta, Goku, vive seus dias em paz. Enquanto isso, em um planeta distante, o Deus da Destruição, Bills, desperta de seu longo sono!",
+              "still_path": "/xxAiGiQVJqJtqSbdQIAGIFPIvSD.jpg",
+              "vote_average": 8.813,
+              "vote_count": 16,
+              "guest_stars": [
+                {
+                  "name": "八奈見乗児",
+                  "character": "King Kai (voice)",
+                  "profile_path": "/khkGvegnYvx50pAEF1lms7ZKBqy.jpg",
+                  "order": 500,
+                  "id": 619
+                },
+                {
+                  "name": "藤本隆宏",
+                  "character": "Bubbles (voice)",
+                  "profile_path": "/fYIjlttclf3AuJxWi3sKNkbgu2J.jpg",
+                  "order": 501,
+                  "id": 3515368
+                },
+                {
+                  "name": "Shinichiro Ohta",
+                  "character": "Kibito Kai (voice)",
+                  "profile_path": "/mUYW3wKgPWmzCfnj6voNPY5srrl.jpg",
+                  "order": 502,
+                  "id": 1241955
+                },
+                {
+                  "name": "田中亮一",
+                  "character": "Old Kai (voice)",
+                  "profile_path": "/fZESvhE04R9bxa1r5wU7MtOOBIR.jpg",
+                  "order": 503,
+                  "id": 1241540
+                },
+                {
+                  "name": "Masakazu Morita",
+                  "character": "Whis (voice)",
+                  "profile_path": "/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg",
+                  "order": 504,
+                  "id": 78402
+                },
+                {
+                  "name": "Yasuhiro Mamiya",
+                  "character": "King (voice)",
+                  "profile_path": "/pvnOU0RZuMKeISDTBEU7uSt3Xkn.jpg",
+                  "order": 505,
+                  "id": 1506816
+                },
+                {
+                  "name": "織田優成",
+                  "character": "Chef (voice)",
+                  "profile_path": "/9sqJsFBCyi6XI1oXAXB6auxHBax.jpg",
+                  "order": 506,
+                  "id": 1256203
+                },
+                {
+                  "name": "荒井聡太",
+                  "character": "Leader (voice)",
+                  "profile_path": "/t6hCcCRZM5JYH1WwcQuFG3YuPqo.jpg",
+                  "order": 507,
+                  "id": 2047801
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [
+                {
+                  "name": "瀬谷沫人",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 6455418,
+                  "profile_path": ""
+                },
+                {
+                  "name": "朝倉舞彩",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 3972831,
+                  "profile_path": ""
+                },
+                {
+                  "name": "山室直儀",
+                  "job": "Animation Director",
+                  "department": "Visual Effects",
+                  "id": 1083452,
+                  "profile_path": ""
+                },
+                {
+                  "name": "内山翠",
+                  "job": "Key Animation",
+                  "department": "Visual Effects",
+                  "id": 2883960,
+                  "profile_path": ""
+                },
+                {
+                  "name": "八島善孝",
+                  "job": "Key Animation",
+                  "department": "Visual Effects",
+                  "id": 1815001,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Isamu Takara",
+                  "job": "Key Animation",
+                  "department": "Visual Effects",
+                  "id": 2915963,
+                  "profile_path": ""
+                },
+                {
+                  "name": "眞鍋周一郎",
+                  "job": "Key Animation",
+                  "department": "Visual Effects",
+                  "id": 1814994,
+                  "profile_path": ""
+                },
+                {
+                  "name": "津熊健徳",
+                  "job": "Key Animation",
+                  "department": "Visual Effects",
+                  "id": 2798972,
+                  "profile_path": ""
+                },
+                {
+                  "name": "浦田幸博",
+                  "job": "Key Animation",
+                  "department": "Visual Effects",
+                  "id": 2995667,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt39578568",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 11961083,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTAxLm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                },
+                {
+                  "label": "Dual Áudio",
+                  "type": "Magnet",
+                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDpkdjNzcnhkYzNhYzJ1Z2VlbmgyancydWF0bG5wNjNydQ==",
+                  "quality": "1080p",
+                  "language": "Português (Brasil)"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "O Deus da Destruição parte para o Planeta do Kaio",
+              "original_name": "",
+              "air_date": "2026-10-18",
+              "runtime": 24,
+              "overview": "O Supremo Senhor Kaio Ancestral e o Supremo Senhor Kaio Kibito ficam sabendo do despertar do todo-poderoso Bills. Enquanto isso, o Deus da Destruição dirige-se ao Planeta do Senhor Kaio para obter informações sobre o \"Super Saiyajin Deus\" que viu em um sonho profético e...?!",
+              "still_path": "/9R8Y054E9rede6q7t4coUuIzwCv.jpg",
+              "vote_average": 8.857,
+              "vote_count": 14,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [
+                {
+                  "name": "瀬谷沫人",
+                  "job": "Storyboard Artist",
+                  "department": "Art",
+                  "id": 6455418,
+                  "profile_path": ""
+                },
+                {
+                  "name": "山室直儀",
+                  "job": "Animation Director",
+                  "department": "Visual Effects",
+                  "id": 1083452,
+                  "profile_path": ""
+                },
+                {
+                  "name": "八島善孝",
+                  "job": "Key Animation",
+                  "department": "Visual Effects",
+                  "id": 1815001,
+                  "profile_path": ""
+                },
+                {
+                  "name": "丸山匡彦",
+                  "job": "Key Animation",
+                  "department": "Visual Effects",
+                  "id": 3225769,
+                  "profile_path": ""
+                },
+                {
+                  "name": "仁井宏隆",
+                  "job": "Key Animation",
+                  "department": "Visual Effects",
+                  "id": 2976636,
+                  "profile_path": ""
+                },
+                {
+                  "name": "森田岳士",
+                  "job": "Key Animation",
+                  "department": "Visual Effects",
+                  "id": 1848288,
+                  "profile_path": ""
+                },
+                {
+                  "name": "大塚健",
+                  "job": "Key Animation",
+                  "department": "Visual Effects",
+                  "id": 1504283,
+                  "profile_path": ""
+                },
+                {
+                  "name": "阿部尚人",
+                  "job": "Key Animation",
+                  "department": "Visual Effects",
+                  "id": 2159711,
+                  "profile_path": ""
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt49475510",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 12029565,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTAyLm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                },
+                {
+                  "label": "Dublado",
+                  "type": "Magnet",
+                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDo3dmpyYmtpMnNqaWZ1M3Nrb2VtM2F0dTJlb2UyZmlteA==",
+                  "quality": "1080p",
+                  "language": "Português (Brasil)"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "O Deus da Destruição parte para a Terra",
+              "original_name": "",
+              "air_date": "2026-10-25",
+              "runtime": 24,
+              "overview": "Após enfrentar Goku, Bills segue para a Terra em busca de outros Saiyajins. Na Terra, os companheiros de Goku se reuniram para comemorar o aniversário de Bulma. Ao ver Bills, o terror causado pelo Deus da Destruição ressurge na mente de Vegeta...!",
+              "still_path": "/lxXkbQpm3nRS7eQJqqhRl6Ypp1n.jpg",
+              "vote_average": 8.333,
+              "vote_count": 9,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt49480641",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 12029669,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTAzLm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "O Deus dos Saiyajins",
+              "original_name": "",
+              "air_date": "2026-11-01",
+              "runtime": 24,
+              "overview": "Por um motivo trivial, Bills decide destruir a Terra. Diante dessa situação desesperadora, Goku sugere perguntar a Shenlong sobre o \"Super Saiyajin Deus\" que Bills procura. Será possível criar esse guerreiro, considerado um deus mítico?!",
+              "still_path": "/ul49AO72NaVyBag1wGrKDLADkLT.jpg",
+              "vote_average": 7.938,
+              "vote_count": 8,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt50055164",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 12029670,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTA0Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "O Deus da Destruição e Son Goku",
+              "original_name": "",
+              "air_date": "2026-11-08",
+              "runtime": 24,
+              "overview": "Com o apoio de todos, Goku se transforma em um \"Super Saiyajin Deus\"! Com o destino da Terra em jogo, a feroz batalha entre Goku, com seus poderes divinos desconhecidos, e o Deus da Destruição Bills começa!",
+              "still_path": "/k03YIUb6yTqCgA2YT0G2PP6w9oN.jpg",
+              "vote_average": 8.8,
+              "vote_count": 7,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt50436983",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 12029671,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTA1Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "Batalha dos Deuses",
+              "original_name": "",
+              "air_date": "2026-11-15",
+              "runtime": 24,
+              "overview": "Na \"Batalha dos Deuses\" entre o Super Saiyajin Deus e o Deus da Destruição, Goku perde seus poderes divinos. Diante de Bills e sua força avassaladora, Goku enfrenta um perigo absoluto! Como terminará esta batalha decisiva pelo destino da Terra...?!",
+              "still_path": "/HRUpfmOQxRyJKKjFQQ2OI8piJp.jpg",
+              "vote_average": 8.6,
+              "vote_count": 7,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt50744167",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 12029672,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTA2Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "name": "Ressurreição \"F\"",
+              "original_name": "",
+              "air_date": "2026-11-22",
+              "runtime": 24,
+              "overview": "",
+              "still_path": "/mtod3o0LMacYe8qUYYjWRsRN0Bl.jpg",
+              "vote_average": 7,
+              "vote_count": 1,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt51131646",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 12029673,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTA3Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "name": "Episódio 8",
+              "original_name": "",
+              "air_date": "2026-11-29",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 12031789,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTA4Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 9,
+              "name": "Episódio 9",
+              "original_name": "",
+              "air_date": "2026-12-06",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTA5Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 10,
+              "name": "Episódio 10",
+              "original_name": "",
+              "air_date": "2026-12-13",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTEwLm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 11,
+              "name": "Episódio 11",
+              "original_name": "",
+              "air_date": "2026-12-20",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTExLm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 12,
+              "name": "Episódio 12",
+              "original_name": "",
+              "air_date": "2026-12-27",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTEyLm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 13,
+              "name": "Episódio 13",
+              "original_name": "",
+              "air_date": "2027-01-03",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTEzLm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 14,
+              "name": "Episódio 14",
+              "original_name": "",
+              "air_date": "2027-01-10",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTE0Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 15,
+              "name": "Episódio 15",
+              "original_name": "",
+              "air_date": "2027-01-17",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTE1Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 16,
+              "name": "Episódio 16",
+              "original_name": "",
+              "air_date": "2027-01-24",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTE2Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 17,
+              "name": "Episódio 17",
+              "original_name": "",
+              "air_date": "2027-01-31",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTE3Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 18,
+              "name": "Episódio 18",
+              "original_name": "",
+              "air_date": "2027-02-07",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTE4Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 19,
+              "name": "Episódio 19",
+              "original_name": "",
+              "air_date": "2027-02-14",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Masako Nozawa",
+                  "character": "Son Goku / Son Goten (voice)",
+                  "profile_path": "/tMWG7bwuCMKh3vt9pJJJwdE03mt.jpg",
+                  "order": 0,
+                  "id": 90496
+                },
+                {
+                  "name": "Ryo Horikawa",
+                  "character": "Vegeta (voice)",
+                  "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+                  "order": 1,
+                  "id": 122501
+                },
+                {
+                  "name": "渡辺菜生子",
+                  "character": "Chichi (voice)",
+                  "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+                  "order": 2,
+                  "id": 122192
+                },
+                {
+                  "name": "Unsho Ishizuka",
+                  "character": "Mr. Satan (voice)",
+                  "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg",
+                  "order": 3,
+                  "id": 68916
+                },
+                {
+                  "name": "Koichi Yamadera",
+                  "character": "Beerus (voice)",
+                  "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg",
+                  "order": 4,
+                  "id": 20664
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Dual Áudio",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMzEyMzU5LTAxLTE5Lm1rdg==",
                   "language": "Português (Brasil)",
                   "quality": "1080p"
                 }
