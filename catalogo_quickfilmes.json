@@ -645,7 +645,14 @@
                 "tvrage_id": null,
                 "wikidata_id": null
               },
-              "sources": []
+              "sources": [
+                {
+                  "label": "DIRETO",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAxLTAxLm1rdg==",
+                  "language": "PT-BR",
+                  "quality": "1080p"
+                }
+              ]
             },
             {
               "episode_number": 2,
@@ -781,7 +788,14 @@
                 "tvrage_id": null,
                 "wikidata_id": null
               },
-              "sources": []
+              "sources": [
+                {
+                  "label": "DIRETO",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAxLTAyLm1rdg==",
+                  "language": "PT-BR",
+                  "quality": "1080p"
+                }
+              ]
             },
             {
               "episode_number": 3,
@@ -925,7 +939,14 @@
                 "tvrage_id": null,
                 "wikidata_id": null
               },
-              "sources": []
+              "sources": [
+                {
+                  "label": "DIRETO",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAxLTAzLm1rdg==",
+                  "language": "PT-BR",
+                  "quality": "1080p"
+                }
+              ]
             },
             {
               "episode_number": 4,
@@ -1069,7 +1090,14 @@
                 "tvrage_id": null,
                 "wikidata_id": null
               },
-              "sources": []
+              "sources": [
+                {
+                  "label": "DIRETO",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAxLTA0Lm1rdg==",
+                  "language": "PT-BR",
+                  "quality": "1080p"
+                }
+              ]
             },
             {
               "episode_number": 5,
@@ -1205,7 +1233,14 @@
                 "tvrage_id": null,
                 "wikidata_id": null
               },
-              "sources": []
+              "sources": [
+                {
+                  "label": "DIRETO",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAxLTA1Lm1rdg==",
+                  "language": "PT-BR",
+                  "quality": "1080p"
+                }
+              ]
             },
             {
               "episode_number": 6,
@@ -1341,7 +1376,14 @@
                 "tvrage_id": null,
                 "wikidata_id": null
               },
-              "sources": []
+              "sources": [
+                {
+                  "label": "DIRETO",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAxLTA2Lm1rdg==",
+                  "language": "PT-BR",
+                  "quality": "1080p"
+                }
+              ]
             }
           ]
         },
@@ -1577,7 +1619,14 @@
                 "tvrage_id": null,
                 "wikidata_id": null
               },
-              "sources": []
+              "sources": [
+                {
+                  "label": "DIRETO",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAyLTAxLm1rdg==",
+                  "language": "PT-BR",
+                  "quality": "1080p"
+                }
+              ]
             },
             {
               "episode_number": 2,
@@ -1699,7 +1748,14 @@
                 "tvrage_id": null,
                 "wikidata_id": null
               },
-              "sources": []
+              "sources": [
+                {
+                  "label": "DIRETO",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAyLTAyLm1rdg==",
+                  "language": "PT-BR",
+                  "quality": "1080p"
+                }
+              ]
             },
             {
               "episode_number": 3,
@@ -1821,7 +1877,14 @@
                 "tvrage_id": null,
                 "wikidata_id": null
               },
-              "sources": []
+              "sources": [
+                {
+                  "label": "DIRETO",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAyLTAzLm1rdg==",
+                  "language": "PT-BR",
+                  "quality": "1080p"
+                }
+              ]
             },
             {
               "episode_number": 4,
@@ -1943,7 +2006,14 @@
                 "tvrage_id": null,
                 "wikidata_id": null
               },
-              "sources": []
+              "sources": [
+                {
+                  "label": "DIRETO",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAyLTA0Lm1rdg==",
+                  "language": "PT-BR",
+                  "quality": "1080p"
+                }
+              ]
             },
             {
               "episode_number": 5,
@@ -2065,7 +2135,14 @@
                 "tvrage_id": null,
                 "wikidata_id": null
               },
-              "sources": []
+              "sources": [
+                {
+                  "label": "DIRETO",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAyLTA1Lm1rdg==",
+                  "language": "PT-BR",
+                  "quality": "1080p"
+                }
+              ]
             },
             {
               "episode_number": 6,
@@ -2187,7 +2264,14 @@
                 "tvrage_id": null,
                 "wikidata_id": null
               },
-              "sources": []
+              "sources": [
+                {
+                  "label": "DIRETO",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAyLTA2Lm1rdg==",
+                  "language": "PT-BR",
+                  "quality": "1080p"
+                }
+              ]
             }
           ]
         }
