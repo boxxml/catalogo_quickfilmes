@@ -1,4 +1,2211 @@
 {
-  "filmes": [],
+  "filmes": [
+    {
+      "type": "tv",
+      "title": "Cidade de Deus: A Luta Não Para",
+      "original_title": "Cidade de Deus: A Luta Não Para",
+      "tmdb_id": "223397",
+      "id": 223397,
+      "year": "2024",
+      "release_date": "2024-08-25",
+      "overview": "A trama se desenrola no início dos anos 2000, quando a saída de um jovem traficante da prisão coloca a Cidade de Deus novamente em disputa. Os moradores se veem presos entre traficantes, milícias e autoridades públicas, mas a necessidade de escapar desse ciclo faz com que a comunidade se una para enfrentar o opressor.",
+      "tagline": "Certas coisas não mudam, mesmo que passem 20 anos.",
+      "poster": "/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/KvlbwzWi5ldhfPFRzOZy67rsKz.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/q4k9hv6MRXuDAgpoZXDwSY5W4vp.png",
+      "trailer": "https://www.youtube.com/watch?v=lEeyyLWrcpo",
+      "vote_average": 7.6,
+      "vote_count": 81,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "tags": [
+        "Nacional"
+      ],
+      "runtime": 0,
+      "certification": "16",
+      "original_language": "pt",
+      "origin_country": [
+        "BR",
+        "US"
+      ],
+      "production_companies": [
+        "O2 Filmes",
+        "Miramax",
+        "Warner Bros. Discovery Latin America"
+      ],
+      "external_ids": {
+        "imdb_id": "tt27535062",
+        "freebase_mid": null,
+        "freebase_id": null,
+        "tvdb_id": 433775,
+        "tvrage_id": null,
+        "wikidata_id": "Q126535247",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "sources": [],
+      "status": "Returning Series",
+      "networks": [
+        "HBO Brasil",
+        "HBO Latino"
+      ],
+      "created_by": [],
+      "number_of_seasons": 2,
+      "number_of_episodes": 12,
+      "cast": [
+        {
+          "name": "Alexandre Rodrigues",
+          "character": "Buscapé",
+          "profile_path": "/iExs5h6LeFmdR3kDtSS5xYU1Qgx.jpg",
+          "order": 0,
+          "id": 8595
+        },
+        {
+          "name": "Roberta Rodrigues",
+          "character": "Berenice",
+          "profile_path": "/cpqoIk4hJCq2zvQWonn6J4AYAhn.jpg",
+          "order": 1,
+          "id": 8603
+        },
+        {
+          "name": "Andréia Horta",
+          "character": "Jerusa",
+          "profile_path": "/upSz7qDltmIf9cksjGO0cl70rOT.jpg",
+          "order": 2,
+          "id": 225087
+        },
+        {
+          "name": "Sabrina Rosa",
+          "character": "Cinthia",
+          "profile_path": "/gglJSNaVmtXk31Nc0kGhtDrQCzL.jpg",
+          "order": 3,
+          "id": 2002288
+        },
+        {
+          "name": "Dhonata Augusto",
+          "character": "Delano",
+          "profile_path": "/1qUI6jAAPYWlMwScyPA5yWuqXvT.jpg",
+          "order": 4,
+          "id": 2184272
+        },
+        {
+          "name": "Shirley Cruz",
+          "character": "Martinha",
+          "profile_path": "/40dvXL5JnLn5DMJHobY6YRnIjBY.jpg",
+          "order": 6,
+          "id": 1982173
+        },
+        {
+          "name": "Luellem de Castro",
+          "character": "Leka",
+          "profile_path": "/lMz3q2elHUnikQ2FyejO08fWb6t.jpg",
+          "order": 7,
+          "id": 2658367
+        },
+        {
+          "name": "Kiko Marques",
+          "character": "Reginaldo",
+          "profile_path": "/oKpXAcQF752JhHeYcHKC6gY19W3.jpg",
+          "order": 8,
+          "id": 2483242
+        },
+        {
+          "name": "Victor Andrade",
+          "character": "Geninho",
+          "profile_path": "/fuY2v4zDhKBe9hoPmMkQvEudIZo.jpg",
+          "order": 9,
+          "id": 4923629
+        },
+        {
+          "name": "Edson Oliveira",
+          "character": "Barbantinho",
+          "profile_path": "/g4M40dkW9vxRtAzbu9oUNWClCyB.jpg",
+          "order": 10,
+          "id": 3582522
+        },
+        {
+          "name": "Demétrio Nascimento",
+          "character": "PQD",
+          "profile_path": "/yyBi1D4DI604I7EVJvR2IiXrT5W.jpg",
+          "order": 13,
+          "id": 4917349
+        },
+        {
+          "name": "Felipe Paulino",
+          "character": "Pézinho",
+          "profile_path": "/19rmLsGHuZ2Hc16lGpkyMenGHtq.jpg",
+          "order": 14,
+          "id": 2097770
+        },
+        {
+          "name": "Matheus Nachtergaele",
+          "character": "Cenoura",
+          "profile_path": "/zgTT5AP7NYa2hN0jUqHIHkNyp2v.jpg",
+          "order": 16,
+          "id": 8600
+        },
+        {
+          "name": "Renan Novaez",
+          "character": "",
+          "profile_path": "/wgLTs4ly11IYDK3Km1sMVIyuB8A.jpg",
+          "order": 17,
+          "id": 5606753
+        }
+      ],
+      "crew": [],
+      "cast_source": "TMDB",
+      "cast_fetched_at": "2026-11-22T17:41:22.395Z",
+      "seasons": [
+        {
+          "season_number": 1,
+          "name": "Temporada 1",
+          "overview": "Mais de 20 anos depois, Buscapé segue na sua missão de retratar a realidade da comunidade onde cresceu, enquanto também relembra os conflitos entre policiais, traficantes e milicianos ao longo destes anos e como isso impactou a vida dos moradores da Cidade de Deus.",
+          "poster_path": "/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg",
+          "poster": "/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg",
+          "backdrop_path": "",
+          "air_date": "2024-08-25",
+          "vote_average": 5.7,
+          "vote_count": 0,
+          "cast": [
+            {
+              "name": "Alexandre Rodrigues",
+              "character": "Buscapé",
+              "profile_path": "/iExs5h6LeFmdR3kDtSS5xYU1Qgx.jpg",
+              "order": 0,
+              "id": 8595
+            },
+            {
+              "name": "Roberta Rodrigues",
+              "character": "Berenice",
+              "profile_path": "/cpqoIk4hJCq2zvQWonn6J4AYAhn.jpg",
+              "order": 1,
+              "id": 8603
+            },
+            {
+              "name": "Andréia Horta",
+              "character": "Jerusa",
+              "profile_path": "/upSz7qDltmIf9cksjGO0cl70rOT.jpg",
+              "order": 2,
+              "id": 225087
+            },
+            {
+              "name": "Sabrina Rosa",
+              "character": "Cinthia",
+              "profile_path": "/gglJSNaVmtXk31Nc0kGhtDrQCzL.jpg",
+              "order": 3,
+              "id": 2002288
+            },
+            {
+              "name": "Dhonata Augusto",
+              "character": "Delano",
+              "profile_path": "/1qUI6jAAPYWlMwScyPA5yWuqXvT.jpg",
+              "order": 4,
+              "id": 2184272
+            },
+            {
+              "name": "Eli Ferreira",
+              "character": "Lígia",
+              "profile_path": "/79klVIEAwOR4Kdc598CX11W4wEi.jpg",
+              "order": 5,
+              "id": 2251609
+            },
+            {
+              "name": "Shirley Cruz",
+              "character": "Martinha",
+              "profile_path": "/40dvXL5JnLn5DMJHobY6YRnIjBY.jpg",
+              "order": 6,
+              "id": 1982173
+            },
+            {
+              "name": "Luellem de Castro",
+              "character": "Leka",
+              "profile_path": "/lMz3q2elHUnikQ2FyejO08fWb6t.jpg",
+              "order": 7,
+              "id": 2658367
+            },
+            {
+              "name": "Kiko Marques",
+              "character": "Reginaldo",
+              "profile_path": "/oKpXAcQF752JhHeYcHKC6gY19W3.jpg",
+              "order": 8,
+              "id": 2483242
+            },
+            {
+              "name": "Victor Andrade",
+              "character": "Geninho",
+              "profile_path": "/fuY2v4zDhKBe9hoPmMkQvEudIZo.jpg",
+              "order": 9,
+              "id": 4923629
+            },
+            {
+              "name": "Edson Oliveira",
+              "character": "Barbantinho",
+              "profile_path": "/g4M40dkW9vxRtAzbu9oUNWClCyB.jpg",
+              "order": 10,
+              "id": 3582522
+            },
+            {
+              "name": "Thiago Martins",
+              "character": "Bradock",
+              "profile_path": "/f79YvNXdOEQrEcev7NVnn32O8Bw.jpg",
+              "order": 11,
+              "id": 50362
+            },
+            {
+              "name": "Marcos Palmeira",
+              "character": "Genivaldo Curió",
+              "profile_path": "/2Zlh07I2Hxx9bF3xIyzXDRcUNnu.jpg",
+              "order": 12,
+              "id": 84149
+            },
+            {
+              "name": "Demétrio Nascimento",
+              "character": "PQD",
+              "profile_path": "/yyBi1D4DI604I7EVJvR2IiXrT5W.jpg",
+              "order": 13,
+              "id": 4917349
+            },
+            {
+              "name": "Felipe Paulino",
+              "character": "Pézinho",
+              "profile_path": "/19rmLsGHuZ2Hc16lGpkyMenGHtq.jpg",
+              "order": 14,
+              "id": 2097770
+            },
+            {
+              "name": "Rafael Lozano",
+              "character": "Israël",
+              "profile_path": "/gbmBAHhSEHbcWPTosAwupyHvGZq.jpg",
+              "order": 15,
+              "id": 1714049
+            }
+          ],
+          "crew": [
+            {
+              "name": "Mariano Cesar",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 2683657,
+              "profile_path": ""
+            },
+            {
+              "name": "Anouk Aaron",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 3304972,
+              "profile_path": "/w2x5qbPqlPLgcQFPKIQiRbMEi6n.jpg"
+            },
+            {
+              "name": "Mônica Albuquerque",
+              "job": "Executive Producer",
+              "department": "Production",
+              "id": 4285935,
+              "profile_path": ""
+            },
+            {
+              "name": "Aly Muritiba",
+              "job": "Series Director",
+              "department": "Directing",
+              "id": 1124986,
+              "profile_path": "/edSiRnhx4ApdDTSUTzaKWCpwP0E.jpg"
+            },
+            {
+              "name": "Cristina Abi",
+              "job": "Co-Producer",
+              "department": "Production",
+              "id": 2407631,
+              "profile_path": ""
+            },
+            {
+              "name": "Andrea Barata Ribeiro",
+              "job": "Producer",
+              "department": "Production",
+              "id": 8562,
+              "profile_path": ""
+            },
+            {
+              "name": "Fernando Meirelles",
+              "job": "Producer",
+              "department": "Production",
+              "id": 8557,
+              "profile_path": "/grFx0Bdmk8iGN4n1xqpKqBiCIZM.jpg"
+            },
+            {
+              "name": "Gustavo Gontijo",
+              "job": "Co-Producer",
+              "department": "Production",
+              "id": 4122428,
+              "profile_path": ""
+            },
+            {
+              "name": "Thatiane Almeida",
+              "job": "Assistant Director",
+              "department": "Directing",
+              "id": 3031123,
+              "profile_path": "/moJkZmuRxJ1NOswdscgbw03uS5p.jpg"
+            }
+          ],
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Episódio 1",
+              "original_name": "",
+              "air_date": "2024-08-25",
+              "runtime": 47,
+              "overview": "No ano 2000, Wilson retorna à Cidade de Deus para apoiar a campanha de Barbantinho, mas se vê em meio a um conflito quando o recém-libertado Bradock retorna para cobrar de Curió, atual dono do tráfico, o posto que ele acredita ser seu.",
+              "still_path": "/8fYEQoH2XpojU64eL84QVD8PpjT.jpg",
+              "vote_average": 6.8,
+              "vote_count": 10,
+              "guest_stars": [
+                {
+                  "name": "Leandro Daniel",
+                  "character": "Empresário Leal",
+                  "profile_path": "/gVx74kwXTGCkIACtPyx0BKKwF3.jpg",
+                  "order": 500,
+                  "id": 1187057
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Alexandre Rodrigues",
+                  "character": "Buscapé",
+                  "profile_path": "/iExs5h6LeFmdR3kDtSS5xYU1Qgx.jpg",
+                  "order": 0,
+                  "id": 8595
+                },
+                {
+                  "name": "Roberta Rodrigues",
+                  "character": "Berenice",
+                  "profile_path": "/cpqoIk4hJCq2zvQWonn6J4AYAhn.jpg",
+                  "order": 1,
+                  "id": 8603
+                },
+                {
+                  "name": "Andréia Horta",
+                  "character": "Jerusa",
+                  "profile_path": "/upSz7qDltmIf9cksjGO0cl70rOT.jpg",
+                  "order": 2,
+                  "id": 225087
+                },
+                {
+                  "name": "Sabrina Rosa",
+                  "character": "Cinthia",
+                  "profile_path": "/gglJSNaVmtXk31Nc0kGhtDrQCzL.jpg",
+                  "order": 3,
+                  "id": 2002288
+                },
+                {
+                  "name": "Dhonata Augusto",
+                  "character": "Delano",
+                  "profile_path": "/1qUI6jAAPYWlMwScyPA5yWuqXvT.jpg",
+                  "order": 4,
+                  "id": 2184272
+                },
+                {
+                  "name": "Eli Ferreira",
+                  "character": "Lígia",
+                  "profile_path": "/79klVIEAwOR4Kdc598CX11W4wEi.jpg",
+                  "order": 5,
+                  "id": 2251609
+                },
+                {
+                  "name": "Shirley Cruz",
+                  "character": "Martinha",
+                  "profile_path": "/40dvXL5JnLn5DMJHobY6YRnIjBY.jpg",
+                  "order": 6,
+                  "id": 1982173
+                },
+                {
+                  "name": "Luellem de Castro",
+                  "character": "Leka",
+                  "profile_path": "/lMz3q2elHUnikQ2FyejO08fWb6t.jpg",
+                  "order": 7,
+                  "id": 2658367
+                },
+                {
+                  "name": "Kiko Marques",
+                  "character": "Reginaldo",
+                  "profile_path": "/oKpXAcQF752JhHeYcHKC6gY19W3.jpg",
+                  "order": 8,
+                  "id": 2483242
+                },
+                {
+                  "name": "Victor Andrade",
+                  "character": "Geninho",
+                  "profile_path": "/fuY2v4zDhKBe9hoPmMkQvEudIZo.jpg",
+                  "order": 9,
+                  "id": 4923629
+                },
+                {
+                  "name": "Edson Oliveira",
+                  "character": "Barbantinho",
+                  "profile_path": "/g4M40dkW9vxRtAzbu9oUNWClCyB.jpg",
+                  "order": 10,
+                  "id": 3582522
+                },
+                {
+                  "name": "Thiago Martins",
+                  "character": "Bradock",
+                  "profile_path": "/f79YvNXdOEQrEcev7NVnn32O8Bw.jpg",
+                  "order": 11,
+                  "id": 50362
+                },
+                {
+                  "name": "Marcos Palmeira",
+                  "character": "Genivaldo Curió",
+                  "profile_path": "/2Zlh07I2Hxx9bF3xIyzXDRcUNnu.jpg",
+                  "order": 12,
+                  "id": 84149
+                },
+                {
+                  "name": "Demétrio Nascimento",
+                  "character": "PQD",
+                  "profile_path": "/yyBi1D4DI604I7EVJvR2IiXrT5W.jpg",
+                  "order": 13,
+                  "id": 4917349
+                },
+                {
+                  "name": "Felipe Paulino",
+                  "character": "Pézinho",
+                  "profile_path": "/19rmLsGHuZ2Hc16lGpkyMenGHtq.jpg",
+                  "order": 14,
+                  "id": 2097770
+                },
+                {
+                  "name": "Rafael Lozano",
+                  "character": "Israël",
+                  "profile_path": "/gbmBAHhSEHbcWPTosAwupyHvGZq.jpg",
+                  "order": 15,
+                  "id": 1714049
+                }
+              ],
+              "crew": [
+                {
+                  "name": "Aly Muritiba",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1124986,
+                  "profile_path": "/edSiRnhx4ApdDTSUTzaKWCpwP0E.jpg"
+                },
+                {
+                  "name": "Sérgio Machado",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 10042,
+                  "profile_path": "/hXf14FCTI2MwuoT48bHIo90pwOF.jpg"
+                },
+                {
+                  "name": "Rodrigo Felha",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1292472,
+                  "profile_path": "/f4Mfflf6WTcY0rq7wBgpyjhvKbZ.jpg"
+                },
+                {
+                  "name": "Estevão Ribeiro",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 4907862,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Armando Praça",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 1775652,
+                  "profile_path": "/vP48hunhowvNQuRf4SwnsMw885Y.jpg"
+                },
+                {
+                  "name": "Renata Di Carmo",
+                  "job": "Writer",
+                  "department": "Writing",
+                  "id": 3622067,
+                  "profile_path": ""
+                },
+                {
+                  "name": "Aly Muritiba",
+                  "job": "Director",
+                  "department": "Directing",
+                  "id": 1124986,
+                  "profile_path": "/edSiRnhx4ApdDTSUTzaKWCpwP0E.jpg"
+                }
+              ],
+              "external_ids": {
+                "imdb_id": "tt32482566",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 9731560,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Original",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAxLTAxLm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Episódio 2",
+              "original_name": "",
+              "air_date": "2024-09-01",
+              "runtime": 55,
+              "overview": "Enquanto fotografa a guerra do tráfico, Wilson conhece Lígia, uma repórter que investiga a corrupção policial. Sua filha Leka tenta a carreira musical e Berenice luta para manter seu namorado PQD longe do crime.",
+              "still_path": "/mIx6PeZIIKRKPh43hWgGyCUukKk.jpg",
+              "vote_average": 5.75,
+              "vote_count": 4,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Alexandre Rodrigues",
+                  "character": "Buscapé",
+                  "profile_path": "/iExs5h6LeFmdR3kDtSS5xYU1Qgx.jpg",
+                  "order": 0,
+                  "id": 8595
+                },
+                {
+                  "name": "Roberta Rodrigues",
+                  "character": "Berenice",
+                  "profile_path": "/cpqoIk4hJCq2zvQWonn6J4AYAhn.jpg",
+                  "order": 1,
+                  "id": 8603
+                },
+                {
+                  "name": "Andréia Horta",
+                  "character": "Jerusa",
+                  "profile_path": "/upSz7qDltmIf9cksjGO0cl70rOT.jpg",
+                  "order": 2,
+                  "id": 225087
+                },
+                {
+                  "name": "Sabrina Rosa",
+                  "character": "Cinthia",
+                  "profile_path": "/gglJSNaVmtXk31Nc0kGhtDrQCzL.jpg",
+                  "order": 3,
+                  "id": 2002288
+                },
+                {
+                  "name": "Dhonata Augusto",
+                  "character": "Delano",
+                  "profile_path": "/1qUI6jAAPYWlMwScyPA5yWuqXvT.jpg",
+                  "order": 4,
+                  "id": 2184272
+                },
+                {
+                  "name": "Eli Ferreira",
+                  "character": "Lígia",
+                  "profile_path": "/79klVIEAwOR4Kdc598CX11W4wEi.jpg",
+                  "order": 5,
+                  "id": 2251609
+                },
+                {
+                  "name": "Shirley Cruz",
+                  "character": "Martinha",
+                  "profile_path": "/40dvXL5JnLn5DMJHobY6YRnIjBY.jpg",
+                  "order": 6,
+                  "id": 1982173
+                },
+                {
+                  "name": "Luellem de Castro",
+                  "character": "Leka",
+                  "profile_path": "/lMz3q2elHUnikQ2FyejO08fWb6t.jpg",
+                  "order": 7,
+                  "id": 2658367
+                },
+                {
+                  "name": "Kiko Marques",
+                  "character": "Reginaldo",
+                  "profile_path": "/oKpXAcQF752JhHeYcHKC6gY19W3.jpg",
+                  "order": 8,
+                  "id": 2483242
+                },
+                {
+                  "name": "Victor Andrade",
+                  "character": "Geninho",
+                  "profile_path": "/fuY2v4zDhKBe9hoPmMkQvEudIZo.jpg",
+                  "order": 9,
+                  "id": 4923629
+                },
+                {
+                  "name": "Edson Oliveira",
+                  "character": "Barbantinho",
+                  "profile_path": "/g4M40dkW9vxRtAzbu9oUNWClCyB.jpg",
+                  "order": 10,
+                  "id": 3582522
+                },
+                {
+                  "name": "Thiago Martins",
+                  "character": "Bradock",
+                  "profile_path": "/f79YvNXdOEQrEcev7NVnn32O8Bw.jpg",
+                  "order": 11,
+                  "id": 50362
+                },
+                {
+                  "name": "Marcos Palmeira",
+                  "character": "Genivaldo Curió",
+                  "profile_path": "/2Zlh07I2Hxx9bF3xIyzXDRcUNnu.jpg",
+                  "order": 12,
+                  "id": 84149
+                },
+                {
+                  "name": "Demétrio Nascimento",
+                  "character": "PQD",
+                  "profile_path": "/yyBi1D4DI604I7EVJvR2IiXrT5W.jpg",
+                  "order": 13,
+                  "id": 4917349
+                },
+                {
+                  "name": "Felipe Paulino",
+                  "character": "Pézinho",
+                  "profile_path": "/19rmLsGHuZ2Hc16lGpkyMenGHtq.jpg",
+                  "order": 14,
+                  "id": 2097770
+                },
+                {
+                  "name": "Rafael Lozano",
+                  "character": "Israël",
+                  "profile_path": "/gbmBAHhSEHbcWPTosAwupyHvGZq.jpg",
+                  "order": 15,
+                  "id": 1714049
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt32482568",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10606029,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Original",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAxLTAyLm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "Episódio 3",
+              "original_name": "",
+              "air_date": "2024-09-08",
+              "runtime": 55,
+              "overview": "Em meio à guerra territorial, Leka e seu grupo de rap cortejam um produtor musical. Enquanto isso, Lígia e Wilson investigam as ações das milícias, PQD aproveita seu histórico militar para ajudar Curió, e Jerusa orquestra uma emboscada.",
+              "still_path": "/iNuyB4jsDGuSTtjZPr52Lvp7caf.jpg",
+              "vote_average": 5.75,
+              "vote_count": 4,
+              "guest_stars": [
+                {
+                  "name": "Leandro Daniel",
+                  "character": "Empresário Leal",
+                  "profile_path": "/gVx74kwXTGCkIACtPyx0BKKwF3.jpg",
+                  "order": 500,
+                  "id": 1187057
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Alexandre Rodrigues",
+                  "character": "Buscapé",
+                  "profile_path": "/iExs5h6LeFmdR3kDtSS5xYU1Qgx.jpg",
+                  "order": 0,
+                  "id": 8595
+                },
+                {
+                  "name": "Roberta Rodrigues",
+                  "character": "Berenice",
+                  "profile_path": "/cpqoIk4hJCq2zvQWonn6J4AYAhn.jpg",
+                  "order": 1,
+                  "id": 8603
+                },
+                {
+                  "name": "Andréia Horta",
+                  "character": "Jerusa",
+                  "profile_path": "/upSz7qDltmIf9cksjGO0cl70rOT.jpg",
+                  "order": 2,
+                  "id": 225087
+                },
+                {
+                  "name": "Sabrina Rosa",
+                  "character": "Cinthia",
+                  "profile_path": "/gglJSNaVmtXk31Nc0kGhtDrQCzL.jpg",
+                  "order": 3,
+                  "id": 2002288
+                },
+                {
+                  "name": "Dhonata Augusto",
+                  "character": "Delano",
+                  "profile_path": "/1qUI6jAAPYWlMwScyPA5yWuqXvT.jpg",
+                  "order": 4,
+                  "id": 2184272
+                },
+                {
+                  "name": "Eli Ferreira",
+                  "character": "Lígia",
+                  "profile_path": "/79klVIEAwOR4Kdc598CX11W4wEi.jpg",
+                  "order": 5,
+                  "id": 2251609
+                },
+                {
+                  "name": "Shirley Cruz",
+                  "character": "Martinha",
+                  "profile_path": "/40dvXL5JnLn5DMJHobY6YRnIjBY.jpg",
+                  "order": 6,
+                  "id": 1982173
+                },
+                {
+                  "name": "Luellem de Castro",
+                  "character": "Leka",
+                  "profile_path": "/lMz3q2elHUnikQ2FyejO08fWb6t.jpg",
+                  "order": 7,
+                  "id": 2658367
+                },
+                {
+                  "name": "Kiko Marques",
+                  "character": "Reginaldo",
+                  "profile_path": "/oKpXAcQF752JhHeYcHKC6gY19W3.jpg",
+                  "order": 8,
+                  "id": 2483242
+                },
+                {
+                  "name": "Victor Andrade",
+                  "character": "Geninho",
+                  "profile_path": "/fuY2v4zDhKBe9hoPmMkQvEudIZo.jpg",
+                  "order": 9,
+                  "id": 4923629
+                },
+                {
+                  "name": "Edson Oliveira",
+                  "character": "Barbantinho",
+                  "profile_path": "/g4M40dkW9vxRtAzbu9oUNWClCyB.jpg",
+                  "order": 10,
+                  "id": 3582522
+                },
+                {
+                  "name": "Thiago Martins",
+                  "character": "Bradock",
+                  "profile_path": "/f79YvNXdOEQrEcev7NVnn32O8Bw.jpg",
+                  "order": 11,
+                  "id": 50362
+                },
+                {
+                  "name": "Marcos Palmeira",
+                  "character": "Genivaldo Curió",
+                  "profile_path": "/2Zlh07I2Hxx9bF3xIyzXDRcUNnu.jpg",
+                  "order": 12,
+                  "id": 84149
+                },
+                {
+                  "name": "Demétrio Nascimento",
+                  "character": "PQD",
+                  "profile_path": "/yyBi1D4DI604I7EVJvR2IiXrT5W.jpg",
+                  "order": 13,
+                  "id": 4917349
+                },
+                {
+                  "name": "Felipe Paulino",
+                  "character": "Pézinho",
+                  "profile_path": "/19rmLsGHuZ2Hc16lGpkyMenGHtq.jpg",
+                  "order": 14,
+                  "id": 2097770
+                },
+                {
+                  "name": "Rafael Lozano",
+                  "character": "Israël",
+                  "profile_path": "/gbmBAHhSEHbcWPTosAwupyHvGZq.jpg",
+                  "order": 15,
+                  "id": 1714049
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt32482567",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10606030,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Original",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAxLTAzLm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "Episódio 4",
+              "original_name": "",
+              "air_date": "2024-09-15",
+              "runtime": 53,
+              "overview": "Após assumir o controle, Bradock procura criar confiança na comunidade, apesar de seu comportamento errático. Enquanto isso, Wilson e Lígia descobrem uma conexão entre um político, as milícias locais e um membro do círculo de Bradock.",
+              "still_path": "/hCC7CsiHthnCaMEWiNCtMlh2amQ.jpg",
+              "vote_average": 5,
+              "vote_count": 4,
+              "guest_stars": [
+                {
+                  "name": "Leandro Daniel",
+                  "character": "Empresário Leal",
+                  "profile_path": "/gVx74kwXTGCkIACtPyx0BKKwF3.jpg",
+                  "order": 500,
+                  "id": 1187057
+                }
+              ],
+              "cast": [
+                {
+                  "name": "Alexandre Rodrigues",
+                  "character": "Buscapé",
+                  "profile_path": "/iExs5h6LeFmdR3kDtSS5xYU1Qgx.jpg",
+                  "order": 0,
+                  "id": 8595
+                },
+                {
+                  "name": "Roberta Rodrigues",
+                  "character": "Berenice",
+                  "profile_path": "/cpqoIk4hJCq2zvQWonn6J4AYAhn.jpg",
+                  "order": 1,
+                  "id": 8603
+                },
+                {
+                  "name": "Andréia Horta",
+                  "character": "Jerusa",
+                  "profile_path": "/upSz7qDltmIf9cksjGO0cl70rOT.jpg",
+                  "order": 2,
+                  "id": 225087
+                },
+                {
+                  "name": "Sabrina Rosa",
+                  "character": "Cinthia",
+                  "profile_path": "/gglJSNaVmtXk31Nc0kGhtDrQCzL.jpg",
+                  "order": 3,
+                  "id": 2002288
+                },
+                {
+                  "name": "Dhonata Augusto",
+                  "character": "Delano",
+                  "profile_path": "/1qUI6jAAPYWlMwScyPA5yWuqXvT.jpg",
+                  "order": 4,
+                  "id": 2184272
+                },
+                {
+                  "name": "Eli Ferreira",
+                  "character": "Lígia",
+                  "profile_path": "/79klVIEAwOR4Kdc598CX11W4wEi.jpg",
+                  "order": 5,
+                  "id": 2251609
+                },
+                {
+                  "name": "Shirley Cruz",
+                  "character": "Martinha",
+                  "profile_path": "/40dvXL5JnLn5DMJHobY6YRnIjBY.jpg",
+                  "order": 6,
+                  "id": 1982173
+                },
+                {
+                  "name": "Luellem de Castro",
+                  "character": "Leka",
+                  "profile_path": "/lMz3q2elHUnikQ2FyejO08fWb6t.jpg",
+                  "order": 7,
+                  "id": 2658367
+                },
+                {
+                  "name": "Kiko Marques",
+                  "character": "Reginaldo",
+                  "profile_path": "/oKpXAcQF752JhHeYcHKC6gY19W3.jpg",
+                  "order": 8,
+                  "id": 2483242
+                },
+                {
+                  "name": "Victor Andrade",
+                  "character": "Geninho",
+                  "profile_path": "/fuY2v4zDhKBe9hoPmMkQvEudIZo.jpg",
+                  "order": 9,
+                  "id": 4923629
+                },
+                {
+                  "name": "Edson Oliveira",
+                  "character": "Barbantinho",
+                  "profile_path": "/g4M40dkW9vxRtAzbu9oUNWClCyB.jpg",
+                  "order": 10,
+                  "id": 3582522
+                },
+                {
+                  "name": "Thiago Martins",
+                  "character": "Bradock",
+                  "profile_path": "/f79YvNXdOEQrEcev7NVnn32O8Bw.jpg",
+                  "order": 11,
+                  "id": 50362
+                },
+                {
+                  "name": "Marcos Palmeira",
+                  "character": "Genivaldo Curió",
+                  "profile_path": "/2Zlh07I2Hxx9bF3xIyzXDRcUNnu.jpg",
+                  "order": 12,
+                  "id": 84149
+                },
+                {
+                  "name": "Demétrio Nascimento",
+                  "character": "PQD",
+                  "profile_path": "/yyBi1D4DI604I7EVJvR2IiXrT5W.jpg",
+                  "order": 13,
+                  "id": 4917349
+                },
+                {
+                  "name": "Felipe Paulino",
+                  "character": "Pézinho",
+                  "profile_path": "/19rmLsGHuZ2Hc16lGpkyMenGHtq.jpg",
+                  "order": 14,
+                  "id": 2097770
+                },
+                {
+                  "name": "Rafael Lozano",
+                  "character": "Israël",
+                  "profile_path": "/gbmBAHhSEHbcWPTosAwupyHvGZq.jpg",
+                  "order": 15,
+                  "id": 1714049
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt32482569",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10606031,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Original",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAxLTA0Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "Episódio 5",
+              "original_name": "",
+              "air_date": "2024-09-22",
+              "runtime": 44,
+              "overview": "Quando o BOPE invade a Cidade de Deus a mando de Reginaldo, uma onda de violência é deflagrada, forçando Barbantinho, Berenice e Wilson a enfrentarem um caos inimaginável e impactante.",
+              "still_path": "/vYmnMuNEaKj5t4oNNoNYM4C5c4H.jpg",
+              "vote_average": 5.5,
+              "vote_count": 4,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Alexandre Rodrigues",
+                  "character": "Buscapé",
+                  "profile_path": "/iExs5h6LeFmdR3kDtSS5xYU1Qgx.jpg",
+                  "order": 0,
+                  "id": 8595
+                },
+                {
+                  "name": "Roberta Rodrigues",
+                  "character": "Berenice",
+                  "profile_path": "/cpqoIk4hJCq2zvQWonn6J4AYAhn.jpg",
+                  "order": 1,
+                  "id": 8603
+                },
+                {
+                  "name": "Andréia Horta",
+                  "character": "Jerusa",
+                  "profile_path": "/upSz7qDltmIf9cksjGO0cl70rOT.jpg",
+                  "order": 2,
+                  "id": 225087
+                },
+                {
+                  "name": "Sabrina Rosa",
+                  "character": "Cinthia",
+                  "profile_path": "/gglJSNaVmtXk31Nc0kGhtDrQCzL.jpg",
+                  "order": 3,
+                  "id": 2002288
+                },
+                {
+                  "name": "Dhonata Augusto",
+                  "character": "Delano",
+                  "profile_path": "/1qUI6jAAPYWlMwScyPA5yWuqXvT.jpg",
+                  "order": 4,
+                  "id": 2184272
+                },
+                {
+                  "name": "Eli Ferreira",
+                  "character": "Lígia",
+                  "profile_path": "/79klVIEAwOR4Kdc598CX11W4wEi.jpg",
+                  "order": 5,
+                  "id": 2251609
+                },
+                {
+                  "name": "Shirley Cruz",
+                  "character": "Martinha",
+                  "profile_path": "/40dvXL5JnLn5DMJHobY6YRnIjBY.jpg",
+                  "order": 6,
+                  "id": 1982173
+                },
+                {
+                  "name": "Luellem de Castro",
+                  "character": "Leka",
+                  "profile_path": "/lMz3q2elHUnikQ2FyejO08fWb6t.jpg",
+                  "order": 7,
+                  "id": 2658367
+                },
+                {
+                  "name": "Kiko Marques",
+                  "character": "Reginaldo",
+                  "profile_path": "/oKpXAcQF752JhHeYcHKC6gY19W3.jpg",
+                  "order": 8,
+                  "id": 2483242
+                },
+                {
+                  "name": "Victor Andrade",
+                  "character": "Geninho",
+                  "profile_path": "/fuY2v4zDhKBe9hoPmMkQvEudIZo.jpg",
+                  "order": 9,
+                  "id": 4923629
+                },
+                {
+                  "name": "Edson Oliveira",
+                  "character": "Barbantinho",
+                  "profile_path": "/g4M40dkW9vxRtAzbu9oUNWClCyB.jpg",
+                  "order": 10,
+                  "id": 3582522
+                },
+                {
+                  "name": "Thiago Martins",
+                  "character": "Bradock",
+                  "profile_path": "/f79YvNXdOEQrEcev7NVnn32O8Bw.jpg",
+                  "order": 11,
+                  "id": 50362
+                },
+                {
+                  "name": "Marcos Palmeira",
+                  "character": "Genivaldo Curió",
+                  "profile_path": "/2Zlh07I2Hxx9bF3xIyzXDRcUNnu.jpg",
+                  "order": 12,
+                  "id": 84149
+                },
+                {
+                  "name": "Demétrio Nascimento",
+                  "character": "PQD",
+                  "profile_path": "/yyBi1D4DI604I7EVJvR2IiXrT5W.jpg",
+                  "order": 13,
+                  "id": 4917349
+                },
+                {
+                  "name": "Felipe Paulino",
+                  "character": "Pézinho",
+                  "profile_path": "/19rmLsGHuZ2Hc16lGpkyMenGHtq.jpg",
+                  "order": 14,
+                  "id": 2097770
+                },
+                {
+                  "name": "Rafael Lozano",
+                  "character": "Israël",
+                  "profile_path": "/gbmBAHhSEHbcWPTosAwupyHvGZq.jpg",
+                  "order": 15,
+                  "id": 1714049
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt32482571",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10606032,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Original",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAxLTA1Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "Episódio 6",
+              "original_name": "",
+              "air_date": "2024-09-29",
+              "runtime": 50,
+              "overview": "Enquanto a comunidade se reúne em torno de sua campanha, Berenice recebe um aviso de Bradock. Wilson e Lígia se veem em perigo à medida que se aproximam da revelação da conspiração entre Reginaldo e traficantes de armas.",
+              "still_path": "/uClN2dzV66aU843eylEMCdNBJ02.jpg",
+              "vote_average": 5.25,
+              "vote_count": 4,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Alexandre Rodrigues",
+                  "character": "Buscapé",
+                  "profile_path": "/iExs5h6LeFmdR3kDtSS5xYU1Qgx.jpg",
+                  "order": 0,
+                  "id": 8595
+                },
+                {
+                  "name": "Roberta Rodrigues",
+                  "character": "Berenice",
+                  "profile_path": "/cpqoIk4hJCq2zvQWonn6J4AYAhn.jpg",
+                  "order": 1,
+                  "id": 8603
+                },
+                {
+                  "name": "Andréia Horta",
+                  "character": "Jerusa",
+                  "profile_path": "/upSz7qDltmIf9cksjGO0cl70rOT.jpg",
+                  "order": 2,
+                  "id": 225087
+                },
+                {
+                  "name": "Sabrina Rosa",
+                  "character": "Cinthia",
+                  "profile_path": "/gglJSNaVmtXk31Nc0kGhtDrQCzL.jpg",
+                  "order": 3,
+                  "id": 2002288
+                },
+                {
+                  "name": "Dhonata Augusto",
+                  "character": "Delano",
+                  "profile_path": "/1qUI6jAAPYWlMwScyPA5yWuqXvT.jpg",
+                  "order": 4,
+                  "id": 2184272
+                },
+                {
+                  "name": "Eli Ferreira",
+                  "character": "Lígia",
+                  "profile_path": "/79klVIEAwOR4Kdc598CX11W4wEi.jpg",
+                  "order": 5,
+                  "id": 2251609
+                },
+                {
+                  "name": "Shirley Cruz",
+                  "character": "Martinha",
+                  "profile_path": "/40dvXL5JnLn5DMJHobY6YRnIjBY.jpg",
+                  "order": 6,
+                  "id": 1982173
+                },
+                {
+                  "name": "Luellem de Castro",
+                  "character": "Leka",
+                  "profile_path": "/lMz3q2elHUnikQ2FyejO08fWb6t.jpg",
+                  "order": 7,
+                  "id": 2658367
+                },
+                {
+                  "name": "Kiko Marques",
+                  "character": "Reginaldo",
+                  "profile_path": "/oKpXAcQF752JhHeYcHKC6gY19W3.jpg",
+                  "order": 8,
+                  "id": 2483242
+                },
+                {
+                  "name": "Victor Andrade",
+                  "character": "Geninho",
+                  "profile_path": "/fuY2v4zDhKBe9hoPmMkQvEudIZo.jpg",
+                  "order": 9,
+                  "id": 4923629
+                },
+                {
+                  "name": "Edson Oliveira",
+                  "character": "Barbantinho",
+                  "profile_path": "/g4M40dkW9vxRtAzbu9oUNWClCyB.jpg",
+                  "order": 10,
+                  "id": 3582522
+                },
+                {
+                  "name": "Thiago Martins",
+                  "character": "Bradock",
+                  "profile_path": "/f79YvNXdOEQrEcev7NVnn32O8Bw.jpg",
+                  "order": 11,
+                  "id": 50362
+                },
+                {
+                  "name": "Marcos Palmeira",
+                  "character": "Genivaldo Curió",
+                  "profile_path": "/2Zlh07I2Hxx9bF3xIyzXDRcUNnu.jpg",
+                  "order": 12,
+                  "id": 84149
+                },
+                {
+                  "name": "Demétrio Nascimento",
+                  "character": "PQD",
+                  "profile_path": "/yyBi1D4DI604I7EVJvR2IiXrT5W.jpg",
+                  "order": 13,
+                  "id": 4917349
+                },
+                {
+                  "name": "Felipe Paulino",
+                  "character": "Pézinho",
+                  "profile_path": "/19rmLsGHuZ2Hc16lGpkyMenGHtq.jpg",
+                  "order": 14,
+                  "id": 2097770
+                },
+                {
+                  "name": "Rafael Lozano",
+                  "character": "Israël",
+                  "profile_path": "/gbmBAHhSEHbcWPTosAwupyHvGZq.jpg",
+                  "order": 15,
+                  "id": 1714049
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": "tt32482572",
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": 10606033,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Original",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAxLTA2Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "name": "Temporada 2",
+          "overview": "Após uma série de perdas abalar a comunidade, Wilson, Berenice, Leka e Cenoura enfrentam uma disputa que ultrapassa o tráfico e envolve política, milícia e corrupção. Em um cenário de alianças e conflitos, a luta está longe de acabar.",
+          "poster_path": "/7aZRrPGdABl5XuKb15al5RiKObb.jpg",
+          "poster": "/7aZRrPGdABl5XuKb15al5RiKObb.jpg",
+          "backdrop_path": "",
+          "air_date": "2026-11-08",
+          "vote_average": 1,
+          "vote_count": 0,
+          "cast": [
+            {
+              "name": "Alexandre Rodrigues",
+              "character": "Buscapé",
+              "profile_path": "/iExs5h6LeFmdR3kDtSS5xYU1Qgx.jpg",
+              "order": 0,
+              "id": 8595
+            },
+            {
+              "name": "Roberta Rodrigues",
+              "character": "Berenice",
+              "profile_path": "/cpqoIk4hJCq2zvQWonn6J4AYAhn.jpg",
+              "order": 1,
+              "id": 8603
+            },
+            {
+              "name": "Andréia Horta",
+              "character": "Jerusa",
+              "profile_path": "/upSz7qDltmIf9cksjGO0cl70rOT.jpg",
+              "order": 2,
+              "id": 225087
+            },
+            {
+              "name": "Sabrina Rosa",
+              "character": "Cinthia",
+              "profile_path": "/gglJSNaVmtXk31Nc0kGhtDrQCzL.jpg",
+              "order": 3,
+              "id": 2002288
+            },
+            {
+              "name": "Dhonata Augusto",
+              "character": "Delano",
+              "profile_path": "/1qUI6jAAPYWlMwScyPA5yWuqXvT.jpg",
+              "order": 4,
+              "id": 2184272
+            },
+            {
+              "name": "Shirley Cruz",
+              "character": "Martinha",
+              "profile_path": "/40dvXL5JnLn5DMJHobY6YRnIjBY.jpg",
+              "order": 6,
+              "id": 1982173
+            },
+            {
+              "name": "Luellem de Castro",
+              "character": "Leka",
+              "profile_path": "/lMz3q2elHUnikQ2FyejO08fWb6t.jpg",
+              "order": 7,
+              "id": 2658367
+            },
+            {
+              "name": "Kiko Marques",
+              "character": "Reginaldo",
+              "profile_path": "/oKpXAcQF752JhHeYcHKC6gY19W3.jpg",
+              "order": 8,
+              "id": 2483242
+            },
+            {
+              "name": "Victor Andrade",
+              "character": "Geninho",
+              "profile_path": "/fuY2v4zDhKBe9hoPmMkQvEudIZo.jpg",
+              "order": 9,
+              "id": 4923629
+            },
+            {
+              "name": "Edson Oliveira",
+              "character": "Barbantinho",
+              "profile_path": "/g4M40dkW9vxRtAzbu9oUNWClCyB.jpg",
+              "order": 10,
+              "id": 3582522
+            },
+            {
+              "name": "Demétrio Nascimento",
+              "character": "PQD",
+              "profile_path": "/yyBi1D4DI604I7EVJvR2IiXrT5W.jpg",
+              "order": 13,
+              "id": 4917349
+            },
+            {
+              "name": "Felipe Paulino",
+              "character": "Pézinho",
+              "profile_path": "/19rmLsGHuZ2Hc16lGpkyMenGHtq.jpg",
+              "order": 14,
+              "id": 2097770
+            },
+            {
+              "name": "Matheus Nachtergaele",
+              "character": "Cenoura",
+              "profile_path": "/zgTT5AP7NYa2hN0jUqHIHkNyp2v.jpg",
+              "order": 16,
+              "id": 8600
+            },
+            {
+              "name": "Renan Novaez",
+              "character": "",
+              "profile_path": "/wgLTs4ly11IYDK3Km1sMVIyuB8A.jpg",
+              "order": 17,
+              "id": 5606753
+            }
+          ],
+          "crew": [],
+          "episodes": [
+            {
+              "episode_number": 1,
+              "name": "Episódio 1",
+              "original_name": "",
+              "air_date": "2026-11-08",
+              "runtime": 49,
+              "overview": "Após uma série de mortes abalar a comunidade, Wilson se empenha em descobrir a verdade, enquanto Delano é acusado injustamente. Temendo uma guerra, Martinha recorre a um antigo conhecido para restabelecer a ordem: Sandro Cenoura.",
+              "still_path": "/lca7a8olH9Ifo1aRiCd9qqAGbZF.jpg",
+              "vote_average": 1,
+              "vote_count": 1,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Alexandre Rodrigues",
+                  "character": "Buscapé",
+                  "profile_path": "/iExs5h6LeFmdR3kDtSS5xYU1Qgx.jpg",
+                  "order": 0,
+                  "id": 8595
+                },
+                {
+                  "name": "Roberta Rodrigues",
+                  "character": "Berenice",
+                  "profile_path": "/cpqoIk4hJCq2zvQWonn6J4AYAhn.jpg",
+                  "order": 1,
+                  "id": 8603
+                },
+                {
+                  "name": "Andréia Horta",
+                  "character": "Jerusa",
+                  "profile_path": "/upSz7qDltmIf9cksjGO0cl70rOT.jpg",
+                  "order": 2,
+                  "id": 225087
+                },
+                {
+                  "name": "Sabrina Rosa",
+                  "character": "Cinthia",
+                  "profile_path": "/gglJSNaVmtXk31Nc0kGhtDrQCzL.jpg",
+                  "order": 3,
+                  "id": 2002288
+                },
+                {
+                  "name": "Dhonata Augusto",
+                  "character": "Delano",
+                  "profile_path": "/1qUI6jAAPYWlMwScyPA5yWuqXvT.jpg",
+                  "order": 4,
+                  "id": 2184272
+                },
+                {
+                  "name": "Shirley Cruz",
+                  "character": "Martinha",
+                  "profile_path": "/40dvXL5JnLn5DMJHobY6YRnIjBY.jpg",
+                  "order": 6,
+                  "id": 1982173
+                },
+                {
+                  "name": "Luellem de Castro",
+                  "character": "Leka",
+                  "profile_path": "/lMz3q2elHUnikQ2FyejO08fWb6t.jpg",
+                  "order": 7,
+                  "id": 2658367
+                },
+                {
+                  "name": "Kiko Marques",
+                  "character": "Reginaldo",
+                  "profile_path": "/oKpXAcQF752JhHeYcHKC6gY19W3.jpg",
+                  "order": 8,
+                  "id": 2483242
+                },
+                {
+                  "name": "Victor Andrade",
+                  "character": "Geninho",
+                  "profile_path": "/fuY2v4zDhKBe9hoPmMkQvEudIZo.jpg",
+                  "order": 9,
+                  "id": 4923629
+                },
+                {
+                  "name": "Edson Oliveira",
+                  "character": "Barbantinho",
+                  "profile_path": "/g4M40dkW9vxRtAzbu9oUNWClCyB.jpg",
+                  "order": 10,
+                  "id": 3582522
+                },
+                {
+                  "name": "Demétrio Nascimento",
+                  "character": "PQD",
+                  "profile_path": "/yyBi1D4DI604I7EVJvR2IiXrT5W.jpg",
+                  "order": 13,
+                  "id": 4917349
+                },
+                {
+                  "name": "Felipe Paulino",
+                  "character": "Pézinho",
+                  "profile_path": "/19rmLsGHuZ2Hc16lGpkyMenGHtq.jpg",
+                  "order": 14,
+                  "id": 2097770
+                },
+                {
+                  "name": "Matheus Nachtergaele",
+                  "character": "Cenoura",
+                  "profile_path": "/zgTT5AP7NYa2hN0jUqHIHkNyp2v.jpg",
+                  "order": 16,
+                  "id": 8600
+                },
+                {
+                  "name": "Renan Novaez",
+                  "character": "",
+                  "profile_path": "/wgLTs4ly11IYDK3Km1sMVIyuB8A.jpg",
+                  "order": 17,
+                  "id": 5606753
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Original",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAyLTAxLm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                },
+                {
+                  "label": "Original",
+                  "type": "Magnet",
+                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDptNXltdHd0bXpzdDY1M2V0N3ZrZ3M2M3VzMm1rZjdoaA==",
+                  "quality": "1080p",
+                  "language": "Português (Brasil)"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "name": "Episódio 2",
+              "original_name": "",
+              "air_date": "2026-11-15",
+              "runtime": 41,
+              "overview": "Cenoura retorna e evita a guerra, dividindo os territórios. Delano inicia na nova empresa de segurança, enquanto Jerusa, Israel e Reginaldo planejam expulsar os moradores da Gardênia Azul, e Berenice cria um gabinete móvel.",
+              "still_path": "/mkgFyCaBT5fbb6BVeVtxRrAv6Rt.jpg",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Alexandre Rodrigues",
+                  "character": "Buscapé",
+                  "profile_path": "/iExs5h6LeFmdR3kDtSS5xYU1Qgx.jpg",
+                  "order": 0,
+                  "id": 8595
+                },
+                {
+                  "name": "Roberta Rodrigues",
+                  "character": "Berenice",
+                  "profile_path": "/cpqoIk4hJCq2zvQWonn6J4AYAhn.jpg",
+                  "order": 1,
+                  "id": 8603
+                },
+                {
+                  "name": "Andréia Horta",
+                  "character": "Jerusa",
+                  "profile_path": "/upSz7qDltmIf9cksjGO0cl70rOT.jpg",
+                  "order": 2,
+                  "id": 225087
+                },
+                {
+                  "name": "Sabrina Rosa",
+                  "character": "Cinthia",
+                  "profile_path": "/gglJSNaVmtXk31Nc0kGhtDrQCzL.jpg",
+                  "order": 3,
+                  "id": 2002288
+                },
+                {
+                  "name": "Dhonata Augusto",
+                  "character": "Delano",
+                  "profile_path": "/1qUI6jAAPYWlMwScyPA5yWuqXvT.jpg",
+                  "order": 4,
+                  "id": 2184272
+                },
+                {
+                  "name": "Shirley Cruz",
+                  "character": "Martinha",
+                  "profile_path": "/40dvXL5JnLn5DMJHobY6YRnIjBY.jpg",
+                  "order": 6,
+                  "id": 1982173
+                },
+                {
+                  "name": "Luellem de Castro",
+                  "character": "Leka",
+                  "profile_path": "/lMz3q2elHUnikQ2FyejO08fWb6t.jpg",
+                  "order": 7,
+                  "id": 2658367
+                },
+                {
+                  "name": "Kiko Marques",
+                  "character": "Reginaldo",
+                  "profile_path": "/oKpXAcQF752JhHeYcHKC6gY19W3.jpg",
+                  "order": 8,
+                  "id": 2483242
+                },
+                {
+                  "name": "Victor Andrade",
+                  "character": "Geninho",
+                  "profile_path": "/fuY2v4zDhKBe9hoPmMkQvEudIZo.jpg",
+                  "order": 9,
+                  "id": 4923629
+                },
+                {
+                  "name": "Edson Oliveira",
+                  "character": "Barbantinho",
+                  "profile_path": "/g4M40dkW9vxRtAzbu9oUNWClCyB.jpg",
+                  "order": 10,
+                  "id": 3582522
+                },
+                {
+                  "name": "Demétrio Nascimento",
+                  "character": "PQD",
+                  "profile_path": "/yyBi1D4DI604I7EVJvR2IiXrT5W.jpg",
+                  "order": 13,
+                  "id": 4917349
+                },
+                {
+                  "name": "Felipe Paulino",
+                  "character": "Pézinho",
+                  "profile_path": "/19rmLsGHuZ2Hc16lGpkyMenGHtq.jpg",
+                  "order": 14,
+                  "id": 2097770
+                },
+                {
+                  "name": "Matheus Nachtergaele",
+                  "character": "Cenoura",
+                  "profile_path": "/zgTT5AP7NYa2hN0jUqHIHkNyp2v.jpg",
+                  "order": 16,
+                  "id": 8600
+                },
+                {
+                  "name": "Renan Novaez",
+                  "character": "",
+                  "profile_path": "/wgLTs4ly11IYDK3Km1sMVIyuB8A.jpg",
+                  "order": 17,
+                  "id": 5606753
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Original",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAyLTAyLm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                },
+                {
+                  "label": "Original",
+                  "type": "Magnet",
+                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDpmbmNsNDRpM295MzdicXBkMm83cnM1dDZ2NWdmZmgydA==",
+                  "quality": "1080p",
+                  "language": "Português (Brasil)"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "name": "Episódio 3",
+              "original_name": "",
+              "air_date": "2026-11-22",
+              "runtime": 43,
+              "overview": "",
+              "still_path": "/aPF9w59gWxje4L8KIsoCF3QJh73.jpg",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Alexandre Rodrigues",
+                  "character": "Buscapé",
+                  "profile_path": "/iExs5h6LeFmdR3kDtSS5xYU1Qgx.jpg",
+                  "order": 0,
+                  "id": 8595
+                },
+                {
+                  "name": "Roberta Rodrigues",
+                  "character": "Berenice",
+                  "profile_path": "/cpqoIk4hJCq2zvQWonn6J4AYAhn.jpg",
+                  "order": 1,
+                  "id": 8603
+                },
+                {
+                  "name": "Andréia Horta",
+                  "character": "Jerusa",
+                  "profile_path": "/upSz7qDltmIf9cksjGO0cl70rOT.jpg",
+                  "order": 2,
+                  "id": 225087
+                },
+                {
+                  "name": "Sabrina Rosa",
+                  "character": "Cinthia",
+                  "profile_path": "/gglJSNaVmtXk31Nc0kGhtDrQCzL.jpg",
+                  "order": 3,
+                  "id": 2002288
+                },
+                {
+                  "name": "Dhonata Augusto",
+                  "character": "Delano",
+                  "profile_path": "/1qUI6jAAPYWlMwScyPA5yWuqXvT.jpg",
+                  "order": 4,
+                  "id": 2184272
+                },
+                {
+                  "name": "Shirley Cruz",
+                  "character": "Martinha",
+                  "profile_path": "/40dvXL5JnLn5DMJHobY6YRnIjBY.jpg",
+                  "order": 6,
+                  "id": 1982173
+                },
+                {
+                  "name": "Luellem de Castro",
+                  "character": "Leka",
+                  "profile_path": "/lMz3q2elHUnikQ2FyejO08fWb6t.jpg",
+                  "order": 7,
+                  "id": 2658367
+                },
+                {
+                  "name": "Kiko Marques",
+                  "character": "Reginaldo",
+                  "profile_path": "/oKpXAcQF752JhHeYcHKC6gY19W3.jpg",
+                  "order": 8,
+                  "id": 2483242
+                },
+                {
+                  "name": "Victor Andrade",
+                  "character": "Geninho",
+                  "profile_path": "/fuY2v4zDhKBe9hoPmMkQvEudIZo.jpg",
+                  "order": 9,
+                  "id": 4923629
+                },
+                {
+                  "name": "Edson Oliveira",
+                  "character": "Barbantinho",
+                  "profile_path": "/g4M40dkW9vxRtAzbu9oUNWClCyB.jpg",
+                  "order": 10,
+                  "id": 3582522
+                },
+                {
+                  "name": "Demétrio Nascimento",
+                  "character": "PQD",
+                  "profile_path": "/yyBi1D4DI604I7EVJvR2IiXrT5W.jpg",
+                  "order": 13,
+                  "id": 4917349
+                },
+                {
+                  "name": "Felipe Paulino",
+                  "character": "Pézinho",
+                  "profile_path": "/19rmLsGHuZ2Hc16lGpkyMenGHtq.jpg",
+                  "order": 14,
+                  "id": 2097770
+                },
+                {
+                  "name": "Matheus Nachtergaele",
+                  "character": "Cenoura",
+                  "profile_path": "/zgTT5AP7NYa2hN0jUqHIHkNyp2v.jpg",
+                  "order": 16,
+                  "id": 8600
+                },
+                {
+                  "name": "Renan Novaez",
+                  "character": "",
+                  "profile_path": "/wgLTs4ly11IYDK3Km1sMVIyuB8A.jpg",
+                  "order": 17,
+                  "id": 5606753
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Original",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAyLTAzLm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                },
+                {
+                  "label": "Dublado",
+                  "type": "Magnet",
+                  "url": "bWFnbmV0Oj94dD11cm46YnRpaDo3bnNpbnV3ZDRrZHlsaXNtcXdhY3c0cnA1bm14Y2Z3ZA==",
+                  "quality": "1080p",
+                  "language": "Português (Brasil)"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "name": "Episódio 4",
+              "original_name": "",
+              "air_date": "2026-11-29",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Alexandre Rodrigues",
+                  "character": "Buscapé",
+                  "profile_path": "/iExs5h6LeFmdR3kDtSS5xYU1Qgx.jpg",
+                  "order": 0,
+                  "id": 8595
+                },
+                {
+                  "name": "Roberta Rodrigues",
+                  "character": "Berenice",
+                  "profile_path": "/cpqoIk4hJCq2zvQWonn6J4AYAhn.jpg",
+                  "order": 1,
+                  "id": 8603
+                },
+                {
+                  "name": "Andréia Horta",
+                  "character": "Jerusa",
+                  "profile_path": "/upSz7qDltmIf9cksjGO0cl70rOT.jpg",
+                  "order": 2,
+                  "id": 225087
+                },
+                {
+                  "name": "Sabrina Rosa",
+                  "character": "Cinthia",
+                  "profile_path": "/gglJSNaVmtXk31Nc0kGhtDrQCzL.jpg",
+                  "order": 3,
+                  "id": 2002288
+                },
+                {
+                  "name": "Dhonata Augusto",
+                  "character": "Delano",
+                  "profile_path": "/1qUI6jAAPYWlMwScyPA5yWuqXvT.jpg",
+                  "order": 4,
+                  "id": 2184272
+                },
+                {
+                  "name": "Shirley Cruz",
+                  "character": "Martinha",
+                  "profile_path": "/40dvXL5JnLn5DMJHobY6YRnIjBY.jpg",
+                  "order": 6,
+                  "id": 1982173
+                },
+                {
+                  "name": "Luellem de Castro",
+                  "character": "Leka",
+                  "profile_path": "/lMz3q2elHUnikQ2FyejO08fWb6t.jpg",
+                  "order": 7,
+                  "id": 2658367
+                },
+                {
+                  "name": "Kiko Marques",
+                  "character": "Reginaldo",
+                  "profile_path": "/oKpXAcQF752JhHeYcHKC6gY19W3.jpg",
+                  "order": 8,
+                  "id": 2483242
+                },
+                {
+                  "name": "Victor Andrade",
+                  "character": "Geninho",
+                  "profile_path": "/fuY2v4zDhKBe9hoPmMkQvEudIZo.jpg",
+                  "order": 9,
+                  "id": 4923629
+                },
+                {
+                  "name": "Edson Oliveira",
+                  "character": "Barbantinho",
+                  "profile_path": "/g4M40dkW9vxRtAzbu9oUNWClCyB.jpg",
+                  "order": 10,
+                  "id": 3582522
+                },
+                {
+                  "name": "Demétrio Nascimento",
+                  "character": "PQD",
+                  "profile_path": "/yyBi1D4DI604I7EVJvR2IiXrT5W.jpg",
+                  "order": 13,
+                  "id": 4917349
+                },
+                {
+                  "name": "Felipe Paulino",
+                  "character": "Pézinho",
+                  "profile_path": "/19rmLsGHuZ2Hc16lGpkyMenGHtq.jpg",
+                  "order": 14,
+                  "id": 2097770
+                },
+                {
+                  "name": "Matheus Nachtergaele",
+                  "character": "Cenoura",
+                  "profile_path": "/zgTT5AP7NYa2hN0jUqHIHkNyp2v.jpg",
+                  "order": 16,
+                  "id": 8600
+                },
+                {
+                  "name": "Renan Novaez",
+                  "character": "",
+                  "profile_path": "/wgLTs4ly11IYDK3Km1sMVIyuB8A.jpg",
+                  "order": 17,
+                  "id": 5606753
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Original",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAyLTA0Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "name": "Episódio 5",
+              "original_name": "",
+              "air_date": "2026-12-06",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Alexandre Rodrigues",
+                  "character": "Buscapé",
+                  "profile_path": "/iExs5h6LeFmdR3kDtSS5xYU1Qgx.jpg",
+                  "order": 0,
+                  "id": 8595
+                },
+                {
+                  "name": "Roberta Rodrigues",
+                  "character": "Berenice",
+                  "profile_path": "/cpqoIk4hJCq2zvQWonn6J4AYAhn.jpg",
+                  "order": 1,
+                  "id": 8603
+                },
+                {
+                  "name": "Andréia Horta",
+                  "character": "Jerusa",
+                  "profile_path": "/upSz7qDltmIf9cksjGO0cl70rOT.jpg",
+                  "order": 2,
+                  "id": 225087
+                },
+                {
+                  "name": "Sabrina Rosa",
+                  "character": "Cinthia",
+                  "profile_path": "/gglJSNaVmtXk31Nc0kGhtDrQCzL.jpg",
+                  "order": 3,
+                  "id": 2002288
+                },
+                {
+                  "name": "Dhonata Augusto",
+                  "character": "Delano",
+                  "profile_path": "/1qUI6jAAPYWlMwScyPA5yWuqXvT.jpg",
+                  "order": 4,
+                  "id": 2184272
+                },
+                {
+                  "name": "Shirley Cruz",
+                  "character": "Martinha",
+                  "profile_path": "/40dvXL5JnLn5DMJHobY6YRnIjBY.jpg",
+                  "order": 6,
+                  "id": 1982173
+                },
+                {
+                  "name": "Luellem de Castro",
+                  "character": "Leka",
+                  "profile_path": "/lMz3q2elHUnikQ2FyejO08fWb6t.jpg",
+                  "order": 7,
+                  "id": 2658367
+                },
+                {
+                  "name": "Kiko Marques",
+                  "character": "Reginaldo",
+                  "profile_path": "/oKpXAcQF752JhHeYcHKC6gY19W3.jpg",
+                  "order": 8,
+                  "id": 2483242
+                },
+                {
+                  "name": "Victor Andrade",
+                  "character": "Geninho",
+                  "profile_path": "/fuY2v4zDhKBe9hoPmMkQvEudIZo.jpg",
+                  "order": 9,
+                  "id": 4923629
+                },
+                {
+                  "name": "Edson Oliveira",
+                  "character": "Barbantinho",
+                  "profile_path": "/g4M40dkW9vxRtAzbu9oUNWClCyB.jpg",
+                  "order": 10,
+                  "id": 3582522
+                },
+                {
+                  "name": "Demétrio Nascimento",
+                  "character": "PQD",
+                  "profile_path": "/yyBi1D4DI604I7EVJvR2IiXrT5W.jpg",
+                  "order": 13,
+                  "id": 4917349
+                },
+                {
+                  "name": "Felipe Paulino",
+                  "character": "Pézinho",
+                  "profile_path": "/19rmLsGHuZ2Hc16lGpkyMenGHtq.jpg",
+                  "order": 14,
+                  "id": 2097770
+                },
+                {
+                  "name": "Matheus Nachtergaele",
+                  "character": "Cenoura",
+                  "profile_path": "/zgTT5AP7NYa2hN0jUqHIHkNyp2v.jpg",
+                  "order": 16,
+                  "id": 8600
+                },
+                {
+                  "name": "Renan Novaez",
+                  "character": "",
+                  "profile_path": "/wgLTs4ly11IYDK3Km1sMVIyuB8A.jpg",
+                  "order": 17,
+                  "id": 5606753
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Original",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAyLTA1Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "name": "Episódio 6",
+              "original_name": "",
+              "air_date": "2026-12-13",
+              "runtime": null,
+              "overview": "",
+              "still_path": "",
+              "vote_average": 0,
+              "vote_count": 0,
+              "guest_stars": [],
+              "cast": [
+                {
+                  "name": "Alexandre Rodrigues",
+                  "character": "Buscapé",
+                  "profile_path": "/iExs5h6LeFmdR3kDtSS5xYU1Qgx.jpg",
+                  "order": 0,
+                  "id": 8595
+                },
+                {
+                  "name": "Roberta Rodrigues",
+                  "character": "Berenice",
+                  "profile_path": "/cpqoIk4hJCq2zvQWonn6J4AYAhn.jpg",
+                  "order": 1,
+                  "id": 8603
+                },
+                {
+                  "name": "Andréia Horta",
+                  "character": "Jerusa",
+                  "profile_path": "/upSz7qDltmIf9cksjGO0cl70rOT.jpg",
+                  "order": 2,
+                  "id": 225087
+                },
+                {
+                  "name": "Sabrina Rosa",
+                  "character": "Cinthia",
+                  "profile_path": "/gglJSNaVmtXk31Nc0kGhtDrQCzL.jpg",
+                  "order": 3,
+                  "id": 2002288
+                },
+                {
+                  "name": "Dhonata Augusto",
+                  "character": "Delano",
+                  "profile_path": "/1qUI6jAAPYWlMwScyPA5yWuqXvT.jpg",
+                  "order": 4,
+                  "id": 2184272
+                },
+                {
+                  "name": "Shirley Cruz",
+                  "character": "Martinha",
+                  "profile_path": "/40dvXL5JnLn5DMJHobY6YRnIjBY.jpg",
+                  "order": 6,
+                  "id": 1982173
+                },
+                {
+                  "name": "Luellem de Castro",
+                  "character": "Leka",
+                  "profile_path": "/lMz3q2elHUnikQ2FyejO08fWb6t.jpg",
+                  "order": 7,
+                  "id": 2658367
+                },
+                {
+                  "name": "Kiko Marques",
+                  "character": "Reginaldo",
+                  "profile_path": "/oKpXAcQF752JhHeYcHKC6gY19W3.jpg",
+                  "order": 8,
+                  "id": 2483242
+                },
+                {
+                  "name": "Victor Andrade",
+                  "character": "Geninho",
+                  "profile_path": "/fuY2v4zDhKBe9hoPmMkQvEudIZo.jpg",
+                  "order": 9,
+                  "id": 4923629
+                },
+                {
+                  "name": "Edson Oliveira",
+                  "character": "Barbantinho",
+                  "profile_path": "/g4M40dkW9vxRtAzbu9oUNWClCyB.jpg",
+                  "order": 10,
+                  "id": 3582522
+                },
+                {
+                  "name": "Demétrio Nascimento",
+                  "character": "PQD",
+                  "profile_path": "/yyBi1D4DI604I7EVJvR2IiXrT5W.jpg",
+                  "order": 13,
+                  "id": 4917349
+                },
+                {
+                  "name": "Felipe Paulino",
+                  "character": "Pézinho",
+                  "profile_path": "/19rmLsGHuZ2Hc16lGpkyMenGHtq.jpg",
+                  "order": 14,
+                  "id": 2097770
+                },
+                {
+                  "name": "Matheus Nachtergaele",
+                  "character": "Cenoura",
+                  "profile_path": "/zgTT5AP7NYa2hN0jUqHIHkNyp2v.jpg",
+                  "order": 16,
+                  "id": 8600
+                },
+                {
+                  "name": "Renan Novaez",
+                  "character": "",
+                  "profile_path": "/wgLTs4ly11IYDK3Km1sMVIyuB8A.jpg",
+                  "order": 17,
+                  "id": 5606753
+                }
+              ],
+              "crew": [],
+              "external_ids": {
+                "imdb_id": null,
+                "freebase_mid": null,
+                "freebase_id": null,
+                "tvdb_id": null,
+                "tvrage_id": null,
+                "wikidata_id": null
+              },
+              "sources": [
+                {
+                  "label": "Original",
+                  "type": "Link direto",
+                  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC90LXYtcy1oLW8tdy1zMDIvMjIzMzk3LTAyLTA2Lm1rdg==",
+                  "language": "Português (Brasil)",
+                  "quality": "1080p"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "_link_encoding": "base64"
 }
