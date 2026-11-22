@@ -480,6 +480,546 @@
           "profile_path": "/96eZLUm3VvtPC4hpYfPlngfItoO.jpg"
         }
       ]
+    },
+    {
+      "type": "movie",
+      "title": "Uma Namorada Para Meu Pai",
+      "original_title": "My Dad's Christmas Date",
+      "tmdb_id": "754053",
+      "id": 754053,
+      "year": "2020",
+      "release_date": "2020-12-03",
+      "overview": "Depois da morte da mãe, a relação de Jules e seu pai vai de mal a pior. Para tirá-lo do seu pé, ela resolve inscrevê-lo em segredo em sites de namoro na época do Natal.",
+      "tagline": "",
+      "poster": "/aR6qZvVKJ4j8nObt7IUsuae05tA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/aAm4qRCzWB9l5XTuuCdrhNpiyyH.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/5467Bxl8H2wohWPZSmKHEQY6dCX.png",
+      "trailer": "",
+      "vote_average": 6.2,
+      "vote_count": 56,
+      "genres": [
+        "Romance",
+        "Comédia"
+      ],
+      "tags": [],
+      "runtime": 90,
+      "certification": "NR",
+      "original_language": "en",
+      "origin_country": [
+        "GB"
+      ],
+      "production_companies": [
+        "Goldfinch",
+        "Highfield Grange Studios",
+        "SPI International",
+        "MSR Media"
+      ],
+      "external_ids": {
+        "imdb_id": "tt11457736",
+        "wikidata_id": "Q116051311",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "sources": [
+        {
+          "url": "bWFnbmV0Oj94dD11cm46YnRpaDprdWV3cHg1ZzJkbjNmZHA2eTV6aTQ0dXB2bW5qMjRqYg==",
+          "label": "Torrent",
+          "quality": "1080P",
+          "language": "Português / Inglês"
+        }
+      ],
+      "cast": [
+        {
+          "name": "Jeremy Piven",
+          "character": "David",
+          "profile_path": "/pBD1jcAZiDrHWcFpJtBtqLRD4gR.jpg",
+          "order": 0,
+          "id": 12799
+        },
+        {
+          "name": "Olivia-Mai Barrett",
+          "character": "Jules",
+          "profile_path": "/gWZRzvOnUxZmvdzHuxBvIS0BEJP.jpg",
+          "order": 1,
+          "id": 2723390
+        },
+        {
+          "name": "Hadar Cats",
+          "character": "Emma",
+          "profile_path": "/jIDjjQ7yBkMYhZ6HC0e4CshrDEH.jpg",
+          "order": 2,
+          "id": 2848270
+        },
+        {
+          "name": "Joely Richardson",
+          "character": "Sarah",
+          "profile_path": "/yv6aLd1TY06HUJqZshEfs8j5twD.jpg",
+          "order": 3,
+          "id": 20810
+        },
+        {
+          "name": "Megan Brown Martinez",
+          "character": "Claire",
+          "profile_path": "/jUZWnffw7dy1imnfc1zNccYv3yQ.jpg",
+          "order": 4,
+          "id": 1169284
+        },
+        {
+          "name": "Felix Butterwick",
+          "character": "Ben",
+          "profile_path": "",
+          "order": 5,
+          "id": 2864595
+        },
+        {
+          "name": "Sophie Corcoran",
+          "character": "Natasha",
+          "profile_path": "",
+          "order": 6,
+          "id": 2864597
+        },
+        {
+          "name": "Janine Craig",
+          "character": "Caroline",
+          "profile_path": "",
+          "order": 7,
+          "id": 2864598
+        },
+        {
+          "name": "Sofie Golding-Spittle",
+          "character": "Kate",
+          "profile_path": "",
+          "order": 8,
+          "id": 2259688
+        },
+        {
+          "name": "Indi Golding-Spittle",
+          "character": "Alice",
+          "profile_path": "",
+          "order": 9,
+          "id": 2864625
+        },
+        {
+          "name": "Sarah Schubert",
+          "character": "Lea",
+          "profile_path": "",
+          "order": 10,
+          "id": 2864648
+        },
+        {
+          "name": "Rebecca Mellor",
+          "character": "Veronica",
+          "profile_path": "",
+          "order": 11,
+          "id": 2864631
+        },
+        {
+          "name": "Genevieve Capovilla",
+          "character": "Amanda",
+          "profile_path": "/k3gzEo7hWIIyncxAsOXJF5w2IQf.jpg",
+          "order": 12,
+          "id": 1184334
+        },
+        {
+          "name": "Roger Ashton-Griffiths",
+          "character": "Mr. Thompson",
+          "profile_path": "/dl5Otj3C7tQVrPJvTWh9Iei1Ofy.jpg",
+          "order": 13,
+          "id": 20243
+        },
+        {
+          "name": "Louise Bangay",
+          "character": "Aunt Tammy",
+          "profile_path": "/i9Ai0XX9nkkDkvcHZb43C7rWH4R.jpg",
+          "order": 14,
+          "id": 2392724
+        },
+        {
+          "name": "Paul Gerrard",
+          "character": "Uncle George",
+          "profile_path": "/ogk6filxj2KrpBg8t4iCZJ5Zet9.jpg",
+          "order": 15,
+          "id": 2864623
+        },
+        {
+          "name": "Sam Rintoul",
+          "character": "Jeremy",
+          "profile_path": "/oRrRaaKY2Yj97sN3mZONTfm7yO2.jpg",
+          "order": 16,
+          "id": 2032129
+        },
+        {
+          "name": "Jane Thorne",
+          "character": "Old Lady",
+          "profile_path": "/wZnyLVOfkIrhEsNQFADSa5bAeBw.jpg",
+          "order": 17,
+          "id": 210950
+        },
+        {
+          "name": "Christopher Ryan",
+          "character": "Chords Man",
+          "profile_path": "/vWUUWNrWUzbxeTKQluoPMKEHXm1.jpg",
+          "order": 18,
+          "id": 1225782
+        },
+        {
+          "name": "Paul Lancaster",
+          "character": "Tweed Man",
+          "profile_path": "/3alcz9s2t21NAHQ0J8t8z3274IQ.jpg",
+          "order": 19,
+          "id": 1786454
+        },
+        {
+          "name": "Philip Gascoyne",
+          "character": "Party Guest",
+          "profile_path": "/oS6YDniKvcbG9PwmNDyQa4fLVUA.jpg",
+          "order": 20,
+          "id": 1525071
+        },
+        {
+          "name": "Caroline Roussel",
+          "character": "Party Guest",
+          "profile_path": "/Apiyn8ohqIxdMu96EzT3JwPS3Wg.jpg",
+          "order": 21,
+          "id": 2864644
+        },
+        {
+          "name": "Anna Walton",
+          "character": "Rachel",
+          "profile_path": "/gm1FEUiBGzP8BkOOujoWGFg6G4z.jpg",
+          "order": 22,
+          "id": 221553
+        },
+        {
+          "name": "Dane Foxx",
+          "character": "Phil",
+          "profile_path": "/k9c2ELzSndTIUqbfeM9demV3UiK.jpg",
+          "order": 23,
+          "id": 2864619
+        },
+        {
+          "name": "Wade Crouch",
+          "character": "Tom",
+          "profile_path": "",
+          "order": 24,
+          "id": 2864602
+        },
+        {
+          "name": "Michael Maloney",
+          "character": "Mike",
+          "profile_path": "/si6FZSfm1KNDqG1o6Db6Xeha1LB.jpg",
+          "order": 25,
+          "id": 17483
+        },
+        {
+          "name": "Layla Tansey",
+          "character": "Sarah's Daughter",
+          "profile_path": "",
+          "order": 26,
+          "id": 2864650
+        },
+        {
+          "name": "Kasper Tansey",
+          "character": "Sarah's Son",
+          "profile_path": "",
+          "order": 27,
+          "id": 2864649
+        },
+        {
+          "name": "Rebecca Dike",
+          "character": "Sophie",
+          "profile_path": "/9LuZ2V21ZZblYdF5cEIHsPSdGl4.jpg",
+          "order": 28,
+          "id": 2864603
+        },
+        {
+          "name": "Joelle Rae",
+          "character": "Bea",
+          "profile_path": "/x8juBpJknLyUgbElBX7j2nqvVlR.jpg",
+          "order": 29,
+          "id": 2864637
+        },
+        {
+          "name": "Nathalie Cox",
+          "character": "Laura",
+          "profile_path": "/A5ULB0C1wS52vOZCoPx52SrNsiL.jpg",
+          "order": 30,
+          "id": 17337
+        },
+        {
+          "name": "Leyla Bolci",
+          "character": "Young Jules",
+          "profile_path": "",
+          "order": 31,
+          "id": 5929705
+        },
+        {
+          "name": "Rafael Martinez",
+          "character": "Tiny Tim",
+          "profile_path": "",
+          "order": 32,
+          "id": 3748005
+        },
+        {
+          "name": "Kenneth Hardman",
+          "character": "Scrooge",
+          "profile_path": "",
+          "order": 33,
+          "id": 5929706
+        },
+        {
+          "name": "Abigail Moore",
+          "character": "Dad's Date 1 (Natasha)",
+          "profile_path": "",
+          "order": 34,
+          "id": 2950776
+        },
+        {
+          "name": "Marie McGonigle",
+          "character": "Dad's Date 2 (Caroline)",
+          "profile_path": "",
+          "order": 35,
+          "id": 2840700
+        },
+        {
+          "name": "Isobel Raine",
+          "character": "Dad's Date 3 (Lea)",
+          "profile_path": "",
+          "order": 36,
+          "id": 1656143
+        },
+        {
+          "name": "Sarah-Jane Dent",
+          "character": "Dad's Date 4 (Veronica)",
+          "profile_path": "",
+          "order": 37,
+          "id": 2261890
+        },
+        {
+          "name": "Michael Rocks",
+          "character": "Bagpiper",
+          "profile_path": "",
+          "order": 38,
+          "id": 5929708
+        },
+        {
+          "name": "Claire Palmer",
+          "character": "Caroler - Soprano",
+          "profile_path": "",
+          "order": 39,
+          "id": 3716006
+        }
+      ],
+      "crew": [
+        {
+          "name": "Loni Farhi",
+          "job": "Producer",
+          "department": "Production",
+          "id": 2817714,
+          "profile_path": ""
+        },
+        {
+          "name": "Mick Davis",
+          "job": "Director",
+          "department": "Directing",
+          "id": 59248,
+          "profile_path": ""
+        },
+        {
+          "name": "Philippe Martinez",
+          "job": "Producer",
+          "department": "Production",
+          "id": 40282,
+          "profile_path": "/xqAfacAUe4YRq3BcGIlh4WE5YPn.jpg"
+        },
+        {
+          "name": "Alan Latham",
+          "job": "Producer",
+          "department": "Production",
+          "id": 54742,
+          "profile_path": ""
+        },
+        {
+          "name": "Ross W. Clarkson",
+          "job": "Director of Photography",
+          "department": "Camera",
+          "id": 1069627,
+          "profile_path": "/dH8SItxQMfo02RSUEG4WZ51aOoI.jpg"
+        },
+        {
+          "name": "Jack Rose",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 2907343,
+          "profile_path": ""
+        },
+        {
+          "name": "Dom Sky",
+          "job": "Original Music Composer",
+          "department": "Sound",
+          "id": 5093348,
+          "profile_path": ""
+        },
+        {
+          "name": "Jeremy Zimmermann",
+          "job": "Casting",
+          "department": "Production",
+          "id": 8313,
+          "profile_path": "/nbC7GANydA7g5ew8QmtxoCfdYpw.jpg"
+        },
+        {
+          "name": "Victoria Richards",
+          "job": "Production Design",
+          "department": "Art",
+          "id": 2502180,
+          "profile_path": ""
+        },
+        {
+          "name": "Jessica Matisak",
+          "job": "Makeup & Hair",
+          "department": "Costume & Make-Up",
+          "id": 5929591,
+          "profile_path": ""
+        },
+        {
+          "name": "Frederic Fournier",
+          "job": "Editor",
+          "department": "Editing",
+          "id": 4577776,
+          "profile_path": ""
+        },
+        {
+          "name": "Luke Smith",
+          "job": "Editor",
+          "department": "Editing",
+          "id": 3399843,
+          "profile_path": ""
+        },
+        {
+          "name": "Thomas Mattinson",
+          "job": "Supervising Producer",
+          "department": "Production",
+          "id": 1378023,
+          "profile_path": ""
+        },
+        {
+          "name": "Jane Widgery",
+          "job": "Associate Producer",
+          "department": "Production",
+          "id": 3474444,
+          "profile_path": ""
+        },
+        {
+          "name": "Lisa Gabriel",
+          "job": "Associate Producer",
+          "department": "Production",
+          "id": 5929594,
+          "profile_path": ""
+        },
+        {
+          "name": "Kirsty Bell",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1210875,
+          "profile_path": ""
+        },
+        {
+          "name": "Karinne Behr",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 2221869,
+          "profile_path": ""
+        },
+        {
+          "name": "Lee Beasley",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 3474455,
+          "profile_path": ""
+        },
+        {
+          "name": "Phil McKenzie",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 2446629,
+          "profile_path": ""
+        },
+        {
+          "name": "Berk Uziyel",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 5929598,
+          "profile_path": ""
+        },
+        {
+          "name": "Jamie R. Thompson",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 587844,
+          "profile_path": ""
+        },
+        {
+          "name": "Ruth Cats",
+          "job": "Executive Producer",
+          "department": "Production",
+          "id": 1799522,
+          "profile_path": ""
+        },
+        {
+          "name": "Toby Torlesse",
+          "job": "Screenplay",
+          "department": "Writing",
+          "id": 2576260,
+          "profile_path": ""
+        },
+        {
+          "name": "Brian Marchetti",
+          "job": "Screenplay",
+          "department": "Writing",
+          "id": 2189920,
+          "profile_path": ""
+        },
+        {
+          "name": "Jack Marchetti",
+          "job": "Screenplay",
+          "department": "Writing",
+          "id": 2189922,
+          "profile_path": ""
+        }
+      ],
+      "directors": [
+        {
+          "name": "Mick Davis",
+          "job": "Director",
+          "department": "Directing",
+          "id": 59248,
+          "profile_path": ""
+        }
+      ],
+      "writers": [
+        {
+          "name": "Toby Torlesse",
+          "job": "Screenplay",
+          "department": "Writing",
+          "id": 2576260,
+          "profile_path": ""
+        },
+        {
+          "name": "Brian Marchetti",
+          "job": "Screenplay",
+          "department": "Writing",
+          "id": 2189920,
+          "profile_path": ""
+        },
+        {
+          "name": "Jack Marchetti",
+          "job": "Screenplay",
+          "department": "Writing",
+          "id": 2189922,
+          "profile_path": ""
+        }
+      ]
     }
   ],
   "_link_encoding": "base64"
