@@ -1,0 +1,11 @@
+{
+  "format": "qf-delta-manifest-v1",
+  "version": 1,
+  "updates": [
+    {
+      "version": 1795727950335,
+      "path": "catalogo_quickfilmes.json.updates/1795727950335-13j0ue.json",
+      "url": "https://raw.githubusercontent.com/boxxml/catalogo_quickfilmes/main/catalogo_quickfilmes.json.updates/1795727950335-13j0ue.json"
+    }
+  ]
+}
