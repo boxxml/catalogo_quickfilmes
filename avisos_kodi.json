@@ -31,6 +31,14 @@
       "target": "FELIPE",
       "type": "info",
       "created_at": "2026-11-26T23:18:58.087Z"
+    },
+    {
+      "id": "kubj-1795746167890-b2omna9",
+      "title": "Pedido de filme concluído",
+      "message": "Seu pedido foi concluído! O filme já está disponível no QUICKPLAY.",
+      "target": "*",
+      "type": "info",
+      "created_at": "2026-11-27T02:22:47.890Z"
     }
   ]
 }
